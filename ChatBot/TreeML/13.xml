@@ -1,0 +1,2014 @@
+<tree id="13" edgedefault="directed">
+<node Id="0" Action="null" Cost="0.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser recuperatorio - Nodo Actual: recuperatorio - Reglas: (1) (2) (75) (76) - Despedirse: 0
+"/>
+<node Id="1" Action="IrQue" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="2" Action="IrFinal" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="3" Action="IrNota" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota - Nodo Actual: nota - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="4" Action="IrEntregar" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar - Nodo Actual: entregar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="5" Action="IrObjetivo" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser objetivo - Nodo Actual: objetivo - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="6" Action="IrEvaluar" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser evaluar - Nodo Actual: evaluar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="7" Action="IrSitio" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser sitio - Nodo Actual: sitio - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="8" Action="IrApunte" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser apunte - Nodo Actual: apunte - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="9" Action="IrTp" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="10" Action="IrMail" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser mail - Nodo Actual: mail - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="11" Action="IrFecha" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha - Nodo Actual: fecha - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="12" Action="IrCharla" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla - Nodo Actual: charla - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="13" Action="IrColoquio" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser coloquio - Nodo Actual: coloquio - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="14" Action="IrFramework" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser framework - Nodo Actual: framework - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="15" Action="IrLlamar" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar - Nodo Actual: llamar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="16" Action="IrTema" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema - Nodo Actual: tema - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="17" Action="IrRecuperatorio" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser recuperatorio - Nodo Actual: recuperatorio - Reglas: (1) (2) (75) (76) - Despedirse: 0
+"/>
+<node Id="18" Action="IrModalidad" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser modalidad - Nodo Actual: modalidad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="19" Action="IrParcial" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="20" Action="IrLibro" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser libro - Nodo Actual: libro - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="21" Action="IrPorcentaje" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser porcentaje - Nodo Actual: porcentaje - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="22" Action="IrBibliografia" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser bibliografia - Nodo Actual: bibliografia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="23" Action="IrClase" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser clase - Nodo Actual: clase - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="24" Action="IrProfesor" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser profesor - Nodo Actual: profesor - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="25" Action="IrProfesora" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser profesora - Nodo Actual: profesora - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="26" Action="IrHorario" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser horario - Nodo Actual: horario - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="27" Action="IrPractica" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="28" Action="IrTeoria" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="29" Action="IrConsulta" Cost="-1.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser consulta - Nodo Actual: consulta - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="30" Action="IrHola" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="31" Action="IrEstar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="32" Action="IrIr" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="33" Action="IrRealizar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="34" Action="IrEvaluar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="35" Action="IrCharla" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="36" Action="IrDonde" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="37" Action="IrComo" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como - Nodo Actual: como - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="38" Action="IrCuantas" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="39" Action="IrCuando" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="40" Action="IrCual" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="41" Action="IrQuien" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="42" Action="IrEstar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="43" Action="IrEstar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="44" Action="IrInformar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como informar - Nodo Actual: informar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="45" Action="IrConformar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como conformar - Nodo Actual: conformar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="46" Action="IrOrganizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como organizar - Nodo Actual: organizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="47" Action="IrRegularizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="48" Action="IrIr" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="49" Action="IrEntregar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="50" Action="IrPromocionar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="51" Action="IrCalcular" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular - Nodo Actual: calcular - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="52" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="53" Action="IrEvaluar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="54" Action="IrAprobar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como aprobar - Nodo Actual: aprobar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="55" Action="IrLlamar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar - Nodo Actual: llamar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="56" Action="IrGrupo" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como informar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="57" Action="IrGrupo" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como conformar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="58" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como organizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="59" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="60" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="61" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="62" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="63" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="64" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="65" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="66" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="67" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="68" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="69" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="70" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="71" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="72" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="73" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="74" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="75" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="76" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="77" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="78" Action="IrNota" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota - Nodo Actual: nota - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="79" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="80" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="81" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="82" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="83" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="84" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="85" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="86" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como calcular nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="87" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="88" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="89" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="90" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="91" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="92" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="93" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="94" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="95" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="96" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="97" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="98" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="99" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como aprobar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="100" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como aprobar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="101" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como aprobar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="102" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="103" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="104" Action="IrFramework" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar framework - Nodo Actual: framework - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="105" Action="IrAgente" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar agente - Nodo Actual: agente - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="106" Action="IrLibro" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar libro - Nodo Actual: libro - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="107" Action="IrProfesor" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar profesor - Nodo Actual: profesor - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="108" Action="IrProfesora" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar profesora - Nodo Actual: profesora - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="109" Action="IrAyudante" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar ayudante - Nodo Actual: ayudante - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="110" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar agente tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="111" Action="IrPractica" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar profesor practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="112" Action="IrTeoria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="113" Action="IrPractica" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar profesora practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="114" Action="IrTeoria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola como llamar profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="115" Action="IrEntregar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="116" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="117" Action="IrCharla" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="118" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="119" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="120" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="121" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="122" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="123" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="124" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="125" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="126" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="127" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="128" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="129" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="130" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="131" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="132" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="133" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="134" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="135" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="136" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="137" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="138" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="139" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="140" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="141" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="142" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuantas charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="143" Action="IrEntregar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="144" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="145" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="146" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="147" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="148" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="149" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="150" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="151" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="152" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="153" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="154" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="155" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="156" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="157" Action="IrFinal" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="158" Action="IrActividad" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="159" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="160" Action="IrRegularizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="161" Action="IrPromocionar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="162" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="163" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="164" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="165" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="166" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="167" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="168" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="169" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="170" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="171" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="172" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="173" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="174" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="175" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="176" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="177" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="178" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="179" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="180" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser que charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="181" Action="IrRegularizar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="182" Action="IrPromocionar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="183" Action="IrMateria" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="184" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="185" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="186" Action="IrMateria" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="187" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="188" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="189" Action="IrRegularizar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="190" Action="IrPromocionar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="191" Action="IrMateria" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="192" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="193" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="194" Action="IrMateria" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="195" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="196" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="197" Action="IrRealizar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="198" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="199" Action="IrFinal" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="200" Action="IrActividad" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="201" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="202" Action="IrRegularizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="203" Action="IrPromocionar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="204" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="205" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="206" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="207" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="208" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="209" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="210" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser objetivo materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="211" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser evaluar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="212" Action="IrEntregar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar - Nodo Actual: entregar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="213" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="214" Action="IrRecuperatorio" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha recuperatorio - Nodo Actual: recuperatorio - Reglas: (1) (2) (75) (76) - Despedirse: 0
+"/>
+<node Id="215" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="216" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="217" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="218" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="219" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="220" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="221" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="222" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="223" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="224" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="225" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="226" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="227" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="228" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser fecha entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="229" Action="IrQue" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="230" Action="IrRealizar" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="231" Action="IrHola" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="232" Action="IrEstar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="233" Action="IrIr" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="234" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="235" Action="IrEvaluar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="236" Action="IrDonde" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="237" Action="IrComo" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como - Nodo Actual: como - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="238" Action="IrCuantas" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="239" Action="IrCuando" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="240" Action="IrCual" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="241" Action="IrQuien" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="242" Action="IrEstar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="243" Action="IrEstar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="244" Action="IrInformar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como informar - Nodo Actual: informar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="245" Action="IrConformar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como conformar - Nodo Actual: conformar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="246" Action="IrOrganizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como organizar - Nodo Actual: organizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="247" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="248" Action="IrIr" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="249" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="250" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="251" Action="IrCalcular" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular - Nodo Actual: calcular - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="252" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="253" Action="IrEvaluar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="254" Action="IrAprobar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como aprobar - Nodo Actual: aprobar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="255" Action="IrLlamar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar - Nodo Actual: llamar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="256" Action="IrGrupo" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como informar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="257" Action="IrGrupo" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como conformar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="258" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como organizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="259" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="260" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="261" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="262" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="263" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="264" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="265" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="266" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="267" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="268" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="269" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="270" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="271" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="272" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="273" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="274" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="275" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="276" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="277" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="278" Action="IrNota" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota - Nodo Actual: nota - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="279" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="280" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="281" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="282" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="283" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="284" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="285" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="286" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como calcular nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="287" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="288" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="289" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="290" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="291" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="292" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="293" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="294" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="295" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="296" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="297" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="298" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="299" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como aprobar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="300" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como aprobar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="301" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como aprobar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="302" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="303" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="304" Action="IrFramework" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar framework - Nodo Actual: framework - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="305" Action="IrAgente" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar agente - Nodo Actual: agente - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="306" Action="IrLibro" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar libro - Nodo Actual: libro - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="307" Action="IrProfesor" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar profesor - Nodo Actual: profesor - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="308" Action="IrProfesora" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar profesora - Nodo Actual: profesora - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="309" Action="IrAyudante" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar ayudante - Nodo Actual: ayudante - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="310" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar agente tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="311" Action="IrPractica" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar profesor practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="312" Action="IrTeoria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="313" Action="IrPractica" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar profesora practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="314" Action="IrTeoria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola como llamar profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="315" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="316" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="317" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="318" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="319" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="320" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="321" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="322" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="323" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="324" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="325" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="326" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="327" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="328" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="329" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="330" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="331" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="332" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="333" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="334" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="335" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="336" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="337" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="338" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="339" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="340" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="341" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="342" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="343" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="344" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="345" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="346" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="347" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="348" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="349" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="350" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="351" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="352" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="353" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="354" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="355" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="356" Action="IrFinal" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="357" Action="IrActividad" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="358" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="359" Action="IrRegularizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="360" Action="IrPromocionar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="361" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="362" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="363" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="364" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="365" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="366" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="367" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="368" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="369" Action="IrFramework" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar framework - Nodo Actual: framework - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="370" Action="IrAgente" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar agente - Nodo Actual: agente - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="371" Action="IrLibro" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar libro - Nodo Actual: libro - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="372" Action="IrProfesor" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar profesor - Nodo Actual: profesor - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="373" Action="IrProfesora" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar profesora - Nodo Actual: profesora - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="374" Action="IrAyudante" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar ayudante - Nodo Actual: ayudante - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="375" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar agente tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="376" Action="IrPractica" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar profesor practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="377" Action="IrTeoria" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="378" Action="IrPractica" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar profesora practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="379" Action="IrTeoria" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser llamar profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="380" Action="IrQue" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="381" Action="IrCharla" Cost="-2.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla - Nodo Actual: charla - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="382" Action="IrHola" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="383" Action="IrEstar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="384" Action="IrIr" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="385" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="386" Action="IrEvaluar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="387" Action="IrCharla" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="388" Action="IrDonde" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="389" Action="IrComo" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como - Nodo Actual: como - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="390" Action="IrCuantas" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="391" Action="IrCuando" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="392" Action="IrCual" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="393" Action="IrQuien" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="394" Action="IrEstar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="395" Action="IrEstar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="396" Action="IrInformar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como informar - Nodo Actual: informar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="397" Action="IrConformar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como conformar - Nodo Actual: conformar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="398" Action="IrOrganizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como organizar - Nodo Actual: organizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="399" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="400" Action="IrIr" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="401" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="402" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="403" Action="IrCalcular" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular - Nodo Actual: calcular - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="404" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="405" Action="IrEvaluar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="406" Action="IrAprobar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como aprobar - Nodo Actual: aprobar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="407" Action="IrLlamar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar - Nodo Actual: llamar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="408" Action="IrGrupo" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como informar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="409" Action="IrGrupo" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como conformar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="410" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como organizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="411" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="412" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="413" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="414" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="415" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="416" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="417" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="418" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="419" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="420" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="421" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="422" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="423" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="424" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="425" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="426" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="427" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="428" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="429" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="430" Action="IrNota" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota - Nodo Actual: nota - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="431" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="432" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="433" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="434" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="435" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="436" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="437" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="438" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como calcular nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="439" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="440" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="441" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="442" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="443" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="444" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="445" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="446" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="447" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="448" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="449" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="450" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="451" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como aprobar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="452" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como aprobar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="453" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como aprobar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="454" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="455" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="456" Action="IrFramework" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar framework - Nodo Actual: framework - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="457" Action="IrAgente" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar agente - Nodo Actual: agente - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="458" Action="IrLibro" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar libro - Nodo Actual: libro - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="459" Action="IrProfesor" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar profesor - Nodo Actual: profesor - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="460" Action="IrProfesora" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar profesora - Nodo Actual: profesora - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="461" Action="IrAyudante" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar ayudante - Nodo Actual: ayudante - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="462" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar agente tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="463" Action="IrPractica" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar profesor practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="464" Action="IrTeoria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="465" Action="IrPractica" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar profesora practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="466" Action="IrTeoria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola como llamar profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="467" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="468" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="469" Action="IrCharla" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="470" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="471" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="472" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="473" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="474" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="475" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="476" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="477" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="478" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="479" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="480" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="481" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="482" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="483" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="484" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="485" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="486" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="487" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="488" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="489" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="490" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="491" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="492" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="493" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="494" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuantas charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="495" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="496" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="497" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="498" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="499" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="500" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="501" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="502" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="503" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="504" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="505" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="506" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="507" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="508" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="509" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="510" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="511" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="512" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="513" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="514" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="515" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="516" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="517" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="518" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="519" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="520" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="521" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="522" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="523" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="524" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="525" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="526" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="527" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="528" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="529" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="530" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="531" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="532" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema que charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="533" Action="IrQue" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="534" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="535" Action="IrHola" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="536" Action="IrEstar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="537" Action="IrIr" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="538" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="539" Action="IrEvaluar" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="540" Action="IrDonde" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="541" Action="IrComo" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como - Nodo Actual: como - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="542" Action="IrCuantas" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="543" Action="IrCuando" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="544" Action="IrCual" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="545" Action="IrQuien" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="546" Action="IrEstar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="547" Action="IrEstar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="548" Action="IrInformar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como informar - Nodo Actual: informar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="549" Action="IrConformar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como conformar - Nodo Actual: conformar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="550" Action="IrOrganizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como organizar - Nodo Actual: organizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="551" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="552" Action="IrIr" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="553" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="554" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="555" Action="IrCalcular" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular - Nodo Actual: calcular - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="556" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="557" Action="IrEvaluar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="558" Action="IrAprobar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como aprobar - Nodo Actual: aprobar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="559" Action="IrLlamar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar - Nodo Actual: llamar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="560" Action="IrGrupo" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como informar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="561" Action="IrGrupo" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como conformar grupo - Nodo Actual: grupo - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="562" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como organizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="563" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="564" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="565" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="566" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="567" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="568" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="569" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="570" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="571" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="572" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="573" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="574" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="575" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="576" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="577" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="578" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="579" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="580" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="581" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="582" Action="IrNota" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota - Nodo Actual: nota - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="583" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="584" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="585" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="586" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="587" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="588" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="589" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="590" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como calcular nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="591" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="592" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="593" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="594" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="595" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="596" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="597" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="598" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="599" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="600" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="601" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="602" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="603" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como aprobar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="604" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como aprobar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="605" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como aprobar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="606" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="607" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="608" Action="IrFramework" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar framework - Nodo Actual: framework - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="609" Action="IrAgente" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar agente - Nodo Actual: agente - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="610" Action="IrLibro" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar libro - Nodo Actual: libro - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="611" Action="IrProfesor" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar profesor - Nodo Actual: profesor - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="612" Action="IrProfesora" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar profesora - Nodo Actual: profesora - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="613" Action="IrAyudante" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar ayudante - Nodo Actual: ayudante - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="614" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar agente tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="615" Action="IrPractica" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar profesor practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="616" Action="IrTeoria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="617" Action="IrPractica" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar profesora practica - Nodo Actual: practica - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="618" Action="IrTeoria" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola como llamar profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="619" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="620" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="621" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="622" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="623" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="624" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="625" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="626" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="627" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="628" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="629" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="630" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="631" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="632" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="633" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="634" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="635" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="636" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="637" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="638" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="639" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="640" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="641" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="642" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="643" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="644" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="645" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="646" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="647" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="648" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="649" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="650" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="651" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="652" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="653" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="654" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="655" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="656" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="657" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="658" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="659" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="660" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="661" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="662" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="663" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="664" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="665" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="666" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="667" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="668" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="669" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="670" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: cuando ser recuperatorio - Tipo percepcion:   - Cadena Actual: cuando ser tema charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<edge source="0" target="1"/>
+<edge source="0" target="2"/>
+<edge source="0" target="3"/>
+<edge source="0" target="4"/>
+<edge source="0" target="5"/>
+<edge source="0" target="6"/>
+<edge source="0" target="7"/>
+<edge source="0" target="8"/>
+<edge source="0" target="9"/>
+<edge source="0" target="10"/>
+<edge source="0" target="11"/>
+<edge source="0" target="12"/>
+<edge source="0" target="13"/>
+<edge source="0" target="14"/>
+<edge source="0" target="15"/>
+<edge source="0" target="16"/>
+<edge source="0" target="17"/>
+<edge source="0" target="18"/>
+<edge source="0" target="19"/>
+<edge source="0" target="20"/>
+<edge source="0" target="21"/>
+<edge source="0" target="22"/>
+<edge source="0" target="23"/>
+<edge source="0" target="24"/>
+<edge source="0" target="25"/>
+<edge source="0" target="26"/>
+<edge source="0" target="27"/>
+<edge source="0" target="28"/>
+<edge source="0" target="29"/>
+<edge source="1" target="30"/>
+<edge source="1" target="31"/>
+<edge source="1" target="32"/>
+<edge source="1" target="33"/>
+<edge source="1" target="34"/>
+<edge source="1" target="35"/>
+<edge source="2" target="181"/>
+<edge source="2" target="182"/>
+<edge source="3" target="189"/>
+<edge source="3" target="190"/>
+<edge source="4" target="197"/>
+<edge source="4" target="198"/>
+<edge source="5" target="210"/>
+<edge source="6" target="211"/>
+<edge source="11" target="212"/>
+<edge source="11" target="213"/>
+<edge source="11" target="214"/>
+<edge source="11" target="215"/>
+<edge source="12" target="229"/>
+<edge source="12" target="230"/>
+<edge source="15" target="367"/>
+<edge source="15" target="368"/>
+<edge source="15" target="369"/>
+<edge source="15" target="370"/>
+<edge source="15" target="371"/>
+<edge source="15" target="372"/>
+<edge source="15" target="373"/>
+<edge source="15" target="374"/>
+<edge source="16" target="380"/>
+<edge source="16" target="381"/>
+<edge source="30" target="36"/>
+<edge source="30" target="37"/>
+<edge source="30" target="38"/>
+<edge source="30" target="39"/>
+<edge source="30" target="40"/>
+<edge source="30" target="41"/>
+<edge source="33" target="157"/>
+<edge source="33" target="158"/>
+<edge source="33" target="159"/>
+<edge source="34" target="168"/>
+<edge source="35" target="169"/>
+<edge source="36" target="42"/>
+<edge source="37" target="43"/>
+<edge source="37" target="44"/>
+<edge source="37" target="45"/>
+<edge source="37" target="46"/>
+<edge source="37" target="47"/>
+<edge source="37" target="48"/>
+<edge source="37" target="49"/>
+<edge source="37" target="50"/>
+<edge source="37" target="51"/>
+<edge source="37" target="52"/>
+<edge source="37" target="53"/>
+<edge source="37" target="54"/>
+<edge source="37" target="55"/>
+<edge source="38" target="115"/>
+<edge source="38" target="116"/>
+<edge source="38" target="117"/>
+<edge source="39" target="143"/>
+<edge source="44" target="56"/>
+<edge source="45" target="57"/>
+<edge source="46" target="58"/>
+<edge source="47" target="59"/>
+<edge source="47" target="60"/>
+<edge source="47" target="61"/>
+<edge source="49" target="62"/>
+<edge source="49" target="63"/>
+<edge source="50" target="75"/>
+<edge source="50" target="76"/>
+<edge source="50" target="77"/>
+<edge source="51" target="78"/>
+<edge source="52" target="87"/>
+<edge source="52" target="88"/>
+<edge source="52" target="89"/>
+<edge source="53" target="98"/>
+<edge source="54" target="99"/>
+<edge source="54" target="100"/>
+<edge source="54" target="101"/>
+<edge source="55" target="102"/>
+<edge source="55" target="103"/>
+<edge source="55" target="104"/>
+<edge source="55" target="105"/>
+<edge source="55" target="106"/>
+<edge source="55" target="107"/>
+<edge source="55" target="108"/>
+<edge source="55" target="109"/>
+<edge source="62" target="64"/>
+<edge source="62" target="65"/>
+<edge source="62" target="66"/>
+<edge source="64" target="67"/>
+<edge source="64" target="68"/>
+<edge source="67" target="69"/>
+<edge source="67" target="70"/>
+<edge source="67" target="71"/>
+<edge source="68" target="72"/>
+<edge source="68" target="73"/>
+<edge source="68" target="74"/>
+<edge source="78" target="79"/>
+<edge source="78" target="80"/>
+<edge source="79" target="81"/>
+<edge source="79" target="82"/>
+<edge source="79" target="83"/>
+<edge source="80" target="84"/>
+<edge source="80" target="85"/>
+<edge source="80" target="86"/>
+<edge source="87" target="90"/>
+<edge source="87" target="91"/>
+<edge source="90" target="92"/>
+<edge source="90" target="93"/>
+<edge source="90" target="94"/>
+<edge source="91" target="95"/>
+<edge source="91" target="96"/>
+<edge source="91" target="97"/>
+<edge source="105" target="110"/>
+<edge source="107" target="111"/>
+<edge source="107" target="112"/>
+<edge source="108" target="113"/>
+<edge source="108" target="114"/>
+<edge source="115" target="118"/>
+<edge source="115" target="119"/>
+<edge source="117" target="131"/>
+<edge source="118" target="120"/>
+<edge source="118" target="121"/>
+<edge source="118" target="122"/>
+<edge source="120" target="123"/>
+<edge source="120" target="124"/>
+<edge source="123" target="125"/>
+<edge source="123" target="126"/>
+<edge source="123" target="127"/>
+<edge source="124" target="128"/>
+<edge source="124" target="129"/>
+<edge source="124" target="130"/>
+<edge source="131" target="132"/>
+<edge source="131" target="133"/>
+<edge source="131" target="134"/>
+<edge source="132" target="135"/>
+<edge source="132" target="136"/>
+<edge source="135" target="137"/>
+<edge source="135" target="138"/>
+<edge source="135" target="139"/>
+<edge source="136" target="140"/>
+<edge source="136" target="141"/>
+<edge source="136" target="142"/>
+<edge source="143" target="144"/>
+<edge source="143" target="145"/>
+<edge source="144" target="146"/>
+<edge source="144" target="147"/>
+<edge source="144" target="148"/>
+<edge source="146" target="149"/>
+<edge source="146" target="150"/>
+<edge source="149" target="151"/>
+<edge source="149" target="152"/>
+<edge source="149" target="153"/>
+<edge source="150" target="154"/>
+<edge source="150" target="155"/>
+<edge source="150" target="156"/>
+<edge source="157" target="160"/>
+<edge source="157" target="161"/>
+<edge source="160" target="162"/>
+<edge source="160" target="163"/>
+<edge source="160" target="164"/>
+<edge source="161" target="165"/>
+<edge source="161" target="166"/>
+<edge source="161" target="167"/>
+<edge source="169" target="170"/>
+<edge source="169" target="171"/>
+<edge source="169" target="172"/>
+<edge source="170" target="173"/>
+<edge source="170" target="174"/>
+<edge source="173" target="175"/>
+<edge source="173" target="176"/>
+<edge source="173" target="177"/>
+<edge source="174" target="178"/>
+<edge source="174" target="179"/>
+<edge source="174" target="180"/>
+<edge source="181" target="183"/>
+<edge source="181" target="184"/>
+<edge source="181" target="185"/>
+<edge source="182" target="186"/>
+<edge source="182" target="187"/>
+<edge source="182" target="188"/>
+<edge source="189" target="191"/>
+<edge source="189" target="192"/>
+<edge source="189" target="193"/>
+<edge source="190" target="194"/>
+<edge source="190" target="195"/>
+<edge source="190" target="196"/>
+<edge source="197" target="199"/>
+<edge source="197" target="200"/>
+<edge source="197" target="201"/>
+<edge source="199" target="202"/>
+<edge source="199" target="203"/>
+<edge source="202" target="204"/>
+<edge source="202" target="205"/>
+<edge source="202" target="206"/>
+<edge source="203" target="207"/>
+<edge source="203" target="208"/>
+<edge source="203" target="209"/>
+<edge source="212" target="216"/>
+<edge source="212" target="217"/>
+<edge source="216" target="218"/>
+<edge source="216" target="219"/>
+<edge source="216" target="220"/>
+<edge source="218" target="221"/>
+<edge source="218" target="222"/>
+<edge source="221" target="223"/>
+<edge source="221" target="224"/>
+<edge source="221" target="225"/>
+<edge source="222" target="226"/>
+<edge source="222" target="227"/>
+<edge source="222" target="228"/>
+<edge source="229" target="231"/>
+<edge source="229" target="232"/>
+<edge source="229" target="233"/>
+<edge source="229" target="234"/>
+<edge source="229" target="235"/>
+<edge source="230" target="356"/>
+<edge source="230" target="357"/>
+<edge source="230" target="358"/>
+<edge source="231" target="236"/>
+<edge source="231" target="237"/>
+<edge source="231" target="238"/>
+<edge source="231" target="239"/>
+<edge source="231" target="240"/>
+<edge source="231" target="241"/>
+<edge source="234" target="344"/>
+<edge source="234" target="345"/>
+<edge source="234" target="346"/>
+<edge source="235" target="355"/>
+<edge source="236" target="242"/>
+<edge source="237" target="243"/>
+<edge source="237" target="244"/>
+<edge source="237" target="245"/>
+<edge source="237" target="246"/>
+<edge source="237" target="247"/>
+<edge source="237" target="248"/>
+<edge source="237" target="249"/>
+<edge source="237" target="250"/>
+<edge source="237" target="251"/>
+<edge source="237" target="252"/>
+<edge source="237" target="253"/>
+<edge source="237" target="254"/>
+<edge source="237" target="255"/>
+<edge source="238" target="315"/>
+<edge source="238" target="316"/>
+<edge source="239" target="330"/>
+<edge source="244" target="256"/>
+<edge source="245" target="257"/>
+<edge source="246" target="258"/>
+<edge source="247" target="259"/>
+<edge source="247" target="260"/>
+<edge source="247" target="261"/>
+<edge source="249" target="262"/>
+<edge source="249" target="263"/>
+<edge source="250" target="275"/>
+<edge source="250" target="276"/>
+<edge source="250" target="277"/>
+<edge source="251" target="278"/>
+<edge source="252" target="287"/>
+<edge source="252" target="288"/>
+<edge source="252" target="289"/>
+<edge source="253" target="298"/>
+<edge source="254" target="299"/>
+<edge source="254" target="300"/>
+<edge source="254" target="301"/>
+<edge source="255" target="302"/>
+<edge source="255" target="303"/>
+<edge source="255" target="304"/>
+<edge source="255" target="305"/>
+<edge source="255" target="306"/>
+<edge source="255" target="307"/>
+<edge source="255" target="308"/>
+<edge source="255" target="309"/>
+<edge source="262" target="264"/>
+<edge source="262" target="265"/>
+<edge source="262" target="266"/>
+<edge source="264" target="267"/>
+<edge source="264" target="268"/>
+<edge source="267" target="269"/>
+<edge source="267" target="270"/>
+<edge source="267" target="271"/>
+<edge source="268" target="272"/>
+<edge source="268" target="273"/>
+<edge source="268" target="274"/>
+<edge source="278" target="279"/>
+<edge source="278" target="280"/>
+<edge source="279" target="281"/>
+<edge source="279" target="282"/>
+<edge source="279" target="283"/>
+<edge source="280" target="284"/>
+<edge source="280" target="285"/>
+<edge source="280" target="286"/>
+<edge source="287" target="290"/>
+<edge source="287" target="291"/>
+<edge source="290" target="292"/>
+<edge source="290" target="293"/>
+<edge source="290" target="294"/>
+<edge source="291" target="295"/>
+<edge source="291" target="296"/>
+<edge source="291" target="297"/>
+<edge source="305" target="310"/>
+<edge source="307" target="311"/>
+<edge source="307" target="312"/>
+<edge source="308" target="313"/>
+<edge source="308" target="314"/>
+<edge source="315" target="317"/>
+<edge source="315" target="318"/>
+<edge source="317" target="319"/>
+<edge source="317" target="320"/>
+<edge source="317" target="321"/>
+<edge source="319" target="322"/>
+<edge source="319" target="323"/>
+<edge source="322" target="324"/>
+<edge source="322" target="325"/>
+<edge source="322" target="326"/>
+<edge source="323" target="327"/>
+<edge source="323" target="328"/>
+<edge source="323" target="329"/>
+<edge source="330" target="331"/>
+<edge source="330" target="332"/>
+<edge source="331" target="333"/>
+<edge source="331" target="334"/>
+<edge source="331" target="335"/>
+<edge source="333" target="336"/>
+<edge source="333" target="337"/>
+<edge source="336" target="338"/>
+<edge source="336" target="339"/>
+<edge source="336" target="340"/>
+<edge source="337" target="341"/>
+<edge source="337" target="342"/>
+<edge source="337" target="343"/>
+<edge source="344" target="347"/>
+<edge source="344" target="348"/>
+<edge source="347" target="349"/>
+<edge source="347" target="350"/>
+<edge source="347" target="351"/>
+<edge source="348" target="352"/>
+<edge source="348" target="353"/>
+<edge source="348" target="354"/>
+<edge source="356" target="359"/>
+<edge source="356" target="360"/>
+<edge source="359" target="361"/>
+<edge source="359" target="362"/>
+<edge source="359" target="363"/>
+<edge source="360" target="364"/>
+<edge source="360" target="365"/>
+<edge source="360" target="366"/>
+<edge source="370" target="375"/>
+<edge source="372" target="376"/>
+<edge source="372" target="377"/>
+<edge source="373" target="378"/>
+<edge source="373" target="379"/>
+<edge source="380" target="382"/>
+<edge source="380" target="383"/>
+<edge source="380" target="384"/>
+<edge source="380" target="385"/>
+<edge source="380" target="386"/>
+<edge source="380" target="387"/>
+<edge source="381" target="533"/>
+<edge source="381" target="534"/>
+<edge source="382" target="388"/>
+<edge source="382" target="389"/>
+<edge source="382" target="390"/>
+<edge source="382" target="391"/>
+<edge source="382" target="392"/>
+<edge source="382" target="393"/>
+<edge source="385" target="509"/>
+<edge source="385" target="510"/>
+<edge source="385" target="511"/>
+<edge source="386" target="520"/>
+<edge source="387" target="521"/>
+<edge source="388" target="394"/>
+<edge source="389" target="395"/>
+<edge source="389" target="396"/>
+<edge source="389" target="397"/>
+<edge source="389" target="398"/>
+<edge source="389" target="399"/>
+<edge source="389" target="400"/>
+<edge source="389" target="401"/>
+<edge source="389" target="402"/>
+<edge source="389" target="403"/>
+<edge source="389" target="404"/>
+<edge source="389" target="405"/>
+<edge source="389" target="406"/>
+<edge source="389" target="407"/>
+<edge source="390" target="467"/>
+<edge source="390" target="468"/>
+<edge source="390" target="469"/>
+<edge source="391" target="495"/>
+<edge source="396" target="408"/>
+<edge source="397" target="409"/>
+<edge source="398" target="410"/>
+<edge source="399" target="411"/>
+<edge source="399" target="412"/>
+<edge source="399" target="413"/>
+<edge source="401" target="414"/>
+<edge source="401" target="415"/>
+<edge source="402" target="427"/>
+<edge source="402" target="428"/>
+<edge source="402" target="429"/>
+<edge source="403" target="430"/>
+<edge source="404" target="439"/>
+<edge source="404" target="440"/>
+<edge source="404" target="441"/>
+<edge source="405" target="450"/>
+<edge source="406" target="451"/>
+<edge source="406" target="452"/>
+<edge source="406" target="453"/>
+<edge source="407" target="454"/>
+<edge source="407" target="455"/>
+<edge source="407" target="456"/>
+<edge source="407" target="457"/>
+<edge source="407" target="458"/>
+<edge source="407" target="459"/>
+<edge source="407" target="460"/>
+<edge source="407" target="461"/>
+<edge source="414" target="416"/>
+<edge source="414" target="417"/>
+<edge source="414" target="418"/>
+<edge source="416" target="419"/>
+<edge source="416" target="420"/>
+<edge source="419" target="421"/>
+<edge source="419" target="422"/>
+<edge source="419" target="423"/>
+<edge source="420" target="424"/>
+<edge source="420" target="425"/>
+<edge source="420" target="426"/>
+<edge source="430" target="431"/>
+<edge source="430" target="432"/>
+<edge source="431" target="433"/>
+<edge source="431" target="434"/>
+<edge source="431" target="435"/>
+<edge source="432" target="436"/>
+<edge source="432" target="437"/>
+<edge source="432" target="438"/>
+<edge source="439" target="442"/>
+<edge source="439" target="443"/>
+<edge source="442" target="444"/>
+<edge source="442" target="445"/>
+<edge source="442" target="446"/>
+<edge source="443" target="447"/>
+<edge source="443" target="448"/>
+<edge source="443" target="449"/>
+<edge source="457" target="462"/>
+<edge source="459" target="463"/>
+<edge source="459" target="464"/>
+<edge source="460" target="465"/>
+<edge source="460" target="466"/>
+<edge source="467" target="470"/>
+<edge source="467" target="471"/>
+<edge source="469" target="483"/>
+<edge source="470" target="472"/>
+<edge source="470" target="473"/>
+<edge source="470" target="474"/>
+<edge source="472" target="475"/>
+<edge source="472" target="476"/>
+<edge source="475" target="477"/>
+<edge source="475" target="478"/>
+<edge source="475" target="479"/>
+<edge source="476" target="480"/>
+<edge source="476" target="481"/>
+<edge source="476" target="482"/>
+<edge source="483" target="484"/>
+<edge source="483" target="485"/>
+<edge source="483" target="486"/>
+<edge source="484" target="487"/>
+<edge source="484" target="488"/>
+<edge source="487" target="489"/>
+<edge source="487" target="490"/>
+<edge source="487" target="491"/>
+<edge source="488" target="492"/>
+<edge source="488" target="493"/>
+<edge source="488" target="494"/>
+<edge source="495" target="496"/>
+<edge source="495" target="497"/>
+<edge source="496" target="498"/>
+<edge source="496" target="499"/>
+<edge source="496" target="500"/>
+<edge source="498" target="501"/>
+<edge source="498" target="502"/>
+<edge source="501" target="503"/>
+<edge source="501" target="504"/>
+<edge source="501" target="505"/>
+<edge source="502" target="506"/>
+<edge source="502" target="507"/>
+<edge source="502" target="508"/>
+<edge source="509" target="512"/>
+<edge source="509" target="513"/>
+<edge source="512" target="514"/>
+<edge source="512" target="515"/>
+<edge source="512" target="516"/>
+<edge source="513" target="517"/>
+<edge source="513" target="518"/>
+<edge source="513" target="519"/>
+<edge source="521" target="522"/>
+<edge source="521" target="523"/>
+<edge source="521" target="524"/>
+<edge source="522" target="525"/>
+<edge source="522" target="526"/>
+<edge source="525" target="527"/>
+<edge source="525" target="528"/>
+<edge source="525" target="529"/>
+<edge source="526" target="530"/>
+<edge source="526" target="531"/>
+<edge source="526" target="532"/>
+<edge source="533" target="535"/>
+<edge source="533" target="536"/>
+<edge source="533" target="537"/>
+<edge source="533" target="538"/>
+<edge source="533" target="539"/>
+<edge source="534" target="660"/>
+<edge source="534" target="661"/>
+<edge source="534" target="662"/>
+<edge source="535" target="540"/>
+<edge source="535" target="541"/>
+<edge source="535" target="542"/>
+<edge source="535" target="543"/>
+<edge source="535" target="544"/>
+<edge source="535" target="545"/>
+<edge source="538" target="648"/>
+<edge source="538" target="649"/>
+<edge source="538" target="650"/>
+<edge source="539" target="659"/>
+<edge source="540" target="546"/>
+<edge source="541" target="547"/>
+<edge source="541" target="548"/>
+<edge source="541" target="549"/>
+<edge source="541" target="550"/>
+<edge source="541" target="551"/>
+<edge source="541" target="552"/>
+<edge source="541" target="553"/>
+<edge source="541" target="554"/>
+<edge source="541" target="555"/>
+<edge source="541" target="556"/>
+<edge source="541" target="557"/>
+<edge source="541" target="558"/>
+<edge source="541" target="559"/>
+<edge source="542" target="619"/>
+<edge source="542" target="620"/>
+<edge source="543" target="634"/>
+<edge source="548" target="560"/>
+<edge source="549" target="561"/>
+<edge source="550" target="562"/>
+<edge source="551" target="563"/>
+<edge source="551" target="564"/>
+<edge source="551" target="565"/>
+<edge source="553" target="566"/>
+<edge source="553" target="567"/>
+<edge source="554" target="579"/>
+<edge source="554" target="580"/>
+<edge source="554" target="581"/>
+<edge source="555" target="582"/>
+<edge source="556" target="591"/>
+<edge source="556" target="592"/>
+<edge source="556" target="593"/>
+<edge source="557" target="602"/>
+<edge source="558" target="603"/>
+<edge source="558" target="604"/>
+<edge source="558" target="605"/>
+<edge source="559" target="606"/>
+<edge source="559" target="607"/>
+<edge source="559" target="608"/>
+<edge source="559" target="609"/>
+<edge source="559" target="610"/>
+<edge source="559" target="611"/>
+<edge source="559" target="612"/>
+<edge source="559" target="613"/>
+<edge source="566" target="568"/>
+<edge source="566" target="569"/>
+<edge source="566" target="570"/>
+<edge source="568" target="571"/>
+<edge source="568" target="572"/>
+<edge source="571" target="573"/>
+<edge source="571" target="574"/>
+<edge source="571" target="575"/>
+<edge source="572" target="576"/>
+<edge source="572" target="577"/>
+<edge source="572" target="578"/>
+<edge source="582" target="583"/>
+<edge source="582" target="584"/>
+<edge source="583" target="585"/>
+<edge source="583" target="586"/>
+<edge source="583" target="587"/>
+<edge source="584" target="588"/>
+<edge source="584" target="589"/>
+<edge source="584" target="590"/>
+<edge source="591" target="594"/>
+<edge source="591" target="595"/>
+<edge source="594" target="596"/>
+<edge source="594" target="597"/>
+<edge source="594" target="598"/>
+<edge source="595" target="599"/>
+<edge source="595" target="600"/>
+<edge source="595" target="601"/>
+<edge source="609" target="614"/>
+<edge source="611" target="615"/>
+<edge source="611" target="616"/>
+<edge source="612" target="617"/>
+<edge source="612" target="618"/>
+<edge source="619" target="621"/>
+<edge source="619" target="622"/>
+<edge source="621" target="623"/>
+<edge source="621" target="624"/>
+<edge source="621" target="625"/>
+<edge source="623" target="626"/>
+<edge source="623" target="627"/>
+<edge source="626" target="628"/>
+<edge source="626" target="629"/>
+<edge source="626" target="630"/>
+<edge source="627" target="631"/>
+<edge source="627" target="632"/>
+<edge source="627" target="633"/>
+<edge source="634" target="635"/>
+<edge source="634" target="636"/>
+<edge source="635" target="637"/>
+<edge source="635" target="638"/>
+<edge source="635" target="639"/>
+<edge source="637" target="640"/>
+<edge source="637" target="641"/>
+<edge source="640" target="642"/>
+<edge source="640" target="643"/>
+<edge source="640" target="644"/>
+<edge source="641" target="645"/>
+<edge source="641" target="646"/>
+<edge source="641" target="647"/>
+<edge source="648" target="651"/>
+<edge source="648" target="652"/>
+<edge source="651" target="653"/>
+<edge source="651" target="654"/>
+<edge source="651" target="655"/>
+<edge source="652" target="656"/>
+<edge source="652" target="657"/>
+<edge source="652" target="658"/>
+<edge source="660" target="663"/>
+<edge source="660" target="664"/>
+<edge source="663" target="665"/>
+<edge source="663" target="666"/>
+<edge source="663" target="667"/>
+<edge source="664" target="668"/>
+<edge source="664" target="669"/>
+<edge source="664" target="670"/>
+</tree>

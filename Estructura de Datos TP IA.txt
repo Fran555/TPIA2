@@ -1,0 +1,22 @@
+﻿Entorno:
+mapaHabitaciones (List<Habitacion>)
+celdaDeSmith (Celda)
+celdaDeNeo (Celda)
+
+Habitación:
+listaDeCeldas (List<Celda>)
+habitacionesVecinas (Map<Celda, Habitacion>)
+
+Celda:
+coordenadaX (int)
+coordenadaY (int)
+velocidad (double)
+habitacion (Habitacion)
+
+void Avanzar()
+void Girar()
+
+ubicacionestimadadeneo(Habitacion ubicacionestimada)
+celdascircundantes(List<Celda> celdas)
+ubicacionneo(Celda ubicacion)
+paredesyaberturashabitacion(Habitacion paredesyaberturas)

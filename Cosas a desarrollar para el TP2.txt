@@ -1,0 +1,65 @@
+----------------------------------Flujo General-----------------------------------------
+
+Entra texto -> se preprocesa para dejar una lista de palabras claves -> se coteja cuales reglas cumplen con todas las palabras claves -> según los criterios se elige una respuesta
+
+----------------------------------Componentes-----------------------------------------
+
+Regla ->
+	Id (Para no duplicacion)
+	Conjunto de palabras claves
+	Respuesta
+	Especificidad
+	Prioridad
+	Novelity
+
+Agente:
+	Va a ser el proceso main que tenga una interfaz de entrada y salida y maneje la entrada y respuesta para procesarla
+	Tiene un conjunto de reglas
+	Tiene un conjunto ordenado de criterios
+	
+Interfaz de Entrada:
+	Algo que reciba texto y lo pase a preprocesamiento
+
+Preprocesamiento:
+	Algo que recibe un texto y lo convierte en un conjunto de palabras claves
+	
+Cotejo:
+	Algo que reciba un conjunto de reglas y una entrada preprocesada (conjunto de palabras claves)
+	Sale un conjunto de reglas que se ajusta a la entrada
+	
+Respuesta:
+	Recibe un conjunto ordenado de criterios, un conjunto de reglas
+	Ordena las reglas segun el criterio
+	Resuelve conflictos y elige un criterio y una regla a utilizar
+	A partir de la regla responde
+
+Interfaz de Salida:
+	Algo que reciba una salida y la muestre
+	
+----------------------------------Flujos-----------------------------------------
+	
+Iniciar Agente (Main) -> inicializar (reglas y criterios) -> abrir interfaz gráfica
+
+Entrada (Interfaz gráfica) -> Preprocesar entrada -> Hacer cotejo -> Seleccionar segun criterios la respuesta -> Actualizar Interfaz de Salida
+
+---------------------------------Modulos-----------------------------------------
+
+Interfaz (Tanto entrada como Salida)
+	- Interfaz Gráfica (Textbox con entrada, textbox readonly con la salida y un boton para enviar la entrada)
+	- En el main de la pantalla van a estar las reglas y los criterios, que cuando se instancie Agente se le van a pasar las mismas
+
+Logica
+	Agente.java
+		- public Agente(List<Regla> listaReglas, List<Criterio> listaCriterios)
+		- public String generarRespuesta(String entradaCruda) (Recibe una entrada cruda y la preprocesa, coteja y obtiene una respuesta segun los criterios definidos)
+	Preprocesador.java
+		- public static List<String> preprocesarEntrada(String entradaCruda) (Recibe la entrada cruda y la convierte en un conjunto de palabras claves que se corresponden con los de las reglas)
+	Cotejador.java
+		- public static List<Regla> cotejarReglas(List<Regla> listaReglas, List<String> palabrasClavesEntrada) (Recibe la lista de reglas a usar y la lisa de palabras claves de la entrada y responde con una lista de reglas que cumplan con esas palabras claves)
+	Respondedor.java
+		- public static String obtenerRespuesta(List<Criterio> listaCriterios, List<Regla> listaReglasActivas) (Recibe una lista de criterios y una lista de reglas activas y según el criterio y los problemas que haya con los mismos elige la mejor respuesta (recordar agregar la regla elegida a la lista de reglas usadas para que funcione el no duplication))
+	
+Entidades
+	Regla
+	Criterio (Abstracta)
+	*Una por cada criterio

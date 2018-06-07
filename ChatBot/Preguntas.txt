@@ -1,0 +1,163 @@
+Hola.
+Buenos días.
+Buenas tardes.
+Buenas noches.
+Buen día.
+Como te llamas?
+Cual es tu nombre?
+Quien sos?
+Como andas?
+Como estas?
+Que tal estas?
+Que tal te va?
+Que haces?
+Que hacías?
+Que contas?
+Donde estas?
+Como se llama el libro?
+Como se llaman los libros?
+Cuales son los libros?
+Cual es la bibliografía?
+Como se organiza la materia?
+Como se estructura la materia?
+Como se llama el docente de teoría?
+Como se llama el profesor de teoría?
+Como se llama la docente de teoría?
+Como se llama la profesora de teoría?
+Como se llama el docente de practica?
+Como se llama el ayudante?
+Como se llama la profesora de práctica?
+Como se llama el agente del trabajo?
+Como se llama el agente del tp?
+Cual es el nombre del agente del TP?
+Cual es el nombre del agente del trabajo?
+Cual es el nombre del TP?
+Cual es el nombre del trabajo práctico?
+Como se llama la cátedra?
+Como se llama la materia?
+Como es el nombre de la materia?
+Como es el nombre de la cátedra?
+Cual es el nombre de la materia?
+Cual es el nombre de la cátedra?
+Como se llaman los profesores?
+Como se llaman los docentes?
+Como se llama el framework?
+Como se llaman los software a usar?
+Cuales son los software?
+Como se informan los grupos?
+Como se avisan los grupos?
+Como avisamos los grupos?
+Como se conforman los grupos?
+Como formamos los grupos?
+Como se evalúa el TP?
+Como se evalúa el trabajo?
+Como evalúan el TP los profesores?
+Cuales son los aspectos que se evalúan del TP?
+Cuales son los aspectos que se evalúan del trabajo?
+Como se entrega el TP?
+Como se entrega el trabajo?
+Cual es la fecha de entrega del trabajo?
+Cual es la fecha de entrega del TP?
+Cual es la fecha de entrega del vocabulario?
+Cual es la fecha de entrega del conjunto de reglas?
+Cual es la fecha de entrega del sistema de producción?
+Cual es la fecha de entrega de la búsqueda?
+Cual es la fecha de entrega de la parte 1?
+Cual es la fecha de entrega de la parte 2?
+Cual es la fecha de entrega de la primera etapa del trabajo?
+Cual es la fecha de entrega de la primera etapa del TP?
+Cual es la fecha de entrega de la segunda etapa del trabajo?
+Cual es la fecha de entrega de la segunda etapa del TP?
+Cuando se entrega el trabajo?
+Cuando se entrega el TP?
+Cuando se entrega la búsqueda?
+Cuando se entrega la parte 1 del trabajo?
+Cuando se entrega la parte 1 del TP?
+Cuando se entrega la parte 2 del trabajo?
+Cuando se entrega la parte 2 del TP?
+Cuando se entrega la primera etapa del trabajo?
+Cuando se entrega la primera etapa del TP?
+Cuando se entrega la segunda etapa del trabajo?
+Cuando se entrega la segunda etapa del TP?
+Cuando se entrega la primera parte de la primer etapa?
+Cuando se entrega el vocabulario?
+Cuando se entrega el conjunto de reglas?
+Cuando se entrega el sistema de producción?
+Como es el mail de la cátedra?
+Como es el mail de la materia?
+Como es el email de la cátedra?
+Como es el email de la materia?
+Como es la dirección de correo electrónico de la cátedra?
+Como es el correo de la cátedra?
+Cual es el mail de la cátedra?
+Cual es el mail de la materia?
+Cual es el e-mail de la cátedra?
+Cual es el e-mail de la materia?
+Como se regulariza la materia?
+Como se hace para regularizar la materia?
+Como se promociona la materia?
+Como se hace para promocionar la materia?
+Como se aprueba la materia?
+Como se hace para aprobar la materia?
+Como se desarrollan las actividades?
+Como se realizan las actividades?
+Como se calcula la nota final?
+Como calculan la nota final?
+Cual es el sitio de la cátedra?
+Cual es el sitio de la materia?
+Cuando es el parcial?
+Cuando es el examen?
+Cual es la fecha del parcial?
+Cuantas actividades tiene la materia?
+Cuantas actividades tiene la cátedra?
+Cuantas entregas tiene la primera etapa del trabajo?
+Cuantas entregas tiene la primera etapa del TP?
+Cuantas entregas tiene la segunda etapa del trabajo?
+Cuantas entregas tiene la segunda etapa del TP?
+Cuantas entregas tiene el trabajo?
+Cuantas entregas tiene el TP?
+Cual es el puntaje para promocionar el trabajo?
+Cual es el puntaje para promocionar el TP?
+Cual es el puntaje para promocionar los trabajos?
+Cual es el puntaje para promocionar los TPs?
+Cual es el puntaje para promocionar el parcial?
+Cual es el puntaje para promocionar los parciales?
+Cual es el puntaje para regularizar el trabajo?
+Cual es el puntaje para regularizar el TP?
+Cual es el puntaje para regularizar los trabajos?
+Cual es el puntaje para regularizar los TPs?
+Cual es el puntaje para regularizar el parcial?
+Cual es el puntaje para regularizar los parciales?
+Cuales son los temas que se pueden elegirse para la clase publica?
+Cuales son los temas de las clases publicas?
+Cual es el porcentaje de asistencia?
+Cual es el porcentaje de asistencia requerido para promocionar?
+Cual es el porcentaje de asistencia requerido para regularizar?
+Cual es el porcentaje de asistencia requerido para aprobar?
+Cual es la modalidad?
+Cual es la modalidad de la cátedra?
+Cual es la modalidad de la materia?
+Cual es la fecha del recuperatorio?
+Cuando es el recuperatorio?
+Cuando entregan el TP?
+Cuando entregan el trabajo?
+Cuando entregan el enunciado del trabajo?
+Cuando entregan el enunciado del TP?
+Cuando es el coloquio?
+Cuantas clases publicas tiene que dar cada grupo?
+Cuantas clases publicas debe dar cada grupo?
+Cuantas clases publicas debe hacer cada grupo?
+Cuantas clases publicas debe realizar cada grupo?
+Cuales son los horarios de teoría?
+Cuando se dan las clases teóricas?
+Cuales son los horarios de práctica?
+Cuando se dan las clases practicas?
+Cuales son los horarios de consulta?
+Chau.
+Adios.
+Que tengas buenas noches.
+Que tengas buenas tardes.
+Que tengas buen día.
+Nos vemos!
+Nos estamos viendo.
+Muchas gracias.

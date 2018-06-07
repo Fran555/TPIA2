@@ -1,0 +1,64 @@
+<tree id="0" edgedefault="directed">
+<node Id="0" Action="null" Cost="0.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como ir - Nodo Actual: ir - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="1" Action="IrEstar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como estar - Nodo Actual: estar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="2" Action="IrInformar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como informar - Nodo Actual: informar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="3" Action="IrConformar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como conformar - Nodo Actual: conformar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="4" Action="IrOrganizar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como organizar - Nodo Actual: organizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="5" Action="IrRegularizar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="6" Action="IrIr" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como ir - Nodo Actual: ir - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="7" Action="IrEntregar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como entregar - Nodo Actual: entregar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="8" Action="IrPromocionar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="9" Action="IrCalcular" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como calcular - Nodo Actual: calcular - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="10" Action="IrRealizar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="11" Action="IrEvaluar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como evaluar - Nodo Actual: evaluar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="12" Action="IrAprobar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como aprobar - Nodo Actual: aprobar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="13" Action="IrSer" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como ser - Nodo Actual: ser - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="14" Action="IrLlamar" Cost="-1.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como llamar - Nodo Actual: llamar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="15" Action="IrGrupo" Cost="-2.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como informar grupo - Nodo Actual: grupo - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="16" Action="IrGrupo" Cost="-2.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como conformar grupo - Nodo Actual: grupo - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="17" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como organizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="18" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="19" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="20" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: como ir - Tipo percepcion:   - Cadena Actual: como regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<edge source="0" target="1"/>
+<edge source="0" target="2"/>
+<edge source="0" target="3"/>
+<edge source="0" target="4"/>
+<edge source="0" target="5"/>
+<edge source="0" target="6"/>
+<edge source="0" target="7"/>
+<edge source="0" target="8"/>
+<edge source="0" target="9"/>
+<edge source="0" target="10"/>
+<edge source="0" target="11"/>
+<edge source="0" target="12"/>
+<edge source="0" target="13"/>
+<edge source="0" target="14"/>
+<edge source="2" target="15"/>
+<edge source="3" target="16"/>
+<edge source="4" target="17"/>
+<edge source="5" target="18"/>
+<edge source="5" target="19"/>
+<edge source="5" target="20"/>
+</tree>

@@ -1,0 +1,163 @@
+1) hola BUSCAR
+2) hola BUSCAR
+3) hola BUSCAR
+4) hola BUSCAR
+5) hola BUSCAR
+6) como llamar BUSCAR
+7) cual ser llamar BUSCAR
+8) quien ser BUSCAR
+9) como estar BUSCAR
+10) como estar BUSCAR
+11) que estar BUSCAR
+12) que ir BUSCAR
+13) que realizar BUSCAR
+14) que realizar BUSCAR
+15) que realizar BUSCAR
+16) donde estar BUSCAR
+17) como llamar libro BUSCAR
+18) como llamar libro BUSCAR
+19) cual ser libro BUSCAR
+20) cual ser bibliografia BUSCAR
+21) como organizar materia BUSCAR
+22) como organizar materia BUSCAR
+23) como llamar profesor teoria BUSCAR
+24) como llamar profesor teoria BUSCAR
+25) como llamar profesor teoria BUSCAR
+26) como llamar profesora teoria BUSCAR
+27) como llamar profesor practica BUSCAR
+28) como llamar ayudante BUSCAR
+29) como llamar profesora practica BUSCAR
+30) como llamar agente tp BUSCAR
+31) como llamar agente tp BUSCAR
+32) cual ser llamar agente tp BUSCAR
+33) cual ser llamar agente tp BUSCAR
+34) cual ser llamar tp BUSCAR
+35) cual ser llamar tp tp BUSCAR
+36) como llamar materia BUSCAR
+37) como llamar materia BUSCAR
+38) como ser llamar materia BUSCAR
+39) como ser llamar materia BUSCAR
+40) cual ser llamar materia BUSCAR
+41) cual ser llamar materia BUSCAR
+42) como llamar profesor BUSCAR
+43) como llamar profesor BUSCAR
+44) como llamar framework BUSCAR
+45) como llamar framework BUSCAR
+46) cual ser framework BUSCAR
+47) como informar grupo BUSCAR
+48) como informar grupo BUSCAR
+49) como informar grupo BUSCAR
+50) como conformar grupo BUSCAR
+51) como conformar grupo BUSCAR
+52) como evaluar tp BUSCAR
+53) como evaluar tp BUSCAR
+54) como evaluar tp profesor BUSCAR
+55) cual ser que evaluar tp BUSCAR
+56) cual ser que evaluar tp BUSCAR
+57) como entregar tp BUSCAR
+58) como entregar tp BUSCAR
+59) cual ser fecha entregar tp BUSCAR
+60) cual ser fecha entregar tp BUSCAR
+61) cual ser fecha entregar tp BUSCAR
+62) cual ser fecha entregar tp BUSCAR
+63) cual ser fecha entregar tp BUSCAR
+64) cual ser fecha entregar tp BUSCAR
+65) cual ser fecha entregar tp BUSCAR
+66) cual ser fecha entregar tp BUSCAR
+67) cual ser fecha entregar tp BUSCAR
+68) cual ser fecha entregar tp BUSCAR
+69) cual ser fecha entregar tp BUSCAR
+70) cual ser fecha entregar tp BUSCAR
+71) cuando entregar tp BUSCAR
+72) cuando entregar tp BUSCAR
+73) cuando entregar tp BUSCAR
+74) cuando entregar tp BUSCAR
+75) cuando entregar tp BUSCAR
+76) cuando entregar tp BUSCAR
+77) cuando entregar tp BUSCAR
+78) cuando entregar tp BUSCAR
+79) cuando entregar tp BUSCAR
+80) cuando entregar tp BUSCAR
+81) cuando entregar tp BUSCAR
+82) cuando entregar tp BUSCAR
+83) cuando entregar tp BUSCAR
+84) cuando entregar tp BUSCAR
+85) cuando entregar tp BUSCAR
+86) como ser mail materia BUSCAR
+87) como ser mail materia BUSCAR
+88) como ser mail materia BUSCAR
+89) como ser mail materia BUSCAR
+90) como ser mail materia BUSCAR
+91) como ser mail materia BUSCAR
+92) cual ser mail materia BUSCAR
+93) cual ser mail materia BUSCAR
+94) cual ser mail materia BUSCAR
+95) cual ser mail materia BUSCAR
+96) como regularizar materia BUSCAR
+97) como regularizar materia BUSCAR
+98) como promocionar materia BUSCAR
+99) como promocionar materia BUSCAR
+100) como aprobar materia BUSCAR
+101) como aprobar materia BUSCAR
+102) como realizar actividad BUSCAR
+103) como realizar actividad BUSCAR
+104) como calcular nota final BUSCAR
+105) como calcular nota final BUSCAR
+106) cual ser sitio materia BUSCAR
+107) cual ser sitio materia BUSCAR
+108) cuando ser parcial BUSCAR
+109) cuando ser parcial BUSCAR
+110) cual ser fecha parcial BUSCAR
+111) cuantas actividad materia BUSCAR
+112) cuantas actividad materia BUSCAR
+113) cuantas entregar tp BUSCAR
+114) cuantas entregar tp BUSCAR
+115) cuantas entregar tp BUSCAR
+116) cuantas entregar tp BUSCAR
+117) cuantas entregar tp BUSCAR
+118) cuantas entregar tp BUSCAR
+119) cual ser nota promocionar tp BUSCAR
+120) cual ser nota promocionar tp BUSCAR
+121) cual ser nota promocionar tp BUSCAR
+122) cual ser nota promocionar tp BUSCAR
+123) cual ser nota promocionar parcial BUSCAR
+124) cual ser nota promocionar parcial BUSCAR
+125) cual ser nota regularizar tp BUSCAR
+126) cual ser nota regularizar tp BUSCAR
+127) cual ser nota regularizar tp BUSCAR
+128) cual ser nota regularizar tp BUSCAR
+129) cual ser nota regularizar parcial BUSCAR
+130) cual ser nota regularizar parcial BUSCAR
+131) cual ser tema que charla BUSCAR
+132) cual ser tema charla BUSCAR
+133) cual ser porcentaje asistencia BUSCAR
+134) cual ser porcentaje asistencia promocionar BUSCAR
+135) cual ser porcentaje asistencia regularizar BUSCAR
+136) cual ser porcentaje asistencia aprobar BUSCAR
+137) cual ser modalidad BUSCAR
+138) cual ser modalidad materia BUSCAR
+139) cual ser modalidad materia BUSCAR
+140) cual ser fecha recuperatorio BUSCAR
+141) cuando ser recuperatorio BUSCAR
+142) cuando entregar tp BUSCAR
+143) cuando entregar tp BUSCAR
+144) cuando entregar tp BUSCAR
+145) cuando entregar tp BUSCAR
+146) cuando ser coloquio BUSCAR
+147) cuantas charla que ser grupo BUSCAR
+148) cuantas charla ser grupo BUSCAR
+149) cuantas charla realizar grupo BUSCAR
+150) cuantas charla realizar grupo BUSCAR
+151) cual ser horario teoria BUSCAR
+152) cuando ser teoria BUSCAR
+153) cual ser horario practica BUSCAR
+154) cuando ser practica BUSCAR
+155) cual ser horario consulta BUSCAR
+156) chau BUSCAR
+157) chau BUSCAR
+158) que hola BUSCAR
+159) que hola BUSCAR
+160) que hola BUSCAR
+161) chau BUSCAR
+162) chau BUSCAR
+163) gracias BUSCAR

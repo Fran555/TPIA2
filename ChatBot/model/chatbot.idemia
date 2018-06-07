@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<idemia:AgentModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:idemia="utn.frsf.cidisi">
+  <Environment name="ChatbotEnvironment">
+    <EnvironmentState name="ChatbotEnvironmentState">
+      <DataStructure name="log" type="Other"/>
+      <DataStructure name="input" type="String"/>
+      <DataStructure name="rta" type="String"/>
+      <DataStructure name="conectado" type="boolean"/>
+    </EnvironmentState>
+  </Environment>
+  <Agent name="ChatbotAgent">
+    <Strategy xsi:type="idemia:Search"/>
+    <Goal name="ChatbotGoal" value="(percepcionNull(agentState) || percepcionEsIgualA(agentState))"/>
+    <AgentState name="ChatbotState">
+      <DataStructure name="percepcion" type="Other"/>
+      <DataStructure name="cadenaActual" type="Other"/>
+      <DataStructure name="nodoActual" type="Other"/>
+      <DataStructure name="reglas" type="Other"/>
+      <DataStructure name="despedirse"/>
+      <DataStructure name="tipoPercepcion"/>
+    </AgentState>
+  </Agent>
+  <Actions execute_by="//@Agent" executed_on="//@Environment" name=" rta : string"/>
+  <Perceptions perceived_on="//@Environment" perceived_by="//@Agent" name="oracion : string"/>
+</idemia:AgentModel>

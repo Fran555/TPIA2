@@ -1,0 +1,652 @@
+1) PREGUNTA: Hola. - RESPUESTA: Hola!!!
+1) PREGUNTA: Hola. - RESPUESTA: Hola!!!
+1) PREGUNTA: Hola. - RESPUESTA: Hola!!!
+1) PREGUNTA: Hola. - RESPUESTA: Hola!!!
+2) PREGUNTA: Buenos días. - RESPUESTA: Hola!!!
+2) PREGUNTA: Buenos días. - RESPUESTA: Hola!!!
+2) PREGUNTA: Buenos días. - RESPUESTA: Hola!!!
+2) PREGUNTA: Buenos días. - RESPUESTA: Hola!!!
+3) PREGUNTA: Buenas tardes. - RESPUESTA: Hola!!!
+3) PREGUNTA: Buenas tardes. - RESPUESTA: Hola!!!
+3) PREGUNTA: Buenas tardes. - RESPUESTA: Hola!!!
+3) PREGUNTA: Buenas tardes. - RESPUESTA: Hola!!!
+4) PREGUNTA: Buenas noches. - RESPUESTA: Hola!!!
+4) PREGUNTA: Buenas noches. - RESPUESTA: Hola!!!
+4) PREGUNTA: Buenas noches. - RESPUESTA: Hola!!!
+4) PREGUNTA: Buenas noches. - RESPUESTA: Hola!!!
+5) PREGUNTA: Buen día. - RESPUESTA: Hola!!!
+5) PREGUNTA: Buen día. - RESPUESTA: Hola!!!
+5) PREGUNTA: Buen día. - RESPUESTA: Hola!!!
+5) PREGUNTA: Buen día. - RESPUESTA: Hola!!!
+6) PREGUNTA: Como te llamas? - RESPUESTA: Andrés, y tu nombre es…?
+6) PREGUNTA: Como te llamas? - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+6) PREGUNTA: Como te llamas? - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+6) PREGUNTA: Como te llamas? - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+7) PREGUNTA: Cual es tu nombre? - RESPUESTA: Andrés, el tuyo?
+7) PREGUNTA: Cual es tu nombre? - RESPUESTA: Andrés, y tu nombre es…?
+7) PREGUNTA: Cual es tu nombre? - RESPUESTA: Andrés, y tu nombre es…?
+7) PREGUNTA: Cual es tu nombre? - RESPUESTA: Andrés, y tu nombre es…?
+8) PREGUNTA: Quien sos? - RESPUESTA: Me llamo Andrés, me dicen ANDU. Vos quién sos?
+8) PREGUNTA: Quien sos? - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+8) PREGUNTA: Quien sos? - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+8) PREGUNTA: Quien sos? - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+9) PREGUNTA: Como andas? - RESPUESTA: Joya :) vos que tal?
+9) PREGUNTA: Como andas? - RESPUESTA: Bien bien :)
+9) PREGUNTA: Como andas? - RESPUESTA: Joya :) vos que tal?
+9) PREGUNTA: Como andas? - RESPUESTA: Joya :) vos que tal?
+10) PREGUNTA: Como estas? - RESPUESTA: Joya :) vos que tal?
+10) PREGUNTA: Como estas? - RESPUESTA: Joya :) vos que tal?
+10) PREGUNTA: Como estas? - RESPUESTA: Joya :) vos que tal?
+10) PREGUNTA: Como estas? - RESPUESTA: Joya :) vos que tal?
+11) PREGUNTA: Que tal estas? - RESPUESTA: Bien bien :)
+11) PREGUNTA: Que tal estas? - RESPUESTA: Espectacular, vos que tal estas?
+11) PREGUNTA: Que tal estas? - RESPUESTA: Joya :) vos que tal?
+11) PREGUNTA: Que tal estas? - RESPUESTA: Espectacular, vos que tal estas?
+12) PREGUNTA: Que tal te va? - RESPUESTA: Joya :) vos que tal?
+12) PREGUNTA: Que tal te va? - RESPUESTA: Todo bien!, y vos?
+12) PREGUNTA: Que tal te va? - RESPUESTA: Espectacular, vos que tal estas?
+12) PREGUNTA: Que tal te va? - RESPUESTA: Espectacular, vos que tal estas?
+13) PREGUNTA: Que haces? - RESPUESTA: Acá ando…haciendo el TP de IA, vos?
+13) PREGUNTA: Que haces? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+13) PREGUNTA: Que haces? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+13) PREGUNTA: Que haces? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+14) PREGUNTA: Que hacías? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+14) PREGUNTA: Que hacías? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+14) PREGUNTA: Que hacías? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+14) PREGUNTA: Que hacías? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+15) PREGUNTA: Que contas? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+15) PREGUNTA: Que contas? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+15) PREGUNTA: Que contas? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+15) PREGUNTA: Que contas? - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+16) PREGUNTA: Donde estas? - RESPUESTA: En el trabajo, intantando hacer unas pruebas a un SW
+16) PREGUNTA: Donde estas? - RESPUESTA: En mi casa…por?
+16) PREGUNTA: Donde estas? - RESPUESTA: En el trabajo, intantando hacer unas pruebas a un SW
+16) PREGUNTA: Donde estas? - RESPUESTA: En el trabajo, intantando hacer unas pruebas a un SW
+17) PREGUNTA: Como se llama el libro? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+17) PREGUNTA: Como se llama el libro? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+17) PREGUNTA: Como se llama el libro? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+17) PREGUNTA: Como se llama el libro? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+18) PREGUNTA: Como se llaman los libros? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+18) PREGUNTA: Como se llaman los libros? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+18) PREGUNTA: Como se llaman los libros? - RESPUESTA: Hay 4 libros: ‘Inteligencia Artificial. Un enfoque moderno’ de Russel - Norvig; ‘Inteligencia artificial’ de Rich-Knight; ‘Inteligencia artificial. Una nueva síntesis’ de Nilsson;  y ‘MultiAgent Systems’ de Wooldridge.
+18) PREGUNTA: Como se llaman los libros? - RESPUESTA: Hay 4 libros: ‘Inteligencia Artificial. Un enfoque moderno’ de Russel - Norvig; ‘Inteligencia artificial’ de Rich-Knight; ‘Inteligencia artificial. Una nueva síntesis’ de Nilsson;  y ‘MultiAgent Systems’ de Wooldridge.
+19) PREGUNTA: Cuales son los libros? - RESPUESTA: Hay 4 libros: ‘Inteligencia Artificial. Un enfoque moderno’ de Russel - Norvig; ‘Inteligencia artificial’ de Rich-Knight; ‘Inteligencia artificial. Una nueva síntesis’ de Nilsson;  y ‘MultiAgent Systems’ de Wooldridge.
+19) PREGUNTA: Cuales son los libros? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+19) PREGUNTA: Cuales son los libros? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+19) PREGUNTA: Cuales son los libros? - RESPUESTA: Hay 4 libros: ‘Inteligencia Artificial. Un enfoque moderno’ de Russel - Norvig; ‘Inteligencia artificial’ de Rich-Knight; ‘Inteligencia artificial. Una nueva síntesis’ de Nilsson;  y ‘MultiAgent Systems’ de Wooldridge.
+20) PREGUNTA: Cual es la bibliografía? - RESPUESTA: Hay 4 libros: ‘Inteligencia Artificial. Un enfoque moderno’ de Russel - Norvig; ‘Inteligencia artificial’ de Rich-Knight; ‘Inteligencia artificial. Una nueva síntesis’ de Nilsson;  y ‘MultiAgent Systems’ de Wooldridge.
+20) PREGUNTA: Cual es la bibliografía? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+20) PREGUNTA: Cual es la bibliografía? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+20) PREGUNTA: Cual es la bibliografía? - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+21) PREGUNTA: Como se organiza la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+21) PREGUNTA: Como se organiza la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+21) PREGUNTA: Como se organiza la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+21) PREGUNTA: Como se organiza la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+22) PREGUNTA: Como se estructura la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+22) PREGUNTA: Como se estructura la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+22) PREGUNTA: Como se estructura la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+22) PREGUNTA: Como se estructura la materia? - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+23) PREGUNTA: Como se llama el docente de teoría? - RESPUESTA: Milagros Gutierrez
+23) PREGUNTA: Como se llama el docente de teoría? - RESPUESTA: Milagros Gutierrez
+23) PREGUNTA: Como se llama el docente de teoría? - RESPUESTA: Milagros Gutierrez
+23) PREGUNTA: Como se llama el docente de teoría? - RESPUESTA: Milagros Gutierrez
+24) PREGUNTA: Como se llama el profesor de teoría? - RESPUESTA: Milagros Gutierrez
+24) PREGUNTA: Como se llama el profesor de teoría? - RESPUESTA: Milagros Gutierrez
+24) PREGUNTA: Como se llama el profesor de teoría? - RESPUESTA: Milagros Gutierrez
+24) PREGUNTA: Como se llama el profesor de teoría? - RESPUESTA: Milagros Gutierrez
+25) PREGUNTA: Como se llama la docente de teoría? - RESPUESTA: Milagros Gutierrez
+25) PREGUNTA: Como se llama la docente de teoría? - RESPUESTA: Milagros Gutierrez
+25) PREGUNTA: Como se llama la docente de teoría? - RESPUESTA: Milagros Gutierrez
+25) PREGUNTA: Como se llama la docente de teoría? - RESPUESTA: Milagros Gutierrez
+26) PREGUNTA: Como se llama la profesora de teoría? - RESPUESTA: Creo que Milagros
+26) PREGUNTA: Como se llama la profesora de teoría? - RESPUESTA: Milagros Gutierrez
+26) PREGUNTA: Como se llama la profesora de teoría? - RESPUESTA: Milagros Gutierrez
+26) PREGUNTA: Como se llama la profesora de teoría? - RESPUESTA: Milagros Gutierrez
+27) PREGUNTA: Como se llama el docente de practica? - RESPUESTA: Creo que Jorge
+27) PREGUNTA: Como se llama el docente de practica? - RESPUESTA: Jorge Roa
+27) PREGUNTA: Como se llama el docente de practica? - RESPUESTA: Jorge Roa
+27) PREGUNTA: Como se llama el docente de practica? - RESPUESTA: Jorge Roa
+28) PREGUNTA: Como se llama el ayudante? - RESPUESTA: Creo que Jorge
+28) PREGUNTA: Como se llama el ayudante? - RESPUESTA: Jorge Roa
+28) PREGUNTA: Como se llama el ayudante? - RESPUESTA: Jorge Roa
+28) PREGUNTA: Como se llama el ayudante? - RESPUESTA: Jorge Roa
+29) PREGUNTA: Como se llama la profesora de práctica? - RESPUESTA: No hay profesora de practica!
+29) PREGUNTA: Como se llama la profesora de práctica? - RESPUESTA: No hay profesora de práctica, es un profesor!
+29) PREGUNTA: Como se llama la profesora de práctica? - RESPUESTA: No hay profesora de práctica, es un profesor!
+29) PREGUNTA: Como se llama la profesora de práctica? - RESPUESTA: No hay profesora de práctica, es un profesor!
+30) PREGUNTA: Como se llama el agente del trabajo? - RESPUESTA: Chat Bot
+30) PREGUNTA: Como se llama el agente del trabajo? - RESPUESTA: Chat Bot
+30) PREGUNTA: Como se llama el agente del trabajo? - RESPUESTA: Chat Bot
+30) PREGUNTA: Como se llama el agente del trabajo? - RESPUESTA: Chat Bot
+31) PREGUNTA: Como se llama el agente del tp? - RESPUESTA: Chat Bot
+31) PREGUNTA: Como se llama el agente del tp? - RESPUESTA: Chat Bot
+31) PREGUNTA: Como se llama el agente del tp? - RESPUESTA: Chat Bot
+31) PREGUNTA: Como se llama el agente del tp? - RESPUESTA: Chat Bot
+32) PREGUNTA: Cual es el nombre del agente del TP? - RESPUESTA: Chat Bot
+32) PREGUNTA: Cual es el nombre del agente del TP? - RESPUESTA: Chat Bot
+32) PREGUNTA: Cual es el nombre del agente del TP? - RESPUESTA: Chat Bot
+32) PREGUNTA: Cual es el nombre del agente del TP? - RESPUESTA: Chat Bot
+33) PREGUNTA: Cual es el nombre del agente del trabajo? - RESPUESTA: Chat Bot
+33) PREGUNTA: Cual es el nombre del agente del trabajo? - RESPUESTA: Chat Bot
+33) PREGUNTA: Cual es el nombre del agente del trabajo? - RESPUESTA: Chat Bot
+33) PREGUNTA: Cual es el nombre del agente del trabajo? - RESPUESTA: Chat Bot
+34) PREGUNTA: Cual es el nombre del TP? - RESPUESTA: Chat Bot
+34) PREGUNTA: Cual es el nombre del TP? - RESPUESTA: La verdad que no me acuerdo; jajaja!
+34) PREGUNTA: Cual es el nombre del TP? - RESPUESTA: La verdad que no me acuerdo; jajaja!
+34) PREGUNTA: Cual es el nombre del TP? - RESPUESTA: La verdad que no me acuerdo; jajaja!
+35) PREGUNTA: Cual es el nombre del trabajo práctico? - RESPUESTA: Chat Bot
+35) PREGUNTA: Cual es el nombre del trabajo práctico? - RESPUESTA: La verdad que no me acuerdo; jajaja!
+35) PREGUNTA: Cual es el nombre del trabajo práctico? - RESPUESTA: La verdad que no me acuerdo; jajaja!
+35) PREGUNTA: Cual es el nombre del trabajo práctico? - RESPUESTA: La verdad que no me acuerdo; jajaja!
+36) PREGUNTA: Como se llama la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+36) PREGUNTA: Como se llama la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+36) PREGUNTA: Como se llama la cátedra? - RESPUESTA: Inteligencia Artificial
+36) PREGUNTA: Como se llama la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+37) PREGUNTA: Como se llama la materia? - RESPUESTA: Inteligencia Artificial
+37) PREGUNTA: Como se llama la materia? - RESPUESTA: Inteligencia Artificial
+37) PREGUNTA: Como se llama la materia? - RESPUESTA: Inteligencia Artificial
+37) PREGUNTA: Como se llama la materia? - RESPUESTA: Inteligencia Artificial
+38) PREGUNTA: Como es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+38) PREGUNTA: Como es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+38) PREGUNTA: Como es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+38) PREGUNTA: Como es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+39) PREGUNTA: Como es el nombre de la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+39) PREGUNTA: Como es el nombre de la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+39) PREGUNTA: Como es el nombre de la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+39) PREGUNTA: Como es el nombre de la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+40) PREGUNTA: Cual es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+40) PREGUNTA: Cual es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+40) PREGUNTA: Cual es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+40) PREGUNTA: Cual es el nombre de la materia? - RESPUESTA: IA  = inteligencia artificial :)
+41) PREGUNTA: Cual es el nombre de la cátedra? - RESPUESTA: Inteligencia Artificial
+41) PREGUNTA: Cual es el nombre de la cátedra? - RESPUESTA: Inteligencia Artificial
+41) PREGUNTA: Cual es el nombre de la cátedra? - RESPUESTA: Inteligencia Artificial
+41) PREGUNTA: Cual es el nombre de la cátedra? - RESPUESTA: IA  = inteligencia artificial :)
+42) PREGUNTA: Como se llaman los profesores? - RESPUESTA: Milagros y Jorge
+42) PREGUNTA: Como se llaman los profesores? - RESPUESTA: Milagros y Jorge
+42) PREGUNTA: Como se llaman los profesores? - RESPUESTA: Milagros y Jorge
+42) PREGUNTA: Como se llaman los profesores? - RESPUESTA: Milagros y Jorge
+43) PREGUNTA: Como se llaman los docentes? - RESPUESTA: Milagros y Jorge
+43) PREGUNTA: Como se llaman los docentes? - RESPUESTA: Milagros y Jorge
+43) PREGUNTA: Como se llaman los docentes? - RESPUESTA: Milagros y Jorge
+43) PREGUNTA: Como se llaman los docentes? - RESPUESTA: Milagros y Jorge
+44) PREGUNTA: Como se llama el framework? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+44) PREGUNTA: Como se llama el framework? - RESPUESTA: Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEM-IA
+44) PREGUNTA: Como se llama el framework? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+44) PREGUNTA: Como se llama el framework? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+45) PREGUNTA: Como se llaman los software a usar? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+45) PREGUNTA: Como se llaman los software a usar? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+45) PREGUNTA: Como se llaman los software a usar? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+45) PREGUNTA: Como se llaman los software a usar? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+46) PREGUNTA: Cuales son los software? - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+46) PREGUNTA: Cuales son los software? - RESPUESTA: Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEM-IA
+46) PREGUNTA: Cuales son los software? - RESPUESTA: Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEM-IA
+46) PREGUNTA: Cuales son los software? - RESPUESTA: Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEM-IA
+47) PREGUNTA: Como se informan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+47) PREGUNTA: Como se informan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+47) PREGUNTA: Como se informan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+47) PREGUNTA: Como se informan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+48) PREGUNTA: Como se avisan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+48) PREGUNTA: Como se avisan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+48) PREGUNTA: Como se avisan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+48) PREGUNTA: Como se avisan los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+49) PREGUNTA: Como avisamos los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+49) PREGUNTA: Como avisamos los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+49) PREGUNTA: Como avisamos los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+49) PREGUNTA: Como avisamos los grupos? - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+50) PREGUNTA: Como se conforman los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+50) PREGUNTA: Como se conforman los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+50) PREGUNTA: Como se conforman los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+50) PREGUNTA: Como se conforman los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+51) PREGUNTA: Como formamos los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+51) PREGUNTA: Como formamos los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+51) PREGUNTA: Como formamos los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+51) PREGUNTA: Como formamos los grupos? - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+52) PREGUNTA: Como se evalúa el TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+52) PREGUNTA: Como se evalúa el TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+52) PREGUNTA: Como se evalúa el TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+52) PREGUNTA: Como se evalúa el TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+53) PREGUNTA: Como se evalúa el trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+53) PREGUNTA: Como se evalúa el trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+53) PREGUNTA: Como se evalúa el trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+53) PREGUNTA: Como se evalúa el trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+54) PREGUNTA: Como evalúan el TP los profesores? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+54) PREGUNTA: Como evalúan el TP los profesores? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+54) PREGUNTA: Como evalúan el TP los profesores? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+54) PREGUNTA: Como evalúan el TP los profesores? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+55) PREGUNTA: Cuales son los aspectos que se evalúan del TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+55) PREGUNTA: Cuales son los aspectos que se evalúan del TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+55) PREGUNTA: Cuales son los aspectos que se evalúan del TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+55) PREGUNTA: Cuales son los aspectos que se evalúan del TP? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+56) PREGUNTA: Cuales son los aspectos que se evalúan del trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+56) PREGUNTA: Cuales son los aspectos que se evalúan del trabajo? - RESPUESTA: Se evalúa con el informe, viendo si alcanza los objetivos, según la solución de software que presentemos, la cantidad y calidad de las pruebas, y la expresividad en el coloquio.
+56) PREGUNTA: Cuales son los aspectos que se evalúan del trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+56) PREGUNTA: Cuales son los aspectos que se evalúan del trabajo? - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+57) PREGUNTA: Como se entrega el TP? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+57) PREGUNTA: Como se entrega el TP? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+57) PREGUNTA: Como se entrega el TP? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+57) PREGUNTA: Como se entrega el TP? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+58) PREGUNTA: Como se entrega el trabajo? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+58) PREGUNTA: Como se entrega el trabajo? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+58) PREGUNTA: Como se entrega el trabajo? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+58) PREGUNTA: Como se entrega el trabajo? - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+59) PREGUNTA: Cual es la fecha de entrega del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+59) PREGUNTA: Cual es la fecha de entrega del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+59) PREGUNTA: Cual es la fecha de entrega del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+59) PREGUNTA: Cual es la fecha de entrega del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+60) PREGUNTA: Cual es la fecha de entrega del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+60) PREGUNTA: Cual es la fecha de entrega del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+60) PREGUNTA: Cual es la fecha de entrega del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+60) PREGUNTA: Cual es la fecha de entrega del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+61) PREGUNTA: Cual es la fecha de entrega del vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+61) PREGUNTA: Cual es la fecha de entrega del vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+61) PREGUNTA: Cual es la fecha de entrega del vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+61) PREGUNTA: Cual es la fecha de entrega del vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+62) PREGUNTA: Cual es la fecha de entrega del conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+62) PREGUNTA: Cual es la fecha de entrega del conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+62) PREGUNTA: Cual es la fecha de entrega del conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+62) PREGUNTA: Cual es la fecha de entrega del conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+63) PREGUNTA: Cual es la fecha de entrega del sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+63) PREGUNTA: Cual es la fecha de entrega del sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+63) PREGUNTA: Cual es la fecha de entrega del sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+63) PREGUNTA: Cual es la fecha de entrega del sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+64) PREGUNTA: Cual es la fecha de entrega de la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+64) PREGUNTA: Cual es la fecha de entrega de la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+64) PREGUNTA: Cual es la fecha de entrega de la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+64) PREGUNTA: Cual es la fecha de entrega de la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+65) PREGUNTA: Cual es la fecha de entrega de la parte 1? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+65) PREGUNTA: Cual es la fecha de entrega de la parte 1? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+65) PREGUNTA: Cual es la fecha de entrega de la parte 1? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+65) PREGUNTA: Cual es la fecha de entrega de la parte 1? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+66) PREGUNTA: Cual es la fecha de entrega de la parte 2? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+66) PREGUNTA: Cual es la fecha de entrega de la parte 2? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+66) PREGUNTA: Cual es la fecha de entrega de la parte 2? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+66) PREGUNTA: Cual es la fecha de entrega de la parte 2? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+67) PREGUNTA: Cual es la fecha de entrega de la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+67) PREGUNTA: Cual es la fecha de entrega de la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+67) PREGUNTA: Cual es la fecha de entrega de la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+67) PREGUNTA: Cual es la fecha de entrega de la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+68) PREGUNTA: Cual es la fecha de entrega de la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+68) PREGUNTA: Cual es la fecha de entrega de la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+68) PREGUNTA: Cual es la fecha de entrega de la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+68) PREGUNTA: Cual es la fecha de entrega de la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+69) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+69) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+69) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+69) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+70) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+70) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+70) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+70) PREGUNTA: Cual es la fecha de entrega de la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+71) PREGUNTA: Cuando se entrega el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+71) PREGUNTA: Cuando se entrega el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+71) PREGUNTA: Cuando se entrega el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+71) PREGUNTA: Cuando se entrega el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+72) PREGUNTA: Cuando se entrega el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+72) PREGUNTA: Cuando se entrega el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+72) PREGUNTA: Cuando se entrega el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+72) PREGUNTA: Cuando se entrega el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+73) PREGUNTA: Cuando se entrega la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+73) PREGUNTA: Cuando se entrega la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+73) PREGUNTA: Cuando se entrega la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+73) PREGUNTA: Cuando se entrega la búsqueda? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+74) PREGUNTA: Cuando se entrega la parte 1 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+74) PREGUNTA: Cuando se entrega la parte 1 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+74) PREGUNTA: Cuando se entrega la parte 1 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+74) PREGUNTA: Cuando se entrega la parte 1 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+75) PREGUNTA: Cuando se entrega la parte 1 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+75) PREGUNTA: Cuando se entrega la parte 1 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+75) PREGUNTA: Cuando se entrega la parte 1 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+75) PREGUNTA: Cuando se entrega la parte 1 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+76) PREGUNTA: Cuando se entrega la parte 2 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+76) PREGUNTA: Cuando se entrega la parte 2 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+76) PREGUNTA: Cuando se entrega la parte 2 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+76) PREGUNTA: Cuando se entrega la parte 2 del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+77) PREGUNTA: Cuando se entrega la parte 2 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+77) PREGUNTA: Cuando se entrega la parte 2 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+77) PREGUNTA: Cuando se entrega la parte 2 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+77) PREGUNTA: Cuando se entrega la parte 2 del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+78) PREGUNTA: Cuando se entrega la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+78) PREGUNTA: Cuando se entrega la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+78) PREGUNTA: Cuando se entrega la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+78) PREGUNTA: Cuando se entrega la primera etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+79) PREGUNTA: Cuando se entrega la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+79) PREGUNTA: Cuando se entrega la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+79) PREGUNTA: Cuando se entrega la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+79) PREGUNTA: Cuando se entrega la primera etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+80) PREGUNTA: Cuando se entrega la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+80) PREGUNTA: Cuando se entrega la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+80) PREGUNTA: Cuando se entrega la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+80) PREGUNTA: Cuando se entrega la segunda etapa del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+81) PREGUNTA: Cuando se entrega la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+81) PREGUNTA: Cuando se entrega la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+81) PREGUNTA: Cuando se entrega la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+81) PREGUNTA: Cuando se entrega la segunda etapa del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+82) PREGUNTA: Cuando se entrega la primera parte de la primer etapa? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+82) PREGUNTA: Cuando se entrega la primera parte de la primer etapa? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+82) PREGUNTA: Cuando se entrega la primera parte de la primer etapa? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+82) PREGUNTA: Cuando se entrega la primera parte de la primer etapa? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+83) PREGUNTA: Cuando se entrega el vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+83) PREGUNTA: Cuando se entrega el vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+83) PREGUNTA: Cuando se entrega el vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+83) PREGUNTA: Cuando se entrega el vocabulario? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+84) PREGUNTA: Cuando se entrega el conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+84) PREGUNTA: Cuando se entrega el conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+84) PREGUNTA: Cuando se entrega el conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+84) PREGUNTA: Cuando se entrega el conjunto de reglas? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+85) PREGUNTA: Cuando se entrega el sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+85) PREGUNTA: Cuando se entrega el sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+85) PREGUNTA: Cuando se entrega el sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+85) PREGUNTA: Cuando se entrega el sistema de producción? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+86) PREGUNTA: Como es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+86) PREGUNTA: Como es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+86) PREGUNTA: Como es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+86) PREGUNTA: Como es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+87) PREGUNTA: Como es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+87) PREGUNTA: Como es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+87) PREGUNTA: Como es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+87) PREGUNTA: Como es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+88) PREGUNTA: Como es el email de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+88) PREGUNTA: Como es el email de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+88) PREGUNTA: Como es el email de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+88) PREGUNTA: Como es el email de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+89) PREGUNTA: Como es el email de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+89) PREGUNTA: Como es el email de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+89) PREGUNTA: Como es el email de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+89) PREGUNTA: Como es el email de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+90) PREGUNTA: Como es la dirección de correo electrónico de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+90) PREGUNTA: Como es la dirección de correo electrónico de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+90) PREGUNTA: Como es la dirección de correo electrónico de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+90) PREGUNTA: Como es la dirección de correo electrónico de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+91) PREGUNTA: Como es el correo de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+91) PREGUNTA: Como es el correo de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+91) PREGUNTA: Como es el correo de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+91) PREGUNTA: Como es el correo de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+92) PREGUNTA: Cual es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+92) PREGUNTA: Cual es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+92) PREGUNTA: Cual es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+92) PREGUNTA: Cual es el mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+93) PREGUNTA: Cual es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+93) PREGUNTA: Cual es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+93) PREGUNTA: Cual es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+93) PREGUNTA: Cual es el mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+94) PREGUNTA: Cual es el e-mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+94) PREGUNTA: Cual es el e-mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+94) PREGUNTA: Cual es el e-mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+94) PREGUNTA: Cual es el e-mail de la cátedra? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+95) PREGUNTA: Cual es el e-mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+95) PREGUNTA: Cual es el e-mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+95) PREGUNTA: Cual es el e-mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+95) PREGUNTA: Cual es el e-mail de la materia? - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+96) PREGUNTA: Como se regulariza la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+96) PREGUNTA: Como se regulariza la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+96) PREGUNTA: Como se regulariza la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+96) PREGUNTA: Como se regulariza la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+97) PREGUNTA: Como se hace para regularizar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+97) PREGUNTA: Como se hace para regularizar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+97) PREGUNTA: Como se hace para regularizar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+97) PREGUNTA: Como se hace para regularizar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+98) PREGUNTA: Como se promociona la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+98) PREGUNTA: Como se promociona la materia? - RESPUESTA: Aprobando los 2 TP y el parcial con 80%, la clase pública y con la asistencia (aunque nunca toman).
+98) PREGUNTA: Como se promociona la materia? - RESPUESTA: Aprobando los 2 TP y el parcial con 80%, la clase pública y con la asistencia (aunque nunca toman).
+98) PREGUNTA: Como se promociona la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+99) PREGUNTA: Como se hace para promocionar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+99) PREGUNTA: Como se hace para promocionar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+99) PREGUNTA: Como se hace para promocionar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+99) PREGUNTA: Como se hace para promocionar la materia? - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+100) PREGUNTA: Como se aprueba la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+100) PREGUNTA: Como se aprueba la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+100) PREGUNTA: Como se aprueba la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+100) PREGUNTA: Como se aprueba la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+101) PREGUNTA: Como se hace para aprobar la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+101) PREGUNTA: Como se hace para aprobar la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+101) PREGUNTA: Como se hace para aprobar la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+101) PREGUNTA: Como se hace para aprobar la materia? - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+102) PREGUNTA: Como se desarrollan las actividades? - RESPUESTA: En grupo de hasta 3 alumnos
+102) PREGUNTA: Como se desarrollan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+102) PREGUNTA: Como se desarrollan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+102) PREGUNTA: Como se desarrollan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+103) PREGUNTA: Como se realizan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+103) PREGUNTA: Como se realizan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+103) PREGUNTA: Como se realizan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+103) PREGUNTA: Como se realizan las actividades? - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+104) PREGUNTA: Como se calcula la nota final? - RESPUESTA: Como un promedio de lo que te sacaste en los parciales calculo…no se si lo dijeron en clases.
+104) PREGUNTA: Como se calcula la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+104) PREGUNTA: Como se calcula la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+104) PREGUNTA: Como se calcula la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+105) PREGUNTA: Como calculan la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+105) PREGUNTA: Como calculan la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+105) PREGUNTA: Como calculan la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+105) PREGUNTA: Como calculan la nota final? - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+106) PREGUNTA: Cual es el sitio de la cátedra? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+106) PREGUNTA: Cual es el sitio de la cátedra? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+106) PREGUNTA: Cual es el sitio de la cátedra? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+106) PREGUNTA: Cual es el sitio de la cátedra? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+107) PREGUNTA: Cual es el sitio de la materia? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+107) PREGUNTA: Cual es el sitio de la materia? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+107) PREGUNTA: Cual es el sitio de la materia? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+107) PREGUNTA: Cual es el sitio de la materia? - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+108) PREGUNTA: Cuando es el parcial? - RESPUESTA: El 1/6/2012
+108) PREGUNTA: Cuando es el parcial? - RESPUESTA: El 1/6/2012
+108) PREGUNTA: Cuando es el parcial? - RESPUESTA: El 1/6/2012
+108) PREGUNTA: Cuando es el parcial? - RESPUESTA: El 1/6/2012
+109) PREGUNTA: Cuando es el examen? - RESPUESTA: El 1/6/2012
+109) PREGUNTA: Cuando es el examen? - RESPUESTA: El 1/6/2012
+109) PREGUNTA: Cuando es el examen? - RESPUESTA: El 1/6/2012
+109) PREGUNTA: Cuando es el examen? - RESPUESTA: El 1/6/2012
+110) PREGUNTA: Cual es la fecha del parcial? - RESPUESTA: El 1º de junio
+110) PREGUNTA: Cual es la fecha del parcial? - RESPUESTA: El 1/6/2012
+110) PREGUNTA: Cual es la fecha del parcial? - RESPUESTA: El 1/6/2012
+110) PREGUNTA: Cual es la fecha del parcial? - RESPUESTA: El 1/6/2012
+111) PREGUNTA: Cuantas actividades tiene la materia? - RESPUESTA: 5 según la transparencia de la primera clase.
+111) PREGUNTA: Cuantas actividades tiene la materia? - RESPUESTA: 5 según la transparencia de la primera clase.
+111) PREGUNTA: Cuantas actividades tiene la materia? - RESPUESTA: 5 según la transparencia de la primera clase.
+111) PREGUNTA: Cuantas actividades tiene la materia? - RESPUESTA: 5 según la transparencia de la primera clase.
+112) PREGUNTA: Cuantas actividades tiene la cátedra? - RESPUESTA: 5 según la transparencia de la primera clase.
+112) PREGUNTA: Cuantas actividades tiene la cátedra? - RESPUESTA: 5 según la transparencia de la primera clase.
+112) PREGUNTA: Cuantas actividades tiene la cátedra? - RESPUESTA: 5 según la transparencia de la primera clase.
+112) PREGUNTA: Cuantas actividades tiene la cátedra? - RESPUESTA: 5 según la transparencia de la primera clase.
+113) PREGUNTA: Cuantas entregas tiene la primera etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+113) PREGUNTA: Cuantas entregas tiene la primera etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+113) PREGUNTA: Cuantas entregas tiene la primera etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+113) PREGUNTA: Cuantas entregas tiene la primera etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+114) PREGUNTA: Cuantas entregas tiene la primera etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+114) PREGUNTA: Cuantas entregas tiene la primera etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+114) PREGUNTA: Cuantas entregas tiene la primera etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+114) PREGUNTA: Cuantas entregas tiene la primera etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+115) PREGUNTA: Cuantas entregas tiene la segunda etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+115) PREGUNTA: Cuantas entregas tiene la segunda etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+115) PREGUNTA: Cuantas entregas tiene la segunda etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+115) PREGUNTA: Cuantas entregas tiene la segunda etapa del trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+116) PREGUNTA: Cuantas entregas tiene la segunda etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+116) PREGUNTA: Cuantas entregas tiene la segunda etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+116) PREGUNTA: Cuantas entregas tiene la segunda etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+116) PREGUNTA: Cuantas entregas tiene la segunda etapa del TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+117) PREGUNTA: Cuantas entregas tiene el trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+117) PREGUNTA: Cuantas entregas tiene el trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+117) PREGUNTA: Cuantas entregas tiene el trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+117) PREGUNTA: Cuantas entregas tiene el trabajo? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+118) PREGUNTA: Cuantas entregas tiene el TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+118) PREGUNTA: Cuantas entregas tiene el TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+118) PREGUNTA: Cuantas entregas tiene el TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+118) PREGUNTA: Cuantas entregas tiene el TP? - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+119) PREGUNTA: Cual es el puntaje para promocionar el trabajo? - RESPUESTA: Tenes que sacar un 8!
+119) PREGUNTA: Cual es el puntaje para promocionar el trabajo? - RESPUESTA: Tenes que sacar un 8!
+119) PREGUNTA: Cual es el puntaje para promocionar el trabajo? - RESPUESTA: Tenes que sacar un 8!
+119) PREGUNTA: Cual es el puntaje para promocionar el trabajo? - RESPUESTA: Tenes que sacar un 8!
+120) PREGUNTA: Cual es el puntaje para promocionar el TP? - RESPUESTA: Tenes que sacar un 8!
+120) PREGUNTA: Cual es el puntaje para promocionar el TP? - RESPUESTA: Tenes que sacar un 8!
+120) PREGUNTA: Cual es el puntaje para promocionar el TP? - RESPUESTA: 80%
+120) PREGUNTA: Cual es el puntaje para promocionar el TP? - RESPUESTA: 80%
+121) PREGUNTA: Cual es el puntaje para promocionar los trabajos? - RESPUESTA: Tenes que sacar un 8!
+121) PREGUNTA: Cual es el puntaje para promocionar los trabajos? - RESPUESTA: Tenes que sacar un 8!
+121) PREGUNTA: Cual es el puntaje para promocionar los trabajos? - RESPUESTA: Tenes que sacar un 8!
+121) PREGUNTA: Cual es el puntaje para promocionar los trabajos? - RESPUESTA: Tenes que sacar un 8!
+122) PREGUNTA: Cual es el puntaje para promocionar los TPs? - RESPUESTA: Tenes que sacar un 8!
+122) PREGUNTA: Cual es el puntaje para promocionar los TPs? - RESPUESTA: Tenes que sacar un 8!
+122) PREGUNTA: Cual es el puntaje para promocionar los TPs? - RESPUESTA: Tenes que sacar un 8!
+122) PREGUNTA: Cual es el puntaje para promocionar los TPs? - RESPUESTA: Tenes que sacar un 8!
+123) PREGUNTA: Cual es el puntaje para promocionar el parcial? - RESPUESTA: Tenes que sacar un 8!
+123) PREGUNTA: Cual es el puntaje para promocionar el parcial? - RESPUESTA: Tenes que sacar un 8!
+123) PREGUNTA: Cual es el puntaje para promocionar el parcial? - RESPUESTA: Tenes que sacar un 8!
+123) PREGUNTA: Cual es el puntaje para promocionar el parcial? - RESPUESTA: Tenes que sacar un 8!
+124) PREGUNTA: Cual es el puntaje para promocionar los parciales? - RESPUESTA: Tenes que sacar un 8!
+124) PREGUNTA: Cual es el puntaje para promocionar los parciales? - RESPUESTA: Tenes que sacar un 8!
+124) PREGUNTA: Cual es el puntaje para promocionar los parciales? - RESPUESTA: Tenes que sacar un 8!
+124) PREGUNTA: Cual es el puntaje para promocionar los parciales? - RESPUESTA: Tenes que sacar un 8!
+125) PREGUNTA: Cual es el puntaje para regularizar el trabajo? - RESPUESTA: Tenes que sacar un 6!
+125) PREGUNTA: Cual es el puntaje para regularizar el trabajo? - RESPUESTA: Tenes que sacar un 6!
+125) PREGUNTA: Cual es el puntaje para regularizar el trabajo? - RESPUESTA: Tenes que sacar un 6!
+125) PREGUNTA: Cual es el puntaje para regularizar el trabajo? - RESPUESTA: Tenes que sacar un 6!
+126) PREGUNTA: Cual es el puntaje para regularizar el TP? - RESPUESTA: Tenes que sacar un 6!
+126) PREGUNTA: Cual es el puntaje para regularizar el TP? - RESPUESTA: Tenes que sacar un 6!
+126) PREGUNTA: Cual es el puntaje para regularizar el TP? - RESPUESTA: Tenes que sacar un 6!
+126) PREGUNTA: Cual es el puntaje para regularizar el TP? - RESPUESTA: Tenes que sacar un 6!
+127) PREGUNTA: Cual es el puntaje para regularizar los trabajos? - RESPUESTA: Tenes que sacar un 6!
+127) PREGUNTA: Cual es el puntaje para regularizar los trabajos? - RESPUESTA: Tenes que sacar un 6!
+127) PREGUNTA: Cual es el puntaje para regularizar los trabajos? - RESPUESTA: Tenes que sacar un 6!
+127) PREGUNTA: Cual es el puntaje para regularizar los trabajos? - RESPUESTA: Tenes que sacar un 6!
+128) PREGUNTA: Cual es el puntaje para regularizar los TPs? - RESPUESTA: 60%
+128) PREGUNTA: Cual es el puntaje para regularizar los TPs? - RESPUESTA: 60%
+128) PREGUNTA: Cual es el puntaje para regularizar los TPs? - RESPUESTA: 60%
+128) PREGUNTA: Cual es el puntaje para regularizar los TPs? - RESPUESTA: 60%
+129) PREGUNTA: Cual es el puntaje para regularizar el parcial? - RESPUESTA: Tenes que sacar un 6!
+129) PREGUNTA: Cual es el puntaje para regularizar el parcial? - RESPUESTA: 60%
+129) PREGUNTA: Cual es el puntaje para regularizar el parcial? - RESPUESTA: Tenes que sacar un 6!
+129) PREGUNTA: Cual es el puntaje para regularizar el parcial? - RESPUESTA: 60%
+130) PREGUNTA: Cual es el puntaje para regularizar los parciales? - RESPUESTA: 60%
+130) PREGUNTA: Cual es el puntaje para regularizar los parciales? - RESPUESTA: 60%
+130) PREGUNTA: Cual es el puntaje para regularizar los parciales? - RESPUESTA: 60%
+130) PREGUNTA: Cual es el puntaje para regularizar los parciales? - RESPUESTA: 60%
+131) PREGUNTA: Cuales son los temas que se pueden elegirse para la clase publica? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+131) PREGUNTA: Cuales son los temas que se pueden elegirse para la clase publica? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+131) PREGUNTA: Cuales son los temas que se pueden elegirse para la clase publica? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+131) PREGUNTA: Cuales son los temas que se pueden elegirse para la clase publica? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+132) PREGUNTA: Cuales son los temas de las clases publicas? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+132) PREGUNTA: Cuales son los temas de las clases publicas? - RESPUESTA: No se, creo que en la primera transparencia están todos...
+132) PREGUNTA: Cuales son los temas de las clases publicas? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+132) PREGUNTA: Cuales son los temas de las clases publicas? - RESPUESTA: Los temas son: 1. Búsqueda: Métodos de agrupamiento no supervisado para la integración de datos genómicos y metabólicos de múltiples líneas de introgresión. 2. Cálculo situacional: A survey on application of Situation calculus in business information systems. 3. Robotica: Navigation of mobile robots in the presence of obstacles. 4. Robotica: Robot soccer with LEGO Mindstorms. 5. Robotica + planificación: Supporting 3D route planning in indoor space based on the LEGO representation. 6. Planificación: Artificial Intelligence and Grids: Workflow Planning and Beyond. 7. Sistemas expertos: Hot-news: Al final una supercomputadora aplastó a la inteligencia humana. 8. Ontologías: The semantic-web a new form of web content that is meaningfull to computers will unleash a revolution of new possibilities. 9. Redes neuronales: Array of Multilayer Perceptrons with No-class Resampling Training for Face Recognition.
+133) PREGUNTA: Cual es el porcentaje de asistencia? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+133) PREGUNTA: Cual es el porcentaje de asistencia? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+133) PREGUNTA: Cual es el porcentaje de asistencia? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+133) PREGUNTA: Cual es el porcentaje de asistencia? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+134) PREGUNTA: Cual es el porcentaje de asistencia requerido para promocionar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+134) PREGUNTA: Cual es el porcentaje de asistencia requerido para promocionar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+134) PREGUNTA: Cual es el porcentaje de asistencia requerido para promocionar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+134) PREGUNTA: Cual es el porcentaje de asistencia requerido para promocionar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+135) PREGUNTA: Cual es el porcentaje de asistencia requerido para regularizar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+135) PREGUNTA: Cual es el porcentaje de asistencia requerido para regularizar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+135) PREGUNTA: Cual es el porcentaje de asistencia requerido para regularizar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+135) PREGUNTA: Cual es el porcentaje de asistencia requerido para regularizar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+136) PREGUNTA: Cual es el porcentaje de asistencia requerido para aprobar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+136) PREGUNTA: Cual es el porcentaje de asistencia requerido para aprobar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+136) PREGUNTA: Cual es el porcentaje de asistencia requerido para aprobar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+136) PREGUNTA: Cual es el porcentaje de asistencia requerido para aprobar? - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+137) PREGUNTA: Cual es la modalidad? - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+137) PREGUNTA: Cual es la modalidad? - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+137) PREGUNTA: Cual es la modalidad? - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+137) PREGUNTA: Cual es la modalidad? - RESPUESTA: Es regular y promoción parcial.
+138) PREGUNTA: Cual es la modalidad de la cátedra? - RESPUESTA: Es regular y promoción parcial.
+138) PREGUNTA: Cual es la modalidad de la cátedra? - RESPUESTA: Es regular y promoción parcial.
+138) PREGUNTA: Cual es la modalidad de la cátedra? - RESPUESTA: Es regular y promoción parcial.
+138) PREGUNTA: Cual es la modalidad de la cátedra? - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+139) PREGUNTA: Cual es la modalidad de la materia? - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+139) PREGUNTA: Cual es la modalidad de la materia? - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+139) PREGUNTA: Cual es la modalidad de la materia? - RESPUESTA: Es regular y promoción parcial.
+139) PREGUNTA: Cual es la modalidad de la materia? - RESPUESTA: Es regular y promoción parcial.
+140) PREGUNTA: Cual es la fecha del recuperatorio? - RESPUESTA: El 8 de junio.
+140) PREGUNTA: Cual es la fecha del recuperatorio? - RESPUESTA: El 08/06/12.
+140) PREGUNTA: Cual es la fecha del recuperatorio? - RESPUESTA: El 08/06/12.
+140) PREGUNTA: Cual es la fecha del recuperatorio? - RESPUESTA: El 08/06/12.
+141) PREGUNTA: Cuando es el recuperatorio? - RESPUESTA: El 8 de junio.
+141) PREGUNTA: Cuando es el recuperatorio? - RESPUESTA: El 8 de junio.
+141) PREGUNTA: Cuando es el recuperatorio? - RESPUESTA: El 8 de junio.
+141) PREGUNTA: Cuando es el recuperatorio? - RESPUESTA: El 08/06/12.
+142) PREGUNTA: Cuando entregan el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+142) PREGUNTA: Cuando entregan el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+142) PREGUNTA: Cuando entregan el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+142) PREGUNTA: Cuando entregan el TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+143) PREGUNTA: Cuando entregan el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+143) PREGUNTA: Cuando entregan el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+143) PREGUNTA: Cuando entregan el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+143) PREGUNTA: Cuando entregan el trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+144) PREGUNTA: Cuando entregan el enunciado del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+144) PREGUNTA: Cuando entregan el enunciado del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+144) PREGUNTA: Cuando entregan el enunciado del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+144) PREGUNTA: Cuando entregan el enunciado del trabajo? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+145) PREGUNTA: Cuando entregan el enunciado del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+145) PREGUNTA: Cuando entregan el enunciado del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+145) PREGUNTA: Cuando entregan el enunciado del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+145) PREGUNTA: Cuando entregan el enunciado del TP? - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+146) PREGUNTA: Cuando es el coloquio? - RESPUESTA: Hay 2 coloquios, uno el 14/5 y otro el 25/6.
+146) PREGUNTA: Cuando es el coloquio? - RESPUESTA: El 1° coloquio es el lunes 14/05 y el 2° es el 25/06/2012.
+146) PREGUNTA: Cuando es el coloquio? - RESPUESTA: El 1° coloquio es el lunes 14/05 y el 2° es el 25/06/2012.
+146) PREGUNTA: Cuando es el coloquio? - RESPUESTA: El 1° coloquio es el lunes 14/05 y el 2° es el 25/06/2012.
+147) PREGUNTA: Cuantas clases publicas tiene que dar cada grupo? - RESPUESTA: Cuantas clases queres dar? Jajaja! Solo te piden 1!
+147) PREGUNTA: Cuantas clases publicas tiene que dar cada grupo? - RESPUESTA: Solo 1!
+147) PREGUNTA: Cuantas clases publicas tiene que dar cada grupo? - RESPUESTA: Cuantas clases queres dar? Jajaja! Solo te piden 1!
+147) PREGUNTA: Cuantas clases publicas tiene que dar cada grupo? - RESPUESTA: Solo 1!
+148) PREGUNTA: Cuantas clases publicas debe dar cada grupo? - RESPUESTA: Cuantas clases queres dar? Jajaja! Solo te piden 1!
+148) PREGUNTA: Cuantas clases publicas debe dar cada grupo? - RESPUESTA: Solo 1!
+148) PREGUNTA: Cuantas clases publicas debe dar cada grupo? - RESPUESTA: Solo 1!
+148) PREGUNTA: Cuantas clases publicas debe dar cada grupo? - RESPUESTA: Solo 1!
+149) PREGUNTA: Cuantas clases publicas debe hacer cada grupo? - RESPUESTA: Solo 1!
+149) PREGUNTA: Cuantas clases publicas debe hacer cada grupo? - RESPUESTA: Solo 1!
+149) PREGUNTA: Cuantas clases publicas debe hacer cada grupo? - RESPUESTA: Solo 1!
+149) PREGUNTA: Cuantas clases publicas debe hacer cada grupo? - RESPUESTA: Solo 1!
+150) PREGUNTA: Cuantas clases publicas debe realizar cada grupo? - RESPUESTA: Solo 1!
+150) PREGUNTA: Cuantas clases publicas debe realizar cada grupo? - RESPUESTA: Solo 1!
+150) PREGUNTA: Cuantas clases publicas debe realizar cada grupo? - RESPUESTA: Solo 1!
+150) PREGUNTA: Cuantas clases publicas debe realizar cada grupo? - RESPUESTA: Solo 1!
+151) PREGUNTA: Cuales son los horarios de teoría? - RESPUESTA: Solo damos teoría los viernes de 19:45 a 22 hs.
+151) PREGUNTA: Cuales son los horarios de teoría? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+151) PREGUNTA: Cuales son los horarios de teoría? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+151) PREGUNTA: Cuales son los horarios de teoría? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+152) PREGUNTA: Cuando se dan las clases teóricas? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+152) PREGUNTA: Cuando se dan las clases teóricas? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+152) PREGUNTA: Cuando se dan las clases teóricas? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+152) PREGUNTA: Cuando se dan las clases teóricas? - RESPUESTA: Los viernes de 19:45 a 22 hs.
+153) PREGUNTA: Cuales son los horarios de práctica? - RESPUESTA: Los lunes de 19 a 21:15 hs
+153) PREGUNTA: Cuales son los horarios de práctica? - RESPUESTA: Los lunes de 19 a 21:15 hs
+153) PREGUNTA: Cuales son los horarios de práctica? - RESPUESTA: Solo damos práctica los lunes de 19 a 21:15 hs
+153) PREGUNTA: Cuales son los horarios de práctica? - RESPUESTA: Los lunes de 19 a 21:15 hs
+154) PREGUNTA: Cuando se dan las clases practicas? - RESPUESTA: Solo damos práctica los lunes de 19 a 21:15 hs
+154) PREGUNTA: Cuando se dan las clases practicas? - RESPUESTA: Solo damos práctica los lunes de 19 a 21:15 hs
+154) PREGUNTA: Cuando se dan las clases practicas? - RESPUESTA: Solo damos práctica los lunes de 19 a 21:15 hs
+154) PREGUNTA: Cuando se dan las clases practicas? - RESPUESTA: Los lunes de 19 a 21:15 hs
+155) PREGUNTA: Cuales son los horarios de consulta? - RESPUESTA: Los miércoles de 16 a 18 hs. (salvo en semana de examen)
+155) PREGUNTA: Cuales son los horarios de consulta? - RESPUESTA: Los miércoles de 16 a 18 hs. (salvo en semana de examen)
+155) PREGUNTA: Cuales son los horarios de consulta? - RESPUESTA: Los miércoles de 16 a 18 hs. (salvo en semana de examen)
+155) PREGUNTA: Cuales son los horarios de consulta? - RESPUESTA: Los miércoles de 16 a 18 hs.
+156) PREGUNTA: Chau. - RESPUESTA: Chauuuuu!!!
+156) PREGUNTA: Chau. - RESPUESTA: Chauuuuu!!!
+156) PREGUNTA: Chau. - RESPUESTA: Chauuuuu!!!
+156) PREGUNTA: Chau. - RESPUESTA: Chauuuuu!!!
+157) PREGUNTA: Adios. - RESPUESTA: Chauuuuu!!!
+157) PREGUNTA: Adios. - RESPUESTA: Chauuuuu!!!
+157) PREGUNTA: Adios. - RESPUESTA: Chauuuuu!!!
+157) PREGUNTA: Adios. - RESPUESTA: Chauuuuu!!!
+158) PREGUNTA: Que tengas buenas noches. - RESPUESTA: Chauuuuu!!!
+158) PREGUNTA: Que tengas buenas noches. - RESPUESTA: Chauuuuu!!!
+158) PREGUNTA: Que tengas buenas noches. - RESPUESTA: Chauuuuu!!!
+158) PREGUNTA: Que tengas buenas noches. - RESPUESTA: Chauuuuu!!!
+159) PREGUNTA: Que tengas buenas tardes. - RESPUESTA: Chauuuuu!!!
+159) PREGUNTA: Que tengas buenas tardes. - RESPUESTA: Chauuuuu!!!
+159) PREGUNTA: Que tengas buenas tardes. - RESPUESTA: Chauuuuu!!!
+159) PREGUNTA: Que tengas buenas tardes. - RESPUESTA: Chauuuuu!!!
+160) PREGUNTA: Que tengas buen día. - RESPUESTA: Chauuuuu!!!
+160) PREGUNTA: Que tengas buen día. - RESPUESTA: Chauuuuu!!!
+160) PREGUNTA: Que tengas buen día. - RESPUESTA: Chauuuuu!!!
+160) PREGUNTA: Que tengas buen día. - RESPUESTA: Chauuuuu!!!
+161) PREGUNTA: Nos vemos! - RESPUESTA: Chauuuuu!!!
+161) PREGUNTA: Nos vemos! - RESPUESTA: Chauuuuu!!!
+161) PREGUNTA: Nos vemos! - RESPUESTA: Chauuuuu!!!
+161) PREGUNTA: Nos vemos! - RESPUESTA: Chauuuuu!!!
+162) PREGUNTA: Nos estamos viendo. - RESPUESTA: Chauuuuu!!!
+162) PREGUNTA: Nos estamos viendo. - RESPUESTA: Chauuuuu!!!
+162) PREGUNTA: Nos estamos viendo. - RESPUESTA: Chauuuuu!!!
+162) PREGUNTA: Nos estamos viendo. - RESPUESTA: Chauuuuu!!!
+163) PREGUNTA: Muchas gracias. - RESPUESTA: No hay drama :)!
+163) PREGUNTA: Muchas gracias. - RESPUESTA: De nada!
+163) PREGUNTA: Muchas gracias. - RESPUESTA: De nada!
+163) PREGUNTA: Muchas gracias. - RESPUESTA: De nada!

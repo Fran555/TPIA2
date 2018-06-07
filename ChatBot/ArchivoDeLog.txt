@@ -1,0 +1,402 @@
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: Hola!
+
+Agent State: Percepcion: hola - Tipo percepcion: f - Cadena Actual: hola - Nodo Actual: hola - Reglas: (3) (4) - Despedirse: 0
+
+Environment: Input: Hola! - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: hola - Tipo percepcion: f - Cadena Actual: hola - Nodo Actual: hola - Reglas: (3) (4) - Despedirse: 0
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: hola - Tipo percepcion: f - Cadena Actual: hola - Nodo Actual: hola - Reglas: (3) (4) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: hola - Tipo percepcion: f - Cadena Actual: hola - Nodo Actual: hola - Reglas: (3) (4) - Despedirse: 0
+
+Environment: Input: Hola! - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (3) (4) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (3) (4) 
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (3) 
+Rule to execute: 3
+
+Environment: Input: Hola! - Respuesta: Hola!!! - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: como te va?
+
+Agent State: Percepcion: como ir - Tipo percepcion: p - Cadena Actual: como - Nodo Actual: como - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: como te va? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: como ir - Tipo percepcion: p - Cadena Actual: como - Nodo Actual: como - Reglas: (1) (2) - Despedirse: 0
+
+Action returned: IrIr
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: como ir - Tipo percepcion: p - Cadena Actual: como ir - Nodo Actual: ir - Reglas: (1) (2) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: como ir - Tipo percepcion: p - Cadena Actual: como ir - Nodo Actual: ir - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: como te va? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (1) (2) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (1) (2) 
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (1) (2) 
+Criterio:Novelty (Novedad)
+Reglas en Conflicto: (1) (2) 
+Criterio:Random (Aleatorio)
+Reglas en Conflicto: (2) 
+Rule to execute: 2
+
+Environment: Input: como te va? - Respuesta: No se que decirte, no entendí la pregunta :S - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: donde esta milagros?
+
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: donde esta milagros? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Action returned: IrEstar
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+Environment: Input: donde esta milagros? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:Novelty (Novedad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:Random (Aleatorio)
+Reglas en Conflicto: (19) 
+Rule to execute: 19
+
+Environment: Input: donde esta milagros? - Respuesta: En el trabajo, intantando hacer unas pruebas a un SW - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: donde esta jorge?
+
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: donde esta jorge? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Action returned: IrEstar
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+Environment: Input: donde esta jorge? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (17) (18) 
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (17) (18) 
+Criterio:Novelty (Novedad)
+Reglas en Conflicto: (17) (18) 
+Criterio:Random (Aleatorio)
+Reglas en Conflicto: (17) 
+Rule to execute: 17
+
+Environment: Input: donde esta jorge? - Respuesta: En mi casa…por? - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: donde esta juan?
+
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: donde esta juan? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Action returned: IrEstar
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+Environment: Input: donde esta juan? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (18) 
+Rule to execute: 18
+
+Environment: Input: donde esta juan? - Respuesta: En el laboratorio de la facu… - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: donde esta julia?
+
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: donde esta julia? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde - Nodo Actual: donde - Reglas: (1) (2) - Despedirse: 0
+
+Action returned: IrEstar
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: donde estar - Tipo percepcion: p - Cadena Actual: donde estar - Nodo Actual: estar - Reglas: (1) (2) (17) (18) (19) - Despedirse: 0
+
+Environment: Input: donde esta julia? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: -
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:Novelty (Novedad)
+Reglas en Conflicto: (17) (18) (19) 
+Criterio:Random (Aleatorio)
+Reglas en Conflicto: (17) 
+Rule to execute: 17
+
+Environment: Input: donde esta julia? - Respuesta: En mi casa…por? - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: como te llamas?
+
+Agent State: Percepcion: como llamar - Tipo percepcion: p - Cadena Actual: como - Nodo Actual: como - Reglas: (1) (2) - Despedirse: 0
+
+Environment: Input: como te llamas? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: como llamar - Tipo percepcion: p - Cadena Actual: como - Nodo Actual: como - Reglas: (1) (2) - Despedirse: 0
+
+Action returned: IrLlamar
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: como llamar - Tipo percepcion: p - Cadena Actual: como llamar - Nodo Actual: llamar - Reglas: (1) (2) (5) (6) - Despedirse: 0
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: como llamar - Tipo percepcion: p - Cadena Actual: como llamar - Nodo Actual: llamar - Reglas: (1) (2) (5) (6) - Despedirse: 0
+
+Environment: Input: como te llamas? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (5) (6) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (5) (6) 
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (5) 
+Rule to execute: 5
+
+Environment: Input: como te llamas? - Respuesta: Andrés, pero me dicen ANDU…vos? - Conectado: true
+
+----------------------------------------------------
+--- Search Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Sending perception to agent...
+
+Perception: Oracion: buen dia?
+
+Agent State: Percepcion: null- Tipo percepcion: p - Cadena Actual: - Nodo Actual:  - Reglas: - Despedirse: 1
+
+Environment: Input: buen dia? - Respuesta:  - Conectado: true
+
+------------------------------------
+Searching...
+
+Asking the agent for an action...
+Agent State: Percepcion: null- Tipo percepcion: p - Cadena Actual: - Nodo Actual:  - Reglas: - Despedirse: 1
+
+------------------------------------
+After Search...
+
+Agent Final State: Percepcion: null- Tipo percepcion: p - Cadena Actual: - Nodo Actual:  - Reglas: (95) (96) - Despedirse: 1
+
+------------------------------------
+
+----------------------------------------------------
+--- Knowledge Based Simulator ---
+----------------------------------------------------
+
+------------------------------------
+Agent State: Percepcion: null- Tipo percepcion: p - Cadena Actual: - Nodo Actual:  - Reglas: (95) (96) - Despedirse: 1
+
+Environment: Input: buen dia? - Respuesta:  - Conectado: true
+
+Asking the agent that start the learning process...
+
+Criterio:Specificity (Especificidad)
+Reglas en Conflicto: (95) (96) 
+Criterio:No Duplication (No duplicación)
+Reglas en Conflicto: (95) (96) 
+Criterio:Priority (Prioridad)
+Reglas en Conflicto: (96) 
+Rule to execute: 96
+
+Environment: Input: buen dia? - Respuesta: ¿? - Conectado: true
+

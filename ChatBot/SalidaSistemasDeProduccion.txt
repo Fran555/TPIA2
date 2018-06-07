@@ -1,0 +1,163 @@
+1) ENTRADA: Hola. - PERCEPCION: hola  - RESPUESTA: Hola!!!
+2) ENTRADA: Buenos días. - PERCEPCION: hola  - RESPUESTA: Buenas...
+3) ENTRADA: Buenas tardes. - PERCEPCION: hola  - RESPUESTA: Hola!!!
+4) ENTRADA: Buenas noches. - PERCEPCION: hola  - RESPUESTA: Hola!!!
+5) ENTRADA: Buen día. - PERCEPCION: hola  - RESPUESTA: Hola!!!
+6) ENTRADA: Como te llamas? - PERCEPCION: como llamar  - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+7) ENTRADA: Cual es tu nombre? - PERCEPCION: cual ser llamar  - RESPUESTA: Andrés, y tu nombre es…?
+8) ENTRADA: Quien sos? - PERCEPCION: quien ser  - RESPUESTA: Andrés, pero me dicen ANDU…vos?
+9) ENTRADA: Como andas? - PERCEPCION: como estar  - RESPUESTA: Todo bien!, y vos?
+10) ENTRADA: Como estas? - PERCEPCION: como estar  - RESPUESTA: Espectacular, vos que tal estas?
+11) ENTRADA: Que tal estas? - PERCEPCION: que estar  - RESPUESTA: Todo bien!, y vos?
+12) ENTRADA: Que tal te va? - PERCEPCION: que ir  - RESPUESTA: Bien bien :)
+13) ENTRADA: Que haces? - PERCEPCION: que realizar  - RESPUESTA: Estudiando IA…a ver si logro entender lo que estamos dando
+14) ENTRADA: Que hacías? - PERCEPCION: que realizar  - RESPUESTA: Trabajando un poco…
+15) ENTRADA: Que contas? - PERCEPCION: que realizar  - RESPUESTA: No mucho…ando chateando un poco para despejarme de las cosas de la facu
+16) ENTRADA: Donde estas? - PERCEPCION: donde estar  - RESPUESTA: En el laboratorio de la facu…
+17) ENTRADA: Como se llama el libro? - PERCEPCION: como llamar libro  - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+18) ENTRADA: Como se llaman los libros? - PERCEPCION: como llamar libro  - RESPUESTA: Hay 4 libros: ‘Inteligencia Artificial. Un enfoque moderno’ de Russel - Norvig; ‘Inteligencia artificial’ de Rich-Knight; ‘Inteligencia artificial. Una nueva síntesis’ de Nilsson;  y ‘MultiAgent Systems’ de Wooldridge.
+19) ENTRADA: Cuales son los libros? - PERCEPCION: cual ser libro  - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+20) ENTRADA: Cual es la bibliografía? - PERCEPCION: cual ser bibliografia  - RESPUESTA: El libro del que tenemos que estudiar se llama 'Inteligencia Artificial. Un enfoque moderno'. Es de Russel & Norvig.
+21) ENTRADA: Como se organiza la materia? - PERCEPCION: como organizar materia  - RESPUESTA: La materia tiene varias cosas: un TP de tres entregas parciales, una clase pública en grupo, y un parcial.
+22) ENTRADA: Como se estructura la materia? - PERCEPCION: como organizar materia  - RESPUESTA: Tenemos que hacer un TP, una clase pública, y 1 parcial…
+23) ENTRADA: Como se llama el docente de teoría? - PERCEPCION: como llamar profesor teoria  - RESPUESTA: Milagros Gutierrez
+24) ENTRADA: Como se llama el profesor de teoría? - PERCEPCION: como llamar profesor teoria  - RESPUESTA: Creo que Milagros
+25) ENTRADA: Como se llama la docente de teoría? - PERCEPCION: como llamar profesor teoria  - RESPUESTA: Milagros Gutierrez
+26) ENTRADA: Como se llama la profesora de teoría? - PERCEPCION: como llamar profesora teoria  - RESPUESTA: Milagros Gutierrez
+27) ENTRADA: Como se llama el docente de practica? - PERCEPCION: como llamar profesor practica  - RESPUESTA: Jorge Roa
+28) ENTRADA: Como se llama el ayudante? - PERCEPCION: como llamar ayudante  - RESPUESTA: Jorge Roa
+29) ENTRADA: Como se llama la profesora de práctica? - PERCEPCION: como llamar profesora practica  - RESPUESTA: No hay profesora de práctica, es un profesor!
+30) ENTRADA: Como se llama el agente del trabajo? - PERCEPCION: como llamar agente tp  - RESPUESTA: Chat Bot
+31) ENTRADA: Como se llama el agente del tp? - PERCEPCION: como llamar agente tp  - RESPUESTA: La verdad que no me acuerdo; jajaja!
+32) ENTRADA: Cual es el nombre del agente del TP? - PERCEPCION: cual ser llamar agente tp  - RESPUESTA: Chat Bot
+33) ENTRADA: Cual es el nombre del agente del trabajo? - PERCEPCION: cual ser llamar agente tp  - RESPUESTA: La verdad que no me acuerdo; jajaja!
+34) ENTRADA: Cual es el nombre del TP? - PERCEPCION: cual ser llamar tp  - RESPUESTA: Chat Bot
+35) ENTRADA: Cual es el nombre del trabajo práctico? - PERCEPCION: cual ser llamar tp  - RESPUESTA: La verdad que no me acuerdo; jajaja!
+36) ENTRADA: Como se llama la cátedra? - PERCEPCION: como llamar materia  - RESPUESTA: IA  = inteligencia artificial :)
+37) ENTRADA: Como se llama la materia? - PERCEPCION: como llamar materia  - RESPUESTA: Inteligencia Artificial
+38) ENTRADA: Como es el nombre de la materia? - PERCEPCION: como ser llamar materia  - RESPUESTA: IA  = inteligencia artificial :)
+39) ENTRADA: Como es el nombre de la cátedra? - PERCEPCION: como ser llamar materia  - RESPUESTA: Inteligencia Artificial
+40) ENTRADA: Cual es el nombre de la materia? - PERCEPCION: cual ser llamar materia  - RESPUESTA: IA  = inteligencia artificial :)
+41) ENTRADA: Cual es el nombre de la cátedra? - PERCEPCION: cual ser llamar materia  - RESPUESTA: Inteligencia Artificial
+42) ENTRADA: Como se llaman los profesores? - PERCEPCION: como llamar profesor  - RESPUESTA: Milagros Gutiérrez y Jorge Roa
+43) ENTRADA: Como se llaman los docentes? - PERCEPCION: como llamar profesor  - RESPUESTA: Milagros y Jorge
+44) ENTRADA: Como se llama el framework? - PERCEPCION: como llamar framework  - RESPUESTA: Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEM-IA
+45) ENTRADA: Como se llaman los software a usar? - PERCEPCION: como llamar framework  - RESPUESTA: En IA usamos Java, Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEMIA
+46) ENTRADA: Cuales son los software? - PERCEPCION: cual ser framework  - RESPUESTA: Eclipse, SWI-Prolog, Mix Tex, FAIA e IDEM-IA
+47) ENTRADA: Como se informan los grupos? - PERCEPCION: como informar grupo  - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+48) ENTRADA: Como se avisan los grupos? - PERCEPCION: como informar grupo  - RESPUESTA: Mandando un mail a la cátedra! Pone los nombres y apellidos, y los mails...
+49) ENTRADA: Como avisamos los grupos? - PERCEPCION: como informar grupo  - RESPUESTA: Mandando un mail con la formación del mismo indicando nombre y apellido + dirección de e-mail de todos los integrantes
+50) ENTRADA: Como se conforman los grupos? - PERCEPCION: como conformar grupo  - RESPUESTA: Los grupos tienen que ser de hasta 3 integrantes…
+51) ENTRADA: Como formamos los grupos? - PERCEPCION: como conformar grupo  - RESPUESTA: De 2 o de a 3! No se puede trabajar solo…si no tenes grupo podemos trabajar juntos :)
+52) ENTRADA: Como se evalúa el TP? - PERCEPCION: como evaluar tp  - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+53) ENTRADA: Como se evalúa el trabajo? - PERCEPCION: como evaluar tp  - RESPUESTA: Se evalúa con el informe, viendo si alcanza los objetivos, según la solución de software que presentemos, la cantidad y calidad de las pruebas, y la expresividad en el coloquio.
+54) ENTRADA: Como evalúan el TP los profesores? - PERCEPCION: como evaluar tp  - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+55) ENTRADA: Cuales son los aspectos que se evalúan del TP? - PERCEPCION: cual ser que evaluar tp  - RESPUESTA: Se evalúa: 1) El informe técnico. 2) Que se alcance el objetivo del TP. 3) La presentación de la solución de software. 4) La cantidad y calidad de las pruebas que se realicen. 5) La expresividad en el coloquio. Son muchas cosas…pero al menos eso es lo que dijeron los profesores
+56) ENTRADA: Cuales son los aspectos que se evalúan del trabajo? - PERCEPCION: cual ser que evaluar tp  - RESPUESTA: Se evalúa con el informe, viendo si alcanza los objetivos, según la solución de software que presentemos, la cantidad y calidad de las pruebas, y la expresividad en el coloquio.
+57) ENTRADA: Como se entrega el TP? - PERCEPCION: como entregar tp  - RESPUESTA: El TP tiene 2 etapas, y en cada una se entregan distintas cosas (vocabulario, sistemas de producción, conjunto de reglas, etc). Todas las entregas son por el sitio…fíjate sino lo que dice el enunciado…
+58) ENTRADA: Como se entrega el trabajo? - PERCEPCION: como entregar tp  - RESPUESTA: Por el sitio de IA en el campus virtual!
+59) ENTRADA: Cual es la fecha de entrega del trabajo? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+60) ENTRADA: Cual es la fecha de entrega del TP? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+61) ENTRADA: Cual es la fecha de entrega del vocabulario? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+62) ENTRADA: Cual es la fecha de entrega del conjunto de reglas? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+63) ENTRADA: Cual es la fecha de entrega del sistema de producción? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+64) ENTRADA: Cual es la fecha de entrega de la búsqueda? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+65) ENTRADA: Cual es la fecha de entrega de la parte 1? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+66) ENTRADA: Cual es la fecha de entrega de la parte 2? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+67) ENTRADA: Cual es la fecha de entrega de la primera etapa del trabajo? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+68) ENTRADA: Cual es la fecha de entrega de la primera etapa del TP? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+69) ENTRADA: Cual es la fecha de entrega de la segunda etapa del trabajo? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+70) ENTRADA: Cual es la fecha de entrega de la segunda etapa del TP? - PERCEPCION: cual ser fecha entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+71) ENTRADA: Cuando se entrega el trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+72) ENTRADA: Cuando se entrega el TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+73) ENTRADA: Cuando se entrega la búsqueda? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+74) ENTRADA: Cuando se entrega la parte 1 del trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+75) ENTRADA: Cuando se entrega la parte 1 del TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+76) ENTRADA: Cuando se entrega la parte 2 del trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+77) ENTRADA: Cuando se entrega la parte 2 del TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+78) ENTRADA: Cuando se entrega la primera etapa del trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+79) ENTRADA: Cuando se entrega la primera etapa del TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+80) ENTRADA: Cuando se entrega la segunda etapa del trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+81) ENTRADA: Cuando se entrega la segunda etapa del TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+82) ENTRADA: Cuando se entrega la primera parte de la primer etapa? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+83) ENTRADA: Cuando se entrega el vocabulario? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+84) ENTRADA: Cuando se entrega el conjunto de reglas? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+85) ENTRADA: Cuando se entrega el sistema de producción? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 (vocabulario) y otra el 14/05 (conjunto de reglas + búsqueda). La 2° etapa tiene como fecha límite el 25/06/2012 para entregar el sistema de producción.
+86) ENTRADA: Como es el mail de la cátedra? - PERCEPCION: como ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+87) ENTRADA: Como es el mail de la materia? - PERCEPCION: como ser mail  - RESPUESTA: ia@frsf.utn.edu.ar
+88) ENTRADA: Como es el email de la cátedra? - PERCEPCION: como ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+89) ENTRADA: Como es el email de la materia? - PERCEPCION: como ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+90) ENTRADA: Como es la dirección de correo electrónico de la cátedra? - PERCEPCION: como ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+91) ENTRADA: Como es el correo de la cátedra? - PERCEPCION: como ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+92) ENTRADA: Cual es el mail de la cátedra? - PERCEPCION: cual ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+93) ENTRADA: Cual es el mail de la materia? - PERCEPCION: cual ser mail  - RESPUESTA: ia@frsf.utn.edu.ar
+94) ENTRADA: Cual es el e-mail de la cátedra? - PERCEPCION: cual ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+95) ENTRADA: Cual es el e-mail de la materia? - PERCEPCION: cual ser mail  - RESPUESTA: No me acuerdo bien…creo que es ia@frsf.utn.edu.ar, pero no estoy muy seguro!
+96) ENTRADA: Como se regulariza la materia? - PERCEPCION: como regularizar materia  - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 60% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 60% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+97) ENTRADA: Como se hace para regularizar la materia? - PERCEPCION: como regularizar materia  - RESPUESTA: Aprobando los 2 TP y el parcial con 60%, la clase pública y con la asistencia (aunque nunca toman).
+98) ENTRADA: Como se promociona la materia? - PERCEPCION: como promocionar materia  - RESPUESTA: 1)Hay que aprobar: a) 2 Trabajos Prácticos con un puntaje igual o superior al 80% b) aprobar un parcial o su recuperatorio con un puntaje igual o superior al 80% c) Presentar una clase pública 2)Tener el 80% de la asistencia
+99) ENTRADA: Como se hace para promocionar la materia? - PERCEPCION: como promocionar materia  - RESPUESTA: Aprobando los 2 TP y el parcial con 80%, la clase pública y con la asistencia (aunque nunca toman).
+100) ENTRADA: Como se aprueba la materia? - PERCEPCION: como aprobar materia  - RESPUESTA: Hay que aprobar el trabajo práctico, el parcial y un examen final.
+101) ENTRADA: Como se hace para aprobar la materia? - PERCEPCION: como aprobar materia  - RESPUESTA: Una vez que regularizaste o promocionaste, rendís el final y listo!
+102) ENTRADA: Como se desarrollan las actividades? - PERCEPCION: como realizar actividad  - RESPUESTA: En grupo de hasta 3 alumnos
+103) ENTRADA: Como se realizan las actividades? - PERCEPCION: como realizar actividad  - RESPUESTA: De forma grupal (menos los parciales obviamente!)
+104) ENTRADA: Como se calcula la nota final? - PERCEPCION: como calcular nota  - RESPUESTA: Como un promedio de lo que te sacaste en los parciales calculo…no se si lo dijeron en clases.
+105) ENTRADA: Como calculan la nota final? - PERCEPCION: como calcular nota  - RESPUESTA: La nota final se calcula como un promedio entre el examen final teórico-práctico y el examen teórico (en caso de rendir regular) o un promedio de las notas del TP, parcial y examen teórico (en caso de rendir promocionado)
+106) ENTRADA: Cual es el sitio de la cátedra? - PERCEPCION: cual ser sitio  - RESPUESTA: No se bien…entra al campus de la facu y fíjate ahí!
+107) ENTRADA: Cual es el sitio de la materia? - PERCEPCION: cual ser sitio  - RESPUESTA: http://campusvirtual.frsf.utn.edu.ar/
+108) ENTRADA: Cuando es el parcial? - PERCEPCION: cuando ser parcial  - RESPUESTA: El 1/6/2012
+109) ENTRADA: Cuando es el examen? - PERCEPCION: cuando ser parcial  - RESPUESTA: El 1º de junio
+110) ENTRADA: Cual es la fecha del parcial? - PERCEPCION: cual ser fecha parcial  - RESPUESTA: El 1/6/2012
+111) ENTRADA: Cuantas actividades tiene la materia? - PERCEPCION: cuantas actividad  - RESPUESTA: 5 según la transparencia de la primera clase.
+112) ENTRADA: Cuantas actividades tiene la cátedra? - PERCEPCION: cuantas actividad  - RESPUESTA: 5 creo, entre TP, parcial y coloquios.
+113) ENTRADA: Cuantas entregas tiene la primera etapa del trabajo? - PERCEPCION: cuantas entregar tp  - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+114) ENTRADA: Cuantas entregas tiene la primera etapa del TP? - PERCEPCION: cuantas entregar tp  - RESPUESTA: Tiene 3 entregas, 2 para la primera parte y 1 para la segunda.
+115) ENTRADA: Cuantas entregas tiene la segunda etapa del trabajo? - PERCEPCION: cuantas entregar tp  - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+116) ENTRADA: Cuantas entregas tiene la segunda etapa del TP? - PERCEPCION: cuantas entregar tp  - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+117) ENTRADA: Cuantas entregas tiene el trabajo? - PERCEPCION: cuantas entregar tp  - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+118) ENTRADA: Cuantas entregas tiene el TP? - PERCEPCION: cuantas entregar tp  - RESPUESTA: Creo que son 3 (2 para la parte 2 y 1 para la 2).
+119) ENTRADA: Cual es el puntaje para promocionar el trabajo? - PERCEPCION: cual ser nota promocionar tp  - RESPUESTA: Tenes que sacar un 8!
+120) ENTRADA: Cual es el puntaje para promocionar el TP? - PERCEPCION: cual ser nota promocionar tp  - RESPUESTA: 80%
+121) ENTRADA: Cual es el puntaje para promocionar los trabajos? - PERCEPCION: cual ser nota promocionar tp  - RESPUESTA: Tenes que sacar un 8!
+122) ENTRADA: Cual es el puntaje para promocionar los TPs? - PERCEPCION: cual ser nota promocionar tp  - RESPUESTA: Tenes que sacar un 8!
+123) ENTRADA: Cual es el puntaje para promocionar el parcial? - PERCEPCION: cual ser nota promocionar parcial  - RESPUESTA: Tenes que sacar un 8!
+124) ENTRADA: Cual es el puntaje para promocionar los parciales? - PERCEPCION: cual ser nota promocionar parcial  - RESPUESTA: 80%
+125) ENTRADA: Cual es el puntaje para regularizar el trabajo? - PERCEPCION: cual ser nota regularizar tp  - RESPUESTA: Tenes que sacar un 6!
+126) ENTRADA: Cual es el puntaje para regularizar el TP? - PERCEPCION: cual ser nota regularizar tp  - RESPUESTA: 60%
+127) ENTRADA: Cual es el puntaje para regularizar los trabajos? - PERCEPCION: cual ser nota regularizar tp  - RESPUESTA: Tenes que sacar un 6!
+128) ENTRADA: Cual es el puntaje para regularizar los TPs? - PERCEPCION: cual ser nota regularizar tp  - RESPUESTA: Tenes que sacar un 6!
+129) ENTRADA: Cual es el puntaje para regularizar el parcial? - PERCEPCION: cual ser nota regularizar parcial  - RESPUESTA: Tenes que sacar un 6!
+130) ENTRADA: Cual es el puntaje para regularizar los parciales? - PERCEPCION: cual ser nota regularizar parcial  - RESPUESTA: 60%
+131) ENTRADA: Cuales son los temas que se pueden elegirse para la clase publica? - PERCEPCION: cual ser tema que charla  - RESPUESTA: No se, creo que en la primera transparencia están todos...
+132) ENTRADA: Cuales son los temas de las clases publicas? - PERCEPCION: cual ser tema charla  - RESPUESTA: No se, creo que en la primera transparencia están todos...
+133) ENTRADA: Cual es el porcentaje de asistencia? - PERCEPCION: cual ser porcentaje asistencia  - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+134) ENTRADA: Cual es el porcentaje de asistencia requerido para promocionar? - PERCEPCION: cual ser porcentaje asistencia  - RESPUESTA: 80%
+135) ENTRADA: Cual es el porcentaje de asistencia requerido para regularizar? - PERCEPCION: cual ser porcentaje asistencia  - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+136) ENTRADA: Cual es el porcentaje de asistencia requerido para aprobar? - PERCEPCION: cual ser porcentaje asistencia  - RESPUESTA: 80%...pero te cuento un secretito: nunca toman asistencia :)
+137) ENTRADA: Cual es la modalidad? - PERCEPCION: cual ser modalidad  - RESPUESTA: Es regular y promoción parcial.
+138) ENTRADA: Cual es la modalidad de la cátedra? - PERCEPCION: cual ser modalidad  - RESPUESTA: Podes quedar regular o con una promoción parcial (después tenes que rendir la teoría).
+139) ENTRADA: Cual es la modalidad de la materia? - PERCEPCION: cual ser modalidad  - RESPUESTA: Es regular y promoción parcial.
+140) ENTRADA: Cual es la fecha del recuperatorio? - PERCEPCION: cual ser fecha recuperatorio  - RESPUESTA: El 08/06/12.
+141) ENTRADA: Cuando es el recuperatorio? - PERCEPCION: cuando ser recuperatorio  - RESPUESTA: El 08/06/12.
+142) ENTRADA: Cuando entregan el TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+143) ENTRADA: Cuando entregan el trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+144) ENTRADA: Cuando entregan el enunciado del trabajo? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+145) ENTRADA: Cuando entregan el enunciado del TP? - PERCEPCION: cuando entregar tp  - RESPUESTA: La 1° etapa tiene 2 entregas: una el 23/03 y otra el 14/05. La 2° etapa tiene como fecha límite el 25/06/2012.
+146) ENTRADA: Cuando es el coloquio? - PERCEPCION: cuando ser coloquio  - RESPUESTA: El 1° coloquio es el lunes 14/05 y el 2° es el 25/06/2012.
+147) ENTRADA: Cuantas clases publicas tiene que dar cada grupo? - PERCEPCION: cuantas charla que ser  - RESPUESTA: Solo 1!
+148) ENTRADA: Cuantas clases publicas debe dar cada grupo? - PERCEPCION: cuantas charla ser  - RESPUESTA: Solo 1!
+149) ENTRADA: Cuantas clases publicas debe hacer cada grupo? - PERCEPCION: cuantas charla realizar  - RESPUESTA: Solo 1!
+150) ENTRADA: Cuantas clases publicas debe realizar cada grupo? - PERCEPCION: cuantas charla realizar  - RESPUESTA: Cuantas clases queres dar? Jajaja! Solo te piden 1!
+151) ENTRADA: Cuales son los horarios de teoría? - PERCEPCION: cual ser horario teoria  - RESPUESTA: Los viernes de 19:45 a 22 hs.
+152) ENTRADA: Cuando se dan las clases teóricas? - PERCEPCION: cuando ser teoria  - RESPUESTA: Solo damos teoría los viernes de 19:45 a 22 hs.
+153) ENTRADA: Cuales son los horarios de práctica? - PERCEPCION: cual ser horario practica  - RESPUESTA: Solo damos práctica los lunes de 19 a 21:15 hs
+154) ENTRADA: Cuando se dan las clases practicas? - PERCEPCION: cuando ser practica  - RESPUESTA: Los lunes de 19 a 21:15 hs
+155) ENTRADA: Cuales son los horarios de consulta? - PERCEPCION: cual ser horario consulta  - RESPUESTA: Los miércoles de 16 a 18 hs.
+156) ENTRADA: Chau. - PERCEPCION: chau  - RESPUESTA: Chauuuuu!!!
+157) ENTRADA: Adios. - PERCEPCION: chau  - RESPUESTA: Chau chau!!!
+158) ENTRADA: Que tengas buenas noches. - PERCEPCION: que hola  - RESPUESTA: Chauuuuu!!!
+159) ENTRADA: Que tengas buenas tardes. - PERCEPCION: que hola  - RESPUESTA: Chau chau!!!
+160) ENTRADA: Que tengas buen día. - PERCEPCION: que hola  - RESPUESTA: Chauuuuu!!!
+161) ENTRADA: Nos vemos! - PERCEPCION: chau  - RESPUESTA: Chauuuuu!!!
+162) ENTRADA: Nos estamos viendo. - PERCEPCION: chau  - RESPUESTA: Chauuuuu!!!
+163) ENTRADA: Muchas gracias. - PERCEPCION: gracias  - RESPUESTA: De nada!

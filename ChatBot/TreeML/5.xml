@@ -1,0 +1,1351 @@
+<tree id="5" edgedefault="directed">
+<node Id="0" Action="null" Cost="0.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como llamar - Nodo Actual: llamar - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="1" Action="IrEstar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como estar - Nodo Actual: estar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="2" Action="IrInformar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como informar - Nodo Actual: informar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="3" Action="IrConformar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como conformar - Nodo Actual: conformar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="4" Action="IrOrganizar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como organizar - Nodo Actual: organizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="5" Action="IrRegularizar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="6" Action="IrIr" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ir - Nodo Actual: ir - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="7" Action="IrEntregar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar - Nodo Actual: entregar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="8" Action="IrPromocionar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="9" Action="IrCalcular" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular - Nodo Actual: calcular - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="10" Action="IrRealizar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="11" Action="IrEvaluar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como evaluar - Nodo Actual: evaluar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="12" Action="IrAprobar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como aprobar - Nodo Actual: aprobar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="13" Action="IrSer" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser - Nodo Actual: ser - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="14" Action="IrLlamar" Cost="-1.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como llamar - Nodo Actual: llamar - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="15" Action="IrGrupo" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como informar grupo - Nodo Actual: grupo - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="16" Action="IrGrupo" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como conformar grupo - Nodo Actual: grupo - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="17" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como organizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="18" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="19" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="20" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="21" Action="IrRealizar" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="22" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="23" Action="IrFinal" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="24" Action="IrActividad" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="25" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="26" Action="IrRegularizar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="27" Action="IrPromocionar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="28" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="29" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="30" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="31" Action="IrMateria" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="32" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="33" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="34" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="35" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="36" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="37" Action="IrNota" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota - Nodo Actual: nota - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="38" Action="IrRegularizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="39" Action="IrPromocionar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="40" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="41" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="42" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="43" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="44" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="45" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como calcular nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="46" Action="IrFinal" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="47" Action="IrActividad" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="48" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="49" Action="IrRegularizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="50" Action="IrPromocionar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="51" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="52" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="53" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="54" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="55" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="56" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="57" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como evaluar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="58" Action="IrMateria" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como aprobar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="59" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como aprobar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="60" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como aprobar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="61" Action="IrQue" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="62" Action="IrFinal" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="63" Action="IrNota" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota - Nodo Actual: nota - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="64" Action="IrEntregar" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar - Nodo Actual: entregar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="65" Action="IrObjetivo" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser objetivo - Nodo Actual: objetivo - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="66" Action="IrEvaluar" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser evaluar - Nodo Actual: evaluar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="67" Action="IrSitio" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser sitio - Nodo Actual: sitio - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="68" Action="IrApunte" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser apunte - Nodo Actual: apunte - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="69" Action="IrTp" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="70" Action="IrMail" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser mail - Nodo Actual: mail - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="71" Action="IrFecha" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha - Nodo Actual: fecha - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="72" Action="IrCharla" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla - Nodo Actual: charla - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="73" Action="IrColoquio" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser coloquio - Nodo Actual: coloquio - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="74" Action="IrFramework" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser framework - Nodo Actual: framework - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="75" Action="IrLlamar" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar - Nodo Actual: llamar - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="76" Action="IrTema" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema - Nodo Actual: tema - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="77" Action="IrRecuperatorio" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser recuperatorio - Nodo Actual: recuperatorio - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="78" Action="IrModalidad" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser modalidad - Nodo Actual: modalidad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="79" Action="IrParcial" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="80" Action="IrLibro" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser libro - Nodo Actual: libro - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="81" Action="IrPorcentaje" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser porcentaje - Nodo Actual: porcentaje - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="82" Action="IrBibliografia" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser bibliografia - Nodo Actual: bibliografia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="83" Action="IrClase" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser clase - Nodo Actual: clase - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="84" Action="IrProfesor" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser profesor - Nodo Actual: profesor - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="85" Action="IrProfesora" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser profesora - Nodo Actual: profesora - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="86" Action="IrHorario" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser horario - Nodo Actual: horario - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="87" Action="IrPractica" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="88" Action="IrTeoria" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="89" Action="IrConsulta" Cost="-2.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser consulta - Nodo Actual: consulta - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="90" Action="IrHola" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="91" Action="IrEstar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="92" Action="IrIr" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="93" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="94" Action="IrEvaluar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="95" Action="IrCharla" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="96" Action="IrDonde" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="97" Action="IrCuantas" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="98" Action="IrCuando" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="99" Action="IrCual" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="100" Action="IrQuien" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="101" Action="IrEstar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="102" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="103" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="104" Action="IrCharla" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="105" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="106" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="107" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="108" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="109" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="110" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="111" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="112" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="113" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="114" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="115" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="116" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="117" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="118" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="119" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="120" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="121" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="122" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="123" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="124" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="125" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="126" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="127" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="128" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="129" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuantas charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="130" Action="IrEntregar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="131" Action="IrRealizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="132" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="133" Action="IrFinal" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="134" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="135" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="136" Action="IrRegularizar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="137" Action="IrPromocionar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="138" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="139" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="140" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="141" Action="IrMateria" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="142" Action="IrTp" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="143" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="144" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="145" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="146" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="147" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="148" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="149" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="150" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="151" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="152" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="153" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="154" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="155" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="156" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="157" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="158" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="159" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="160" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="161" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="162" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="163" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="164" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="165" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="166" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="167" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser que charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="168" Action="IrRegularizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="169" Action="IrPromocionar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="170" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="171" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="172" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="173" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="174" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="175" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="176" Action="IrRegularizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="177" Action="IrPromocionar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="178" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="179" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="180" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="181" Action="IrMateria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="182" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="183" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser nota promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="184" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="185" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="186" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="187" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="188" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="189" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="190" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="191" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="192" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="193" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="194" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="195" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="196" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="197" Action="IrMateria" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser objetivo materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="198" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser evaluar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="199" Action="IrEntregar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar - Nodo Actual: entregar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="200" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="201" Action="IrRecuperatorio" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha recuperatorio - Nodo Actual: recuperatorio - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="202" Action="IrParcial" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="203" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="204" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="205" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="206" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="207" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="208" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="209" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="210" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="211" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="212" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="213" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="214" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="215" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser fecha entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="216" Action="IrQue" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="217" Action="IrRealizar" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="218" Action="IrHola" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="219" Action="IrEstar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="220" Action="IrIr" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="221" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="222" Action="IrEvaluar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="223" Action="IrDonde" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="224" Action="IrCuantas" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="225" Action="IrCuando" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="226" Action="IrCual" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="227" Action="IrQuien" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="228" Action="IrEstar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="229" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="230" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="231" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="232" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="233" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="234" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="235" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="236" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="237" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="238" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="239" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="240" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="241" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="242" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="243" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="244" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="245" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="246" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="247" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="248" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="249" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="250" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="251" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="252" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="253" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="254" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="255" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="256" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="257" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="258" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="259" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="260" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="261" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="262" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="263" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="264" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="265" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="266" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="267" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="268" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="269" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="270" Action="IrFinal" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="271" Action="IrActividad" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="272" Action="IrParcial" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="273" Action="IrRegularizar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="274" Action="IrPromocionar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="275" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="276" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="277" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="278" Action="IrMateria" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="279" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="280" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="281" Action="IrMateria" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar materia - Nodo Actual: materia - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="282" Action="IrTp" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar tp - Nodo Actual: tp - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="283" Action="IrFramework" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar framework - Nodo Actual: framework - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="284" Action="IrAgente" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar agente - Nodo Actual: agente - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="285" Action="IrLibro" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar libro - Nodo Actual: libro - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="286" Action="IrProfesor" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar profesor - Nodo Actual: profesor - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="287" Action="IrProfesora" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar profesora - Nodo Actual: profesora - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="288" Action="IrAyudante" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar ayudante - Nodo Actual: ayudante - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="289" Action="IrTp" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar agente tp - Nodo Actual: tp - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="290" Action="IrPractica" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar profesor practica - Nodo Actual: practica - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="291" Action="IrTeoria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="292" Action="IrPractica" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar profesora practica - Nodo Actual: practica - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="293" Action="IrTeoria" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser llamar profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) (5) (6) - Despedirse: 0
+"/>
+<node Id="294" Action="IrQue" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="295" Action="IrCharla" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla - Nodo Actual: charla - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="296" Action="IrHola" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="297" Action="IrEstar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="298" Action="IrIr" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="299" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="300" Action="IrEvaluar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="301" Action="IrCharla" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="302" Action="IrDonde" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="303" Action="IrCuantas" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="304" Action="IrCuando" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="305" Action="IrCual" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="306" Action="IrQuien" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="307" Action="IrEstar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="308" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="309" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="310" Action="IrCharla" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla - Nodo Actual: charla - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="311" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="312" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="313" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="314" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="315" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="316" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="317" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="318" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="319" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="320" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="321" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="322" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="323" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="324" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="325" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="326" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="327" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="328" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="329" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="330" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="331" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="332" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="333" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="334" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="335" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuantas charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="336" Action="IrEntregar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="337" Action="IrRealizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="338" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="339" Action="IrFinal" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="340" Action="IrActividad" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="341" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="342" Action="IrRegularizar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="343" Action="IrPromocionar" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="344" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="345" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="346" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="347" Action="IrMateria" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="348" Action="IrTp" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="349" Action="IrParcial" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="350" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="351" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="352" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="353" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="354" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="355" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="356" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="357" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="358" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="359" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="360" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="361" Action="IrTp" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="362" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="363" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="364" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="365" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="366" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="367" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="368" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="369" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="370" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="371" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="372" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="373" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema que charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="374" Action="IrQue" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que - Nodo Actual: que - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="375" Action="IrRealizar" Cost="-4.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar - Nodo Actual: realizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="376" Action="IrHola" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola - Nodo Actual: hola - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="377" Action="IrEstar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="378" Action="IrIr" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que ir - Nodo Actual: ir - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="379" Action="IrRealizar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="380" Action="IrEvaluar" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que evaluar - Nodo Actual: evaluar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="381" Action="IrDonde" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola donde - Nodo Actual: donde - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="382" Action="IrCuantas" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas - Nodo Actual: cuantas - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="383" Action="IrCuando" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando - Nodo Actual: cuando - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="384" Action="IrCual" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cual - Nodo Actual: cual - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="385" Action="IrQuien" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola quien - Nodo Actual: quien - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="386" Action="IrEstar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola donde estar - Nodo Actual: estar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="387" Action="IrEntregar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="388" Action="IrActividad" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="389" Action="IrRealizar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="390" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="391" Action="IrFinal" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="392" Action="IrActividad" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="393" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="394" Action="IrRegularizar" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="395" Action="IrPromocionar" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="396" Action="IrMateria" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="397" Action="IrTp" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="398" Action="IrParcial" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="399" Action="IrMateria" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="400" Action="IrTp" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="401" Action="IrParcial" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuantas entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="402" Action="IrEntregar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar - Nodo Actual: entregar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="403" Action="IrRealizar" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar - Nodo Actual: realizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="404" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="405" Action="IrFinal" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="406" Action="IrActividad" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="407" Action="IrParcial" Cost="-9.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="408" Action="IrRegularizar" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="409" Action="IrPromocionar" Cost="-10.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="410" Action="IrMateria" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="411" Action="IrTp" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="412" Action="IrParcial" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="413" Action="IrMateria" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="414" Action="IrTp" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="415" Action="IrParcial" Cost="-11.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que hola cuando entregar realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="416" Action="IrFinal" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final - Nodo Actual: final - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="417" Action="IrActividad" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="418" Action="IrParcial" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="419" Action="IrRegularizar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="420" Action="IrPromocionar" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="421" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="422" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="423" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="424" Action="IrMateria" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="425" Action="IrTp" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="426" Action="IrParcial" Cost="-8.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="427" Action="IrTp" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla que evaluar tp - Nodo Actual: tp - Reglas: (1) (2) (1) (2) - Despedirse: 0
+"/>
+<node Id="428" Action="IrFinal" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final - Nodo Actual: final - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="429" Action="IrActividad" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar actividad - Nodo Actual: actividad - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="430" Action="IrParcial" Cost="-5.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="431" Action="IrRegularizar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final regularizar - Nodo Actual: regularizar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="432" Action="IrPromocionar" Cost="-6.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final promocionar - Nodo Actual: promocionar - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="433" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final regularizar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="434" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final regularizar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="435" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final regularizar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="436" Action="IrMateria" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final promocionar materia - Nodo Actual: materia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="437" Action="IrTp" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final promocionar tp - Nodo Actual: tp - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="438" Action="IrParcial" Cost="-7.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser tema charla realizar final promocionar parcial - Nodo Actual: parcial - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="439" Action="IrAsistencia" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser porcentaje asistencia - Nodo Actual: asistencia - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="440" Action="IrPractica" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser clase practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="441" Action="IrTeoria" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser clase teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="442" Action="IrConsulta" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser clase consulta - Nodo Actual: consulta - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="443" Action="IrPractica" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser profesor practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="444" Action="IrTeoria" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser profesor teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="445" Action="IrPractica" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser profesora practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="446" Action="IrTeoria" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser profesora teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="447" Action="IrPractica" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser horario practica - Nodo Actual: practica - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="448" Action="IrTeoria" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser horario teoria - Nodo Actual: teoria - Reglas: (1) (2) - Despedirse: 0
+"/>
+<node Id="449" Action="IrConsulta" Cost="-3.0" Estado_Agente="Percepcion: como llamar - Tipo percepcion:   - Cadena Actual: como ser horario consulta - Nodo Actual: consulta - Reglas: (1) (2) - Despedirse: 0
+"/>
+<edge source="0" target="1"/>
+<edge source="0" target="2"/>
+<edge source="0" target="3"/>
+<edge source="0" target="4"/>
+<edge source="0" target="5"/>
+<edge source="0" target="6"/>
+<edge source="0" target="7"/>
+<edge source="0" target="8"/>
+<edge source="0" target="9"/>
+<edge source="0" target="10"/>
+<edge source="0" target="11"/>
+<edge source="0" target="12"/>
+<edge source="0" target="13"/>
+<edge source="0" target="14"/>
+<edge source="2" target="15"/>
+<edge source="3" target="16"/>
+<edge source="4" target="17"/>
+<edge source="5" target="18"/>
+<edge source="5" target="19"/>
+<edge source="5" target="20"/>
+<edge source="7" target="21"/>
+<edge source="7" target="22"/>
+<edge source="8" target="34"/>
+<edge source="8" target="35"/>
+<edge source="8" target="36"/>
+<edge source="9" target="37"/>
+<edge source="10" target="46"/>
+<edge source="10" target="47"/>
+<edge source="10" target="48"/>
+<edge source="11" target="57"/>
+<edge source="12" target="58"/>
+<edge source="12" target="59"/>
+<edge source="12" target="60"/>
+<edge source="13" target="61"/>
+<edge source="13" target="62"/>
+<edge source="13" target="63"/>
+<edge source="13" target="64"/>
+<edge source="13" target="65"/>
+<edge source="13" target="66"/>
+<edge source="13" target="67"/>
+<edge source="13" target="68"/>
+<edge source="13" target="69"/>
+<edge source="13" target="70"/>
+<edge source="13" target="71"/>
+<edge source="13" target="72"/>
+<edge source="13" target="73"/>
+<edge source="13" target="74"/>
+<edge source="13" target="75"/>
+<edge source="13" target="76"/>
+<edge source="13" target="77"/>
+<edge source="13" target="78"/>
+<edge source="13" target="79"/>
+<edge source="13" target="80"/>
+<edge source="13" target="81"/>
+<edge source="13" target="82"/>
+<edge source="13" target="83"/>
+<edge source="13" target="84"/>
+<edge source="13" target="85"/>
+<edge source="13" target="86"/>
+<edge source="13" target="87"/>
+<edge source="13" target="88"/>
+<edge source="13" target="89"/>
+<edge source="21" target="23"/>
+<edge source="21" target="24"/>
+<edge source="21" target="25"/>
+<edge source="23" target="26"/>
+<edge source="23" target="27"/>
+<edge source="26" target="28"/>
+<edge source="26" target="29"/>
+<edge source="26" target="30"/>
+<edge source="27" target="31"/>
+<edge source="27" target="32"/>
+<edge source="27" target="33"/>
+<edge source="37" target="38"/>
+<edge source="37" target="39"/>
+<edge source="38" target="40"/>
+<edge source="38" target="41"/>
+<edge source="38" target="42"/>
+<edge source="39" target="43"/>
+<edge source="39" target="44"/>
+<edge source="39" target="45"/>
+<edge source="46" target="49"/>
+<edge source="46" target="50"/>
+<edge source="49" target="51"/>
+<edge source="49" target="52"/>
+<edge source="49" target="53"/>
+<edge source="50" target="54"/>
+<edge source="50" target="55"/>
+<edge source="50" target="56"/>
+<edge source="61" target="90"/>
+<edge source="61" target="91"/>
+<edge source="61" target="92"/>
+<edge source="61" target="93"/>
+<edge source="61" target="94"/>
+<edge source="61" target="95"/>
+<edge source="62" target="168"/>
+<edge source="62" target="169"/>
+<edge source="63" target="176"/>
+<edge source="63" target="177"/>
+<edge source="64" target="184"/>
+<edge source="64" target="185"/>
+<edge source="65" target="197"/>
+<edge source="66" target="198"/>
+<edge source="71" target="199"/>
+<edge source="71" target="200"/>
+<edge source="71" target="201"/>
+<edge source="71" target="202"/>
+<edge source="72" target="216"/>
+<edge source="72" target="217"/>
+<edge source="75" target="281"/>
+<edge source="75" target="282"/>
+<edge source="75" target="283"/>
+<edge source="75" target="284"/>
+<edge source="75" target="285"/>
+<edge source="75" target="286"/>
+<edge source="75" target="287"/>
+<edge source="75" target="288"/>
+<edge source="76" target="294"/>
+<edge source="76" target="295"/>
+<edge source="81" target="439"/>
+<edge source="83" target="440"/>
+<edge source="83" target="441"/>
+<edge source="83" target="442"/>
+<edge source="84" target="443"/>
+<edge source="84" target="444"/>
+<edge source="85" target="445"/>
+<edge source="85" target="446"/>
+<edge source="86" target="447"/>
+<edge source="86" target="448"/>
+<edge source="86" target="449"/>
+<edge source="90" target="96"/>
+<edge source="90" target="97"/>
+<edge source="90" target="98"/>
+<edge source="90" target="99"/>
+<edge source="90" target="100"/>
+<edge source="93" target="144"/>
+<edge source="93" target="145"/>
+<edge source="93" target="146"/>
+<edge source="94" target="155"/>
+<edge source="95" target="156"/>
+<edge source="96" target="101"/>
+<edge source="97" target="102"/>
+<edge source="97" target="103"/>
+<edge source="97" target="104"/>
+<edge source="98" target="130"/>
+<edge source="102" target="105"/>
+<edge source="102" target="106"/>
+<edge source="104" target="118"/>
+<edge source="105" target="107"/>
+<edge source="105" target="108"/>
+<edge source="105" target="109"/>
+<edge source="107" target="110"/>
+<edge source="107" target="111"/>
+<edge source="110" target="112"/>
+<edge source="110" target="113"/>
+<edge source="110" target="114"/>
+<edge source="111" target="115"/>
+<edge source="111" target="116"/>
+<edge source="111" target="117"/>
+<edge source="118" target="119"/>
+<edge source="118" target="120"/>
+<edge source="118" target="121"/>
+<edge source="119" target="122"/>
+<edge source="119" target="123"/>
+<edge source="122" target="124"/>
+<edge source="122" target="125"/>
+<edge source="122" target="126"/>
+<edge source="123" target="127"/>
+<edge source="123" target="128"/>
+<edge source="123" target="129"/>
+<edge source="130" target="131"/>
+<edge source="130" target="132"/>
+<edge source="131" target="133"/>
+<edge source="131" target="134"/>
+<edge source="131" target="135"/>
+<edge source="133" target="136"/>
+<edge source="133" target="137"/>
+<edge source="136" target="138"/>
+<edge source="136" target="139"/>
+<edge source="136" target="140"/>
+<edge source="137" target="141"/>
+<edge source="137" target="142"/>
+<edge source="137" target="143"/>
+<edge source="144" target="147"/>
+<edge source="144" target="148"/>
+<edge source="147" target="149"/>
+<edge source="147" target="150"/>
+<edge source="147" target="151"/>
+<edge source="148" target="152"/>
+<edge source="148" target="153"/>
+<edge source="148" target="154"/>
+<edge source="156" target="157"/>
+<edge source="156" target="158"/>
+<edge source="156" target="159"/>
+<edge source="157" target="160"/>
+<edge source="157" target="161"/>
+<edge source="160" target="162"/>
+<edge source="160" target="163"/>
+<edge source="160" target="164"/>
+<edge source="161" target="165"/>
+<edge source="161" target="166"/>
+<edge source="161" target="167"/>
+<edge source="168" target="170"/>
+<edge source="168" target="171"/>
+<edge source="168" target="172"/>
+<edge source="169" target="173"/>
+<edge source="169" target="174"/>
+<edge source="169" target="175"/>
+<edge source="176" target="178"/>
+<edge source="176" target="179"/>
+<edge source="176" target="180"/>
+<edge source="177" target="181"/>
+<edge source="177" target="182"/>
+<edge source="177" target="183"/>
+<edge source="184" target="186"/>
+<edge source="184" target="187"/>
+<edge source="184" target="188"/>
+<edge source="186" target="189"/>
+<edge source="186" target="190"/>
+<edge source="189" target="191"/>
+<edge source="189" target="192"/>
+<edge source="189" target="193"/>
+<edge source="190" target="194"/>
+<edge source="190" target="195"/>
+<edge source="190" target="196"/>
+<edge source="199" target="203"/>
+<edge source="199" target="204"/>
+<edge source="203" target="205"/>
+<edge source="203" target="206"/>
+<edge source="203" target="207"/>
+<edge source="205" target="208"/>
+<edge source="205" target="209"/>
+<edge source="208" target="210"/>
+<edge source="208" target="211"/>
+<edge source="208" target="212"/>
+<edge source="209" target="213"/>
+<edge source="209" target="214"/>
+<edge source="209" target="215"/>
+<edge source="216" target="218"/>
+<edge source="216" target="219"/>
+<edge source="216" target="220"/>
+<edge source="216" target="221"/>
+<edge source="216" target="222"/>
+<edge source="217" target="270"/>
+<edge source="217" target="271"/>
+<edge source="217" target="272"/>
+<edge source="218" target="223"/>
+<edge source="218" target="224"/>
+<edge source="218" target="225"/>
+<edge source="218" target="226"/>
+<edge source="218" target="227"/>
+<edge source="221" target="258"/>
+<edge source="221" target="259"/>
+<edge source="221" target="260"/>
+<edge source="222" target="269"/>
+<edge source="223" target="228"/>
+<edge source="224" target="229"/>
+<edge source="224" target="230"/>
+<edge source="225" target="244"/>
+<edge source="229" target="231"/>
+<edge source="229" target="232"/>
+<edge source="231" target="233"/>
+<edge source="231" target="234"/>
+<edge source="231" target="235"/>
+<edge source="233" target="236"/>
+<edge source="233" target="237"/>
+<edge source="236" target="238"/>
+<edge source="236" target="239"/>
+<edge source="236" target="240"/>
+<edge source="237" target="241"/>
+<edge source="237" target="242"/>
+<edge source="237" target="243"/>
+<edge source="244" target="245"/>
+<edge source="244" target="246"/>
+<edge source="245" target="247"/>
+<edge source="245" target="248"/>
+<edge source="245" target="249"/>
+<edge source="247" target="250"/>
+<edge source="247" target="251"/>
+<edge source="250" target="252"/>
+<edge source="250" target="253"/>
+<edge source="250" target="254"/>
+<edge source="251" target="255"/>
+<edge source="251" target="256"/>
+<edge source="251" target="257"/>
+<edge source="258" target="261"/>
+<edge source="258" target="262"/>
+<edge source="261" target="263"/>
+<edge source="261" target="264"/>
+<edge source="261" target="265"/>
+<edge source="262" target="266"/>
+<edge source="262" target="267"/>
+<edge source="262" target="268"/>
+<edge source="270" target="273"/>
+<edge source="270" target="274"/>
+<edge source="273" target="275"/>
+<edge source="273" target="276"/>
+<edge source="273" target="277"/>
+<edge source="274" target="278"/>
+<edge source="274" target="279"/>
+<edge source="274" target="280"/>
+<edge source="284" target="289"/>
+<edge source="286" target="290"/>
+<edge source="286" target="291"/>
+<edge source="287" target="292"/>
+<edge source="287" target="293"/>
+<edge source="294" target="296"/>
+<edge source="294" target="297"/>
+<edge source="294" target="298"/>
+<edge source="294" target="299"/>
+<edge source="294" target="300"/>
+<edge source="294" target="301"/>
+<edge source="295" target="374"/>
+<edge source="295" target="375"/>
+<edge source="296" target="302"/>
+<edge source="296" target="303"/>
+<edge source="296" target="304"/>
+<edge source="296" target="305"/>
+<edge source="296" target="306"/>
+<edge source="299" target="350"/>
+<edge source="299" target="351"/>
+<edge source="299" target="352"/>
+<edge source="300" target="361"/>
+<edge source="301" target="362"/>
+<edge source="302" target="307"/>
+<edge source="303" target="308"/>
+<edge source="303" target="309"/>
+<edge source="303" target="310"/>
+<edge source="304" target="336"/>
+<edge source="308" target="311"/>
+<edge source="308" target="312"/>
+<edge source="310" target="324"/>
+<edge source="311" target="313"/>
+<edge source="311" target="314"/>
+<edge source="311" target="315"/>
+<edge source="313" target="316"/>
+<edge source="313" target="317"/>
+<edge source="316" target="318"/>
+<edge source="316" target="319"/>
+<edge source="316" target="320"/>
+<edge source="317" target="321"/>
+<edge source="317" target="322"/>
+<edge source="317" target="323"/>
+<edge source="324" target="325"/>
+<edge source="324" target="326"/>
+<edge source="324" target="327"/>
+<edge source="325" target="328"/>
+<edge source="325" target="329"/>
+<edge source="328" target="330"/>
+<edge source="328" target="331"/>
+<edge source="328" target="332"/>
+<edge source="329" target="333"/>
+<edge source="329" target="334"/>
+<edge source="329" target="335"/>
+<edge source="336" target="337"/>
+<edge source="336" target="338"/>
+<edge source="337" target="339"/>
+<edge source="337" target="340"/>
+<edge source="337" target="341"/>
+<edge source="339" target="342"/>
+<edge source="339" target="343"/>
+<edge source="342" target="344"/>
+<edge source="342" target="345"/>
+<edge source="342" target="346"/>
+<edge source="343" target="347"/>
+<edge source="343" target="348"/>
+<edge source="343" target="349"/>
+<edge source="350" target="353"/>
+<edge source="350" target="354"/>
+<edge source="353" target="355"/>
+<edge source="353" target="356"/>
+<edge source="353" target="357"/>
+<edge source="354" target="358"/>
+<edge source="354" target="359"/>
+<edge source="354" target="360"/>
+<edge source="362" target="363"/>
+<edge source="362" target="364"/>
+<edge source="362" target="365"/>
+<edge source="363" target="366"/>
+<edge source="363" target="367"/>
+<edge source="366" target="368"/>
+<edge source="366" target="369"/>
+<edge source="366" target="370"/>
+<edge source="367" target="371"/>
+<edge source="367" target="372"/>
+<edge source="367" target="373"/>
+<edge source="374" target="376"/>
+<edge source="374" target="377"/>
+<edge source="374" target="378"/>
+<edge source="374" target="379"/>
+<edge source="374" target="380"/>
+<edge source="375" target="428"/>
+<edge source="375" target="429"/>
+<edge source="375" target="430"/>
+<edge source="376" target="381"/>
+<edge source="376" target="382"/>
+<edge source="376" target="383"/>
+<edge source="376" target="384"/>
+<edge source="376" target="385"/>
+<edge source="379" target="416"/>
+<edge source="379" target="417"/>
+<edge source="379" target="418"/>
+<edge source="380" target="427"/>
+<edge source="381" target="386"/>
+<edge source="382" target="387"/>
+<edge source="382" target="388"/>
+<edge source="383" target="402"/>
+<edge source="387" target="389"/>
+<edge source="387" target="390"/>
+<edge source="389" target="391"/>
+<edge source="389" target="392"/>
+<edge source="389" target="393"/>
+<edge source="391" target="394"/>
+<edge source="391" target="395"/>
+<edge source="394" target="396"/>
+<edge source="394" target="397"/>
+<edge source="394" target="398"/>
+<edge source="395" target="399"/>
+<edge source="395" target="400"/>
+<edge source="395" target="401"/>
+<edge source="402" target="403"/>
+<edge source="402" target="404"/>
+<edge source="403" target="405"/>
+<edge source="403" target="406"/>
+<edge source="403" target="407"/>
+<edge source="405" target="408"/>
+<edge source="405" target="409"/>
+<edge source="408" target="410"/>
+<edge source="408" target="411"/>
+<edge source="408" target="412"/>
+<edge source="409" target="413"/>
+<edge source="409" target="414"/>
+<edge source="409" target="415"/>
+<edge source="416" target="419"/>
+<edge source="416" target="420"/>
+<edge source="419" target="421"/>
+<edge source="419" target="422"/>
+<edge source="419" target="423"/>
+<edge source="420" target="424"/>
+<edge source="420" target="425"/>
+<edge source="420" target="426"/>
+<edge source="428" target="431"/>
+<edge source="428" target="432"/>
+<edge source="431" target="433"/>
+<edge source="431" target="434"/>
+<edge source="431" target="435"/>
+<edge source="432" target="436"/>
+<edge source="432" target="437"/>
+<edge source="432" target="438"/>
+</tree>
