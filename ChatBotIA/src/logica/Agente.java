@@ -217,7 +217,7 @@ public class Agente {
     public String generarRespuesta(String frase){
         try{
             List<String> palabrasClaves = PreProcesador.preprocesarEntrada(palabras, frase);
-            List<Regla> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves);
+            List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves, frase);
             String respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
             return respuesta;
         }
@@ -233,6 +233,10 @@ public class Agente {
 
     public static void setReglaDatoUsadas(List<ReglaDato> reglaDatoUsadas) {
         Agente.reglaDatoUsadas = reglaDatoUsadas;
+    }
+    
+    public static void agregarReglaDatoUsada(ReglaDato reglaDato){
+        Agente.reglaDatoUsadas.add(reglaDato);
     }
     
     

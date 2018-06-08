@@ -7,6 +7,7 @@ package logica;
 
 import entidades.Criterio;
 import entidades.Regla;
+import entidades.ReglaDato;
 import java.util.List;
 
 /**
@@ -15,9 +16,33 @@ import java.util.List;
  */
 public class Respondedor {
     
-    public static String obtenerRespuesta(List<Criterio> listaCriterios, List<Regla> listaReglasActivas){
-        //TODO: Hacer metodo y borrar el return null
-        return null;
+    public static String obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
+        String respuesta = "No se ha podido encontrar una respuesta.";
+        if(listaReglasActivas.isEmpty()){
+            respuesta = "No se han encontrado reglas activas para la frase.";
+        }
+        else{
+            List<ReglaDato> finalRules = null;
+            for(Criterio criterio : listaCriterios)
+            {
+                finalRules = criterio.aplicarCriterio(listaReglasActivas);
+                if(finalRules.size()==1){
+                    break;
+                }
+            }
+            if(finalRules != null && finalRules.size() > 0){
+                Regla r = (finalRules.get(0)).getRegla();
+                Agente.agregarReglaDatoUsada(finalRules.get(0));
+                respuesta = obtenerRespuesta(r);
+            }
+        }
+        return respuesta;
+    }
+    
+    public static String obtenerRespuesta(Regla regla){
+        //Aca es donde se puede hacer algo especial segun la regla
+        String respuesta = regla.getRespuesta();
+        return respuesta;
     }
     
 }

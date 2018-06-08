@@ -6,6 +6,8 @@
 package logica;
 
 import entidades.Regla;
+import entidades.ReglaDato;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -14,9 +16,28 @@ import java.util.List;
  */
 public class Cotejador {
     
-    public static List<Regla> cotejarReglas(List<Regla> listaReglas, List<String> palabrasClavesEntrada){
-        //TODO: Hacer método y borrar el return null
-        return null;
+    public static List<ReglaDato> cotejarReglas(List<Regla> listaReglas, List<String> palabrasClavesEntrada, String frase){
+        List<ReglaDato> reglasActivas = new ArrayList<ReglaDato>();
+        boolean todasPalabras = true;
+        for(Regla regla : listaReglas){
+            if((regla.getPalabrasClaves().size() == 0)){
+                reglasActivas.add(new ReglaDato(regla, frase));
+            }
+            else{
+                todasPalabras = true;
+                for(String palabra : palabrasClavesEntrada)
+                {
+                    if(!regla.getPalabrasClaves().contains(palabra)){
+                        todasPalabras = false;
+                        break;
+                    }
+                }
+                if(todasPalabras){
+                    reglasActivas.add(new ReglaDato(regla, frase));
+                }
+            }
+        }
+        return reglasActivas;
     }
     
 }
