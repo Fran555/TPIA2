@@ -43,7 +43,6 @@ public class Agente {
         palabras.put("Parent","Mother");
         palabras.put("Parent","Daddy");
         palabras.put("Parent","Mommy");
-        palabras.put("Parent","Mommy");
         palabras.put("Parent","Family Member");
         
         palabras.put("What","What");
@@ -199,37 +198,6 @@ public class Agente {
         palabras.put("Book","Books");
         
         palabras.put("Hobby","Hobby");
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-      
-        
-        
-        
-        
-         
-        
-        
-        
-
-        
-        
         
     }
     

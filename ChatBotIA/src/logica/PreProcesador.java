@@ -28,7 +28,7 @@ public class PreProcesador {
 
             patternString = entry.getValue();
 
-            pattern = Pattern.compile(patternString,Pattern.CASE_INSENSITIVE);
+            pattern = Pattern.compile(patternString, Pattern.CASE_INSENSITIVE);
 
             matcher = pattern.matcher(frase);
 
