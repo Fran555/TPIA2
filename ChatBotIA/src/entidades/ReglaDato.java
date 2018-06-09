@@ -5,6 +5,8 @@
  */
 package entidades;
 
+import java.util.List;
+
 /**
  *
  * @author fede_
@@ -12,11 +14,13 @@ package entidades;
 public class ReglaDato {
     
     Regla regla;
-    String dato;
+    List<String> palabrasClaves;
+    String frase;
 
-    public ReglaDato(Regla regla, String dato) {
+    public ReglaDato(Regla regla, List<String> palabrasClaves, String frase) {
         this.regla = regla;
-        this.dato = dato;
+        this.palabrasClaves = palabrasClaves;
+        this.frase = frase;
     }
 
     public Regla getRegla() {
@@ -27,12 +31,20 @@ public class ReglaDato {
         this.regla = regla;
     }
 
-    public String getDato() {
-        return dato;
+    public List<String> getPalabrasClaves() {
+        return palabrasClaves;
     }
 
-    public void setDato(String dato) {
-        this.dato = dato;
+    public void setPalabrasClaves(List<String> palabrasClaves) {
+        this.palabrasClaves = palabrasClaves;
+    }
+
+    public String getFrase() {
+        return frase;
+    }
+
+    public void setFrase(String frase) {
+        this.frase = frase;
     }
     
 }

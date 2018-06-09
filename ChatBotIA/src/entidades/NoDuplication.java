@@ -17,7 +17,7 @@ public class NoDuplication extends Criterio {
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
             for(ReglaDato prd : list)
             {
-                if(!usada(prd.getRegla(), prd.getDato())){
+                if(!usada(prd.getRegla(), prd.getPalabrasClaves())){
                     ret.add(prd);
                 }
             }
@@ -30,15 +30,32 @@ public class NoDuplication extends Criterio {
 		return "No Duplication (No duplicaci�n)";
 	}
 
-	private boolean usada(Regla r, String d){
+	private boolean usada(Regla r, List<String> pc){
             for(ReglaDato prd : Agente.getReglaDatoUsadas())
             {
                 Regla ru = prd.getRegla();
-                String du = prd.getDato();
-                if((r.getId()==ru.getId()) && (d.equals(du))){
+                List<String> pcu = prd.getPalabrasClaves();
+                if((r.getId()==ru.getId()) && coincidenPalabrasClaves(pcu, pc)){
                     return true;
                 }
             }
             return false;
 	}
+        
+        private boolean coincidenPalabrasClaves(List<String> pcu, List<String> pc){
+            boolean coincide = true;
+            for(String palabra : pcu){
+                if(!pc.contains(palabra)){
+                    coincide = false;
+                    break;
+                }
+            }
+            for(String palabra : pc){
+                if(!pcu.contains(palabra)){
+                    coincide = false;
+                    break;
+                }
+            }
+            return coincide;
+        }
 }

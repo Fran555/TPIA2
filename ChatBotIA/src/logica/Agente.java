@@ -30,9 +30,6 @@ public class Agente {
         
         palabras = new HashMap <String,String>();
         
-        palabras.put("Hola", "Hola");
-        palabras.put("Holis", "Hola");
-        
         palabras.put("Parent","Parent");
         palabras.put("Parents", "Parent");
         palabras.put("Parent","Dad");
@@ -203,11 +200,22 @@ public class Agente {
         
         reglas = new ArrayList<Regla>();
         
+        //Reglas de prueba
+        reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<String>(Arrays.asList("Regla de solo after")), 1));
+        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<String>(Arrays.asList("Multirespuesta", "After y hobby 1")), 2));
+        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<String>(Arrays.asList("After y hobby 2")), 2));
+        
         //TODO: Definir reglas
     }
     
     public static void inicializarCriterios(){
         criterios = new LinkedList<Criterio>();
+        
+        //Criterios de prueba
+        criterios.add(new Specificity());
+        criterios.add(new Priority());
+        criterios.add(new NoDuplication());
+        criterios.add(new Novelty());
         
         //TODO: Definir criterios
     }
@@ -216,17 +224,17 @@ public class Agente {
         reglaDatoUsadas = new ArrayList<ReglaDato>();
     }
     
-    public static String generarRespuesta(String frase){
+    public static List<String> generarRespuesta(String frase){
         try{
             List<String> palabrasClaves = PreProcesador.preprocesarEntrada(palabras, frase);
             List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves, frase);
-            String respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
+            List<String> respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
             return respuesta;
         }
         catch(Exception ex){
             ex.printStackTrace();
         }
-        return "";
+        return new ArrayList<String>();
     }
     
     public static List<ReglaDato> getReglaDatoUsadas() {

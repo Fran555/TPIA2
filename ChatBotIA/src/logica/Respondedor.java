@@ -8,6 +8,7 @@ package logica;
 import entidades.Criterio;
 import entidades.Regla;
 import entidades.ReglaDato;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -16,32 +17,42 @@ import java.util.List;
  */
 public class Respondedor {
     
-    public static String obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
-        String respuesta = "No se ha podido encontrar una respuesta.";
+    public static List<String> obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
+        List<String> respuesta = new ArrayList<String>();
+        respuesta.add("No se ha podido encontrar una respuesta.");
         if(listaReglasActivas.isEmpty()){
-            respuesta = "No se han encontrado reglas activas para la frase.";
+            respuesta.clear();
+            respuesta.add("No se han encontrado reglas activas para la frase.");
         }
         else{
-            List<ReglaDato> finalRules = null;
-            for(Criterio criterio : listaCriterios)
-            {
-                finalRules = criterio.aplicarCriterio(listaReglasActivas);
-                if(finalRules.size()==1){
-                    break;
+            List<ReglaDato> finalRules;
+            Criterio criterio;
+            int j = 0;
+            do{
+                finalRules = listaReglasActivas;
+                for(int i=j; i<listaCriterios.size(); i++){
+                    criterio = listaCriterios.get(i);
+                    finalRules = criterio.aplicarCriterio(finalRules);
+                    if(finalRules.size()==1){
+                        break;
+                    }
                 }
+                j++;
             }
+            while(finalRules.size() != 1 && j < listaCriterios.size());
             if(finalRules != null && finalRules.size() > 0){
                 Regla r = (finalRules.get(0)).getRegla();
                 Agente.agregarReglaDatoUsada(finalRules.get(0));
+                respuesta.clear();
                 respuesta = obtenerRespuesta(r);
             }
         }
         return respuesta;
     }
     
-    public static String obtenerRespuesta(Regla regla){
+    public static List<String> obtenerRespuesta(Regla regla){
         //Aca es donde se puede hacer algo especial segun la regla
-        String respuesta = regla.getRespuesta();
+        List<String> respuesta = regla.getRespuestas();
         return respuesta;
     }
     

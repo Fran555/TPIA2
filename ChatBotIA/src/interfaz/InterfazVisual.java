@@ -127,7 +127,9 @@ public class InterfazVisual extends javax.swing.JFrame {
     private void btnEnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnviarActionPerformed
         try{
             agregarTextoDerecha(taEntrada.getText());
-            agregarTextoIzquierda(Agente.generarRespuesta(taEntrada.getText()));
+            for(String respuesta : Agente.generarRespuesta(taEntrada.getText())){
+                agregarTextoIzquierda(respuesta);
+            }
             taEntrada.setText("");
         }
         catch(Exception ex){

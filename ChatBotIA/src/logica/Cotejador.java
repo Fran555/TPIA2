@@ -21,7 +21,7 @@ public class Cotejador {
         boolean todasPalabras = true;
         for(Regla regla : listaReglas){
             if((regla.getPalabrasClaves().size() == 0)){
-                reglasActivas.add(new ReglaDato(regla, frase));
+                reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase));
             }
             else{
                 todasPalabras = true;
@@ -33,7 +33,7 @@ public class Cotejador {
                     }
                 }
                 if(todasPalabras){
-                    reglasActivas.add(new ReglaDato(regla, frase));
+                    reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase));
                 }
             }
         }
