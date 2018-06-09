@@ -212,10 +212,10 @@ public class Agente {
         criterios = new LinkedList<Criterio>();
         
         //Criterios de prueba
-        criterios.add(new Specificity());
-        criterios.add(new Priority());
-        criterios.add(new NoDuplication());
-        criterios.add(new Novelty());
+        criterios.add(new Especificidad());
+        criterios.add(new Prioridad());
+        criterios.add(new NoDuplicidad());
+        criterios.add(new Novedad());
         
         //TODO: Definir criterios
     }

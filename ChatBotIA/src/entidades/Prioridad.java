@@ -7,29 +7,26 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Clase que implementa el criterio de especificidad.
+ * Clase que implementa el criterio de prioridad.
  * @author Grupo 12: Blas,Mar�a Julia / Diaz Ferreyra,Nicolas/ Sarli, Juan Leonardo.
  */
-public class Specificity extends Criterio {
+public class Prioridad extends Criterio {
 
 	@Override
 	public LinkedList<ReglaDato> aplicarCriterio(List<ReglaDato> list) {
-		
-            int specifity, mayor = 0;		
+
+            int priority, mayor = 0;		
             for(ReglaDato prd : list)
             {
                     Regla r = prd.getRegla();
-                    specifity = r.getPalabrasClaves().size();
-                    if(specifity > mayor) mayor = specifity;
+                    priority = r.getPriority();
+                    if(priority > mayor) mayor = priority;
             }
-
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
             for(ReglaDato prd : list)
             {
                     Regla r = prd.getRegla();
-                    if(r.getPalabrasClaves().size() == mayor){
-                        ret.add(prd);
-                    }
+                    if(r.getPriority() == mayor) ret.add(prd);
             }    	
             return ret;
 		
@@ -37,7 +34,7 @@ public class Specificity extends Criterio {
 
 	@Override
 	public String toString() {
-		return "Specificity (Especificidad)";
+		return "Priority (Prioridad)";
 	}
 
 }

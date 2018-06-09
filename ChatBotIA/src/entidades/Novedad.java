@@ -10,7 +10,7 @@ import java.util.List;
  * Clase que implementa el criterio de novedad.
  * @author Grupo 12: Blas,Mar�a Julia / Diaz Ferreyra,Nicolas/ Sarli, Juan Leonardo.
  */
-public class Novelty extends Criterio {
+public class Novedad extends Criterio {
 
 	@Override
 	public LinkedList<ReglaDato> aplicarCriterio(List<ReglaDato> list) {

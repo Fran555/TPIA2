@@ -9,7 +9,7 @@ import logica.Agente;
  * Clase que implementa el criterio de no duplicacion.
  * @author Grupo 12: Blas,Mar�a Julia / Diaz Ferreyra,Nicolas/ Sarli, Juan Leonardo.
  */
-public class NoDuplication extends Criterio {
+public class NoDuplicidad extends Criterio {
 	
 	@Override
 	public LinkedList<ReglaDato> aplicarCriterio(List<ReglaDato> list) {
