@@ -19,7 +19,7 @@ public class Specificity extends Criterio {
             for(ReglaDato prd : list)
             {
                     Regla r = prd.getRegla();
-                    specifity = r.getSpecificity();
+                    specifity = r.getPalabrasClaves().size();
                     if(specifity > mayor) mayor = specifity;
             }
 
@@ -27,7 +27,7 @@ public class Specificity extends Criterio {
             for(ReglaDato prd : list)
             {
                     Regla r = prd.getRegla();
-                    if(r.getSpecificity() == mayor){
+                    if(r.getPalabrasClaves().size() == mayor){
                         ret.add(prd);
                     }
             }    	

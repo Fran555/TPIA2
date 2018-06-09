@@ -18,15 +18,13 @@ public class Novelty extends Criterio {
             int novelty, mayor = 0;		
             for(ReglaDato prd : list)
             {
-                    Regla r = prd.getRegla();
-                    novelty = r.getNovelty();
+                    novelty = list.indexOf(prd);
                     if(novelty > mayor) mayor = novelty;
             }
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
             for(ReglaDato prd : list)
             {
-                    Regla r = prd.getRegla();
-                    if(r.getNovelty() == mayor) ret.add(prd);
+                    if(list.indexOf(prd) == mayor) ret.add(prd);
             }    	
             return ret;
 		
