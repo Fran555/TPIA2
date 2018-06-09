@@ -5,11 +5,12 @@
  */
 package logica;
 
-import entidades.Criterio;
-import entidades.Regla;
-import entidades.ReglaDato;
+import entidades.*;
+
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
@@ -21,22 +22,19 @@ public class Agente {
     
     static List<ReglaDato> reglaDatoUsadas;
     
-    Map <String,String> palabras;
-    List<Regla> reglas;
-    List<Criterio> criterios;
-
-    public Agente() {
-        this.inicializarPc();
-        this.inicializarReglas();
-        this.inicializarCriterios();
-    }
+    static Map <String,String> palabras;
+    static List<Regla> reglas;
+    static List<Criterio> criterios;
     
-    private void inicializarPc(){
+    public static void inicializarPalabrasClaves(){
         
         palabras = new HashMap <String,String>();
         
+        palabras.put("Hola", "Hola");
+        palabras.put("Holis", "Hola");
+        
         palabras.put("Parent","Parent");
-        palabras.put("Parent","Parents");
+        palabras.put("Parents", "Parent");
         palabras.put("Parent","Dad");
         palabras.put("Parent","Mom");
         palabras.put("Parent","Father");
@@ -201,20 +199,24 @@ public class Agente {
         
     }
     
-    private void inicializarReglas(){
+    public static void inicializarReglas(){
         
         reglas = new ArrayList<Regla>();
         
         //TODO: Definir reglas
     }
     
-    private void inicializarCriterios(){
-        criterios = new ArrayList<Criterio>();
+    public static void inicializarCriterios(){
+        criterios = new LinkedList<Criterio>();
         
         //TODO: Definir criterios
     }
     
-    public String generarRespuesta(String frase){
+    public static void inicializarReglaDatoUsadas(){
+        reglaDatoUsadas = new ArrayList<ReglaDato>();
+    }
+    
+    public static String generarRespuesta(String frase){
         try{
             List<String> palabrasClaves = PreProcesador.preprocesarEntrada(palabras, frase);
             List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves, frase);
@@ -238,6 +240,33 @@ public class Agente {
     public static void agregarReglaDatoUsada(ReglaDato reglaDato){
         Agente.reglaDatoUsadas.add(reglaDato);
     }
+
+    public static Map<String, String> getPalabras() {
+        return palabras;
+    }
+
+    public static void setPalabras(Map<String, String> palabras) {
+        Agente.palabras = palabras;
+    }
+
+    public static List<Regla> getReglas() {
+        return reglas;
+    }
+
+    public static void setReglas(List<Regla> reglas) {
+        Agente.reglas = reglas;
+    }
     
+    public static void addRegla(Regla regla){
+        Agente.reglas.add(regla);
+    }
+
+    public static List<Criterio> getCriterios() {
+        return criterios;
+    }
+
+    public static void setCriterios(List<Criterio> criterios) {
+        Agente.criterios = criterios;
+    }
     
 }

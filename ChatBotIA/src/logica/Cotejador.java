@@ -25,9 +25,9 @@ public class Cotejador {
             }
             else{
                 todasPalabras = true;
-                for(String palabra : palabrasClavesEntrada)
+                for(String palabra : regla.getPalabrasClaves())
                 {
-                    if(!regla.getPalabrasClaves().contains(palabra)){
+                    if(!palabrasClavesEntrada.contains(palabra.toLowerCase())){
                         todasPalabras = false;
                         break;
                     }

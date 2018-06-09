@@ -6,7 +6,12 @@
 package interfaz;
 
 import entidades.ReglaDato;
+import java.awt.Color;
 import java.util.ArrayList;
+import javax.swing.text.BadLocationException;
+import javax.swing.text.SimpleAttributeSet;
+import javax.swing.text.StyleConstants;
+import javax.swing.text.StyledDocument;
 import logica.Agente;
 
 /**
@@ -15,15 +20,29 @@ import logica.Agente;
  */
 public class InterfazVisual extends javax.swing.JFrame {
 
-    String texto;
+    StyledDocument doc;
+    SimpleAttributeSet left;
+    SimpleAttributeSet right;
     
     /**
      * Creates new form InterfazVisual
      */
     public InterfazVisual() {
         initComponents();
-        Agente.setReglaDatoUsadas(new ArrayList<ReglaDato>());
-        texto = "";
+        Agente.inicializarReglaDatoUsadas();
+        Agente.inicializarPalabrasClaves();
+        Agente.inicializarReglas();
+        Agente.inicializarCriterios();
+        
+        doc = tpSalida.getStyledDocument();
+
+        left = new SimpleAttributeSet();
+        StyleConstants.setAlignment(left, StyleConstants.ALIGN_LEFT);
+        StyleConstants.setForeground(left, Color.RED);
+        
+        right = new SimpleAttributeSet();
+        StyleConstants.setAlignment(right, StyleConstants.ALIGN_RIGHT);
+        StyleConstants.setForeground(right, Color.BLUE);
     }
 
     /**
@@ -36,13 +55,14 @@ public class InterfazVisual extends javax.swing.JFrame {
     private void initComponents() {
 
         btnEnviar = new javax.swing.JButton();
-        jScrollPane1 = new javax.swing.JScrollPane();
-        taSalida = new javax.swing.JTextArea();
         jScrollPane2 = new javax.swing.JScrollPane();
         taEntrada = new javax.swing.JTextArea();
         btnLimpiar = new javax.swing.JButton();
+        jScrollPane3 = new javax.swing.JScrollPane();
+        tpSalida = new javax.swing.JTextPane();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("ChatBot");
 
         btnEnviar.setText("Enviar");
         btnEnviar.addActionListener(new java.awt.event.ActionListener() {
@@ -51,12 +71,8 @@ public class InterfazVisual extends javax.swing.JFrame {
             }
         });
 
-        taSalida.setColumns(20);
-        taSalida.setRows(5);
-        jScrollPane1.setViewportView(taSalida);
-
         taEntrada.setColumns(20);
-        taEntrada.setRows(5);
+        taEntrada.setRows(1);
         jScrollPane2.setViewportView(taEntrada);
 
         btnLimpiar.setText("Limpiar");
@@ -66,6 +82,9 @@ public class InterfazVisual extends javax.swing.JFrame {
             }
         });
 
+        tpSalida.setEditable(false);
+        jScrollPane3.setViewportView(tpSalida);
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -73,7 +92,7 @@ public class InterfazVisual extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jScrollPane1)
+                    .addComponent(jScrollPane3)
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 418, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
@@ -87,8 +106,8 @@ public class InterfazVisual extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 394, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(18, 18, 18)
+                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 405, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 62, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(layout.createSequentialGroup()
@@ -102,16 +121,30 @@ public class InterfazVisual extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLimpiarActionPerformed
-        texto = "";
-        escribirSalida(texto);
+        limpiarSalida();
     }//GEN-LAST:event_btnLimpiarActionPerformed
 
     private void btnEnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnviarActionPerformed
-        Agente agente = new Agente();
-        texto += ((!texto.equals("")) ? "\n" : "") + agente.generarRespuesta(taEntrada.getText());
-        this.escribirSalida(texto);
+        try{
+            agregarTextoDerecha(taEntrada.getText());
+            agregarTextoIzquierda(Agente.generarRespuesta(taEntrada.getText()));
+            taEntrada.setText("");
+        }
+        catch(Exception ex){
+            ex.printStackTrace();
+        }
     }//GEN-LAST:event_btnEnviarActionPerformed
 
+    private void agregarTextoDerecha(String tex) throws BadLocationException{
+        doc.insertString(doc.getLength(), ((doc.getLength() != 0) ? "\n" : "") + tex, right);
+        doc.setParagraphAttributes(doc.getLength(), 1, right, false);
+    }
+    
+    private void agregarTextoIzquierda(String tex) throws BadLocationException{
+        doc.insertString(doc.getLength(), ((doc.getLength() != 0) ? "\n" : "") + tex, left);
+        doc.setParagraphAttributes(doc.getLength(), 1, left, false);
+    }
+    
     /**
      * @param args the command line arguments
      */
@@ -147,16 +180,17 @@ public class InterfazVisual extends javax.swing.JFrame {
         });
     }
     
-    private void escribirSalida(String texto){
-        taSalida.setText(texto);
+    private void limpiarSalida(){
+        tpSalida.setText("");
+        doc = tpSalida.getStyledDocument();
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnEnviar;
     private javax.swing.JButton btnLimpiar;
-    private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
+    private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTextArea taEntrada;
-    private javax.swing.JTextArea taSalida;
+    private javax.swing.JTextPane tpSalida;
     // End of variables declaration//GEN-END:variables
 }
