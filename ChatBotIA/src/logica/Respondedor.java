@@ -26,6 +26,7 @@ public class Respondedor {
         //Se define la respuesta por defecto
         respuesta.add(new Decir("No se ha podido encontrar una respuesta."));
         if(listaReglasActivas.isEmpty()){
+            //Si no existe ninguna regla activa para la entrada
             respuesta.clear();
             respuesta.add(new Decir("No se han encontrado reglas activas para la frase."));
         }
@@ -33,13 +34,18 @@ public class Respondedor {
             List<ReglaDato> finalRules;
             Criterio criterio;
             int j = 0;
+            //Mientras no haya una sola regla elegida y no nos quedemos sin criterios
             do{
                 finalRules = listaReglasActivas;
                 criteriosAplicados = new ArrayList<Criterio>();
+                //Se seleccionan las reglas segun cada criterio hasta que uno devuelva una sola regla (los criterios se van anidando)
                 for(int i=j; i<listaCriterios.size(); i++){
                     criterio = listaCriterios.get(i);
+                    //Se va agregando los criterios usados a una lista
                     criteriosAplicados.add(criterio);
+                    //Al aplicar el criterio sobre la finalRules se produce el anidamiento de criterios
                     finalRules = criterio.aplicarCriterio(finalRules);
+                    //Si hay una sola regla entonces se sale del for y se deja de buscar criterios
                     if(finalRules.size()==1){
                         break;
                     }
@@ -48,11 +54,16 @@ public class Respondedor {
             }
             while(finalRules.size() != 1 && j < listaCriterios.size());
             if(finalRules != null && finalRules.size() > 0){
+                //Se obtiene la primera ReglaDato de finalRules
                 ReglaDato reglaDatoAplicada = finalRules.get(0);
+                //Se le agrega a la ReglaDato seleccionada la lista de criterios aplicados (para el log)
                 reglaDatoAplicada.setCriteriosAplicados(criteriosAplicados);
+                //Se obtiene la regla seleccionada
                 Regla r = reglaDatoAplicada.getRegla();
+                //Se agrega el objeto ReglaDato a la lista que conserva el agente (para el log y la no duplicidad)
                 Agente.agregarReglaDatoUsada(reglaDatoAplicada);
                 respuesta.clear();
+                //Se obtiene las respuestas a partir de la regla elegida
                 respuesta = obtenerRespuestas(r);
             }
         }
