@@ -231,20 +231,15 @@ public class Agente {
         //Reglas por defecto:
         reglas.add(new Regla(1, new ArrayList<String>(), new ArrayList<Respuesta>(Arrays.asList(new Decir("No se ha encontrado una respuesta."))), 0));
         
-        //Reglas posta:
-        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Respuesta>(Arrays.asList(new Decir("Regla de solo after"))), 1));
-        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new Decir("After y hobby 2"))), 2));
-        reglas.add(new Regla(4, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres(), new AdvertirNoResponder())), 2));
-        
         //Trabajo de los padres
-        reglas.add(new Regla(5, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
-        reglas.add(new Regla(6, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         
         //Dónde te vas después de...
-        reglas.add(new Regla(7, new ArrayList<String>(Arrays.asList("Going", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        reglas.add(new Regla(8, new ArrayList<String>(Arrays.asList("Going", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        reglas.add(new Regla(9, new ArrayList<String>(Arrays.asList("Going", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        reglas.add(new Regla(10, new ArrayList<String>(Arrays.asList("After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(4, new ArrayList<String>(Arrays.asList("Go", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(5, new ArrayList<String>(Arrays.asList("Go", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(6, new ArrayList<String>(Arrays.asList("Go", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(7, new ArrayList<String>(Arrays.asList("After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
 
         //Definir más reglas
     }
@@ -255,13 +250,11 @@ public class Agente {
     public void inicializarCriterios(){
         criterios = new LinkedList<Criterio>();
         
-        //Criterios de prueba (Definir bien los criterios que se van a utilizar realmente y su orden)
         criterios.add(new NoDuplicidad(this));
         criterios.add(new Especificidad());
         criterios.add(new Prioridad());
         criterios.add(new Novedad());
-        
-        //TODO: Definir criterios
+
     }
     
     //Se pone el blanco la lista de las reglas aplicadas
