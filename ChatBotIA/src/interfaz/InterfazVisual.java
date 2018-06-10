@@ -13,6 +13,7 @@ import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
 import logica.Agente;
+import respuestas.Respuesta;
 
 /**
  *
@@ -60,6 +61,7 @@ public class InterfazVisual extends javax.swing.JFrame {
         btnLimpiar = new javax.swing.JButton();
         jScrollPane3 = new javax.swing.JScrollPane();
         tpSalida = new javax.swing.JTextPane();
+        btnVerLogs = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("ChatBot");
@@ -85,6 +87,13 @@ public class InterfazVisual extends javax.swing.JFrame {
         tpSalida.setEditable(false);
         jScrollPane3.setViewportView(tpSalida);
 
+        btnVerLogs.setText("Logs");
+        btnVerLogs.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnVerLogsActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -94,12 +103,12 @@ public class InterfazVisual extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jScrollPane3)
                     .addGroup(layout.createSequentialGroup()
-                        .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 418, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 513, Short.MAX_VALUE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                            .addComponent(btnLimpiar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                            .addComponent(btnEnviar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                        .addGap(0, 1, Short.MAX_VALUE)))
+                            .addComponent(btnEnviar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(btnLimpiar, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                    .addComponent(btnVerLogs, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
@@ -114,6 +123,8 @@ public class InterfazVisual extends javax.swing.JFrame {
                         .addComponent(btnEnviar)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addComponent(btnLimpiar)))
+                .addGap(8, 8, 8)
+                .addComponent(btnVerLogs)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
@@ -127,8 +138,9 @@ public class InterfazVisual extends javax.swing.JFrame {
     private void btnEnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnviarActionPerformed
         try{
             agregarTextoDerecha(taEntrada.getText());
-            for(Object respuesta : Agente.generarRespuesta(taEntrada.getText())){
-                agregarTextoIzquierda((String)respuesta);
+            for(Respuesta respuesta : Agente.generarRespuesta(taEntrada.getText())){
+                respuesta.ejecutar();
+                agregarTextoIzquierda(respuesta.toString());
             }
             taEntrada.setText("");
         }
@@ -136,6 +148,10 @@ public class InterfazVisual extends javax.swing.JFrame {
             ex.printStackTrace();
         }
     }//GEN-LAST:event_btnEnviarActionPerformed
+
+    private void btnVerLogsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVerLogsActionPerformed
+        (new Logs(Agente.getReglaDatoUsadas())).show();
+    }//GEN-LAST:event_btnVerLogsActionPerformed
 
     private void agregarTextoDerecha(String tex) throws BadLocationException{
         doc.insertString(doc.getLength(), ((doc.getLength() != 0) ? "\n" : "") + tex, right);
@@ -190,6 +206,7 @@ public class InterfazVisual extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnEnviar;
     private javax.swing.JButton btnLimpiar;
+    private javax.swing.JButton btnVerLogs;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTextArea taEntrada;

@@ -21,7 +21,7 @@ public class Prioridad extends Criterio {
             {
                 Regla r = prd.getRegla();
                 //La prioridad es un valor asignado a la regla
-                priority = r.getPriority();
+                priority = r.getPrioridad();
                 if(priority > mayor) mayor = priority;
             }
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
@@ -29,7 +29,7 @@ public class Prioridad extends Criterio {
             for(ReglaDato prd : list)
             {
                 Regla r = prd.getRegla();
-                if(r.getPriority() == mayor) ret.add(prd);
+                if(r.getPrioridad()== mayor) ret.add(prd);
             }    	
             return ret;
 		

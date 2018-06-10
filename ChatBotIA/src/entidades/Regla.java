@@ -6,6 +6,7 @@
 package entidades;
 
 import java.util.List;
+import respuestas.Respuesta;
 
 /**
  *
@@ -15,14 +16,14 @@ public class Regla {
     
     private int id;
     private List<String> palabrasClaves;
-    private List<Object> respuestas;
-    private int priority;
+    private List<Respuesta> respuestas;
+    private int prioridad;
 
-    public Regla(int id, List<String> palabrasClaves, List<Object> respuestas, int priority) {
+    public Regla(int id, List<String> palabrasClaves, List<Respuesta> respuestas, int prioridad) {
         this.id = id;
         this.palabrasClaves = palabrasClaves;
         this.respuestas = respuestas;
-        this.priority = priority;
+        this.prioridad = prioridad;
     }
 
     public int getId() {
@@ -41,19 +42,38 @@ public class Regla {
         this.palabrasClaves = palabrasClaves;
     }
 
-    public List<Object> getRespuestas() {
+    public List<Respuesta> getRespuestas() {
         return respuestas;
     }
 
-    public void setRespuestas(List<Object> respuestas) {
+    public void setRespuestas(List<Respuesta> respuestas) {
         this.respuestas = respuestas;
     }
     
-    public int getPriority() {
-        return priority;
+    public int getPrioridad() {
+        return prioridad;
     }
 
-    public void setPriority(int priority) {
-        this.priority = priority;
+    public void setPrioridad(int prioridad) {
+        this.prioridad = prioridad;
+    }
+    
+    public String toString(){
+        String respuesta = "";
+        String palabra;
+        respuesta += "\n\tPalabras claves:\n\t\t";
+        for(int i = 0; i<palabrasClaves.size(); i++){
+            palabra = palabrasClaves.get(i);
+            respuesta += palabra;
+            if(i < palabrasClaves.size() - 1){
+                respuesta += " ,";
+            }
+        }
+        respuesta += "\n\tRespuestas: ";
+        for(Respuesta resp : respuestas){
+            respuesta += "\n\t\t" + resp.toString();
+        }
+        respuesta += "\n\tPrioridad:\n\t\t" + prioridad;
+        return respuesta;
     }
 }

@@ -13,6 +13,9 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import respuestas.Decir;
+import respuestas.LlamarPadres;
+import respuestas.Respuesta;
 
 /**
  *
@@ -204,9 +207,9 @@ public class Agente {
         reglas = new ArrayList<Regla>();
         
         //Reglas de prueba
-        reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Object>(Arrays.asList("Regla de solo after")), 1));
-        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Object>(Arrays.asList("Multirespuesta", "After y hobby 1")), 2));
-        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Object>(Arrays.asList("After y hobby 2")), 2));
+        reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Respuesta>(Arrays.asList(new Decir("Regla de solo after"))), 1));
+        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres(), new Decir("After y hobby 1"))), 2));
+        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new Decir("After y hobby 2"))), 2));
         
         //TODO: Definir reglas
     }
@@ -230,17 +233,17 @@ public class Agente {
     }
     
     //Se aplican las tres etapas de Sistemas de Produccion para obtener una respuesta a la frase de entrada
-    public static List<Object> generarRespuesta(String frase){
+    public static List<Respuesta> generarRespuesta(String frase){
         try{
             List<String> palabrasClaves = PreProcesador.preprocesarEntrada(palabras, frase);
             List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves, frase);
-            List<Object> respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
+            List<Respuesta> respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
             return respuesta;
         }
         catch(Exception ex){
             ex.printStackTrace();
         }
-        return new ArrayList<Object>();
+        return new ArrayList<Respuesta>();
     }
     
     public static List<ReglaDato> getReglaDatoUsadas() {

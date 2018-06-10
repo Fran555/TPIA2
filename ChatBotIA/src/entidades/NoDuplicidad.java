@@ -28,7 +28,7 @@ public class NoDuplicidad extends Criterio {
 
 	@Override
 	public String toString() {	
-		return "No Duplication (No duplicaci�n)";
+		return "No Duplication (No Duplicación)";
 	}
 
 	private boolean usada(Regla r, List<String> pc){

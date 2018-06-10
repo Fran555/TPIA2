@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -10,6 +11,8 @@ import entidades.Regla;
 import entidades.ReglaDato;
 import java.util.ArrayList;
 import java.util.List;
+import respuestas.Decir;
+import respuestas.Respuesta;
 
 /**
  *
@@ -17,12 +20,14 @@ import java.util.List;
  */
 public class Respondedor {
     
-    public static List<Object> obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
-        List<Object> respuesta = new ArrayList<Object>();
-        respuesta.add("No se ha podido encontrar una respuesta.");
+    public static List<Respuesta> obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
+        List<Respuesta> respuesta = new ArrayList<Respuesta>();
+        List<Criterio> criteriosAplicados = new ArrayList<Criterio>();
+        //Se define la respuesta por defecto
+        respuesta.add(new Decir("No se ha podido encontrar una respuesta."));
         if(listaReglasActivas.isEmpty()){
             respuesta.clear();
-            respuesta.add("No se han encontrado reglas activas para la frase.");
+            respuesta.add(new Decir("No se han encontrado reglas activas para la frase."));
         }
         else{
             List<ReglaDato> finalRules;
@@ -30,8 +35,10 @@ public class Respondedor {
             int j = 0;
             do{
                 finalRules = listaReglasActivas;
+                criteriosAplicados = new ArrayList<Criterio>();
                 for(int i=j; i<listaCriterios.size(); i++){
                     criterio = listaCriterios.get(i);
+                    criteriosAplicados.add(criterio);
                     finalRules = criterio.aplicarCriterio(finalRules);
                     if(finalRules.size()==1){
                         break;
@@ -41,18 +48,20 @@ public class Respondedor {
             }
             while(finalRules.size() != 1 && j < listaCriterios.size());
             if(finalRules != null && finalRules.size() > 0){
-                Regla r = (finalRules.get(0)).getRegla();
-                Agente.agregarReglaDatoUsada(finalRules.get(0));
+                ReglaDato reglaDatoAplicada = finalRules.get(0);
+                reglaDatoAplicada.setCriteriosAplicados(criteriosAplicados);
+                Regla r = reglaDatoAplicada.getRegla();
+                Agente.agregarReglaDatoUsada(reglaDatoAplicada);
                 respuesta.clear();
-                respuesta = obtenerRespuesta(r);
+                respuesta = obtenerRespuestas(r);
             }
         }
         return respuesta;
     }
     
-    public static List<Object> obtenerRespuesta(Regla regla){
-        List<Object> respuesta = new ArrayList<Object>();
-        for(Object res : regla.getRespuestas()){
+    public static List<Respuesta> obtenerRespuestas(Regla regla){
+        List<Respuesta> respuesta = new ArrayList<Respuesta>();
+        for(Respuesta res : regla.getRespuestas()){
             //Aca es donde se puede hacer algo especial segun la regla, por ahora solo se devuelve la lista de respuestas
             respuesta.add(res);
         }

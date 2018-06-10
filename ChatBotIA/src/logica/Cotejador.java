@@ -5,6 +5,7 @@
  */
 package logica;
 
+import entidades.Criterio;
 import entidades.Regla;
 import entidades.ReglaDato;
 import java.util.ArrayList;
@@ -22,7 +23,7 @@ public class Cotejador {
         for(Regla regla : listaReglas){
             if((regla.getPalabrasClaves().size() == 0)){
                 //Si la regla no tiene palabras claves entonces ya de por sí cumple el cotejamiento entonces se agrega a la lista de palabras activas
-                reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase));
+                reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase, new ArrayList<Criterio>()));
             }
             else{
                 todasPalabras = true;
@@ -36,7 +37,7 @@ public class Cotejador {
                 }
                 if(todasPalabras){
                     //Si las palabras de la regla estan contenidas en la lista de palabras claves obtenidas de la frase, entonces la regla cumple el cotejamiento y se agrega a la lista de palabras activas
-                    reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase));
+                    reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase, new ArrayList<Criterio>()));
                 }
             }
         }
