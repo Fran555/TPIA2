@@ -5,8 +5,8 @@
  */
 package interfaz;
 
-import entidades.Criterio;
-import entidades.ReglaDato;
+import criterios.Criterio;
+import reglas.ReglaDato;
 import java.util.ArrayList;
 import java.util.List;
 

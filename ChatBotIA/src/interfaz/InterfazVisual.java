@@ -5,7 +5,7 @@
  */
 package interfaz;
 
-import entidades.ReglaDato;
+import reglas.ReglaDato;
 import java.awt.Color;
 import java.util.ArrayList;
 import javax.swing.text.BadLocationException;

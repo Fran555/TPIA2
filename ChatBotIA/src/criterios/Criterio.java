@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package entidades;
+package criterios;
 
+import reglas.ReglaDato;
 import java.util.LinkedList;
 import java.util.List;
 

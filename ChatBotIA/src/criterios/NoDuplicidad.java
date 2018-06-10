@@ -1,5 +1,7 @@
-package entidades;
+package criterios;
 
+import reglas.Regla;
+import reglas.ReglaDato;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;

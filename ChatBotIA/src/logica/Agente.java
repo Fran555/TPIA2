@@ -5,7 +5,13 @@
  */
 package logica;
 
-import entidades.*;
+import reglas.ReglaDato;
+import reglas.Regla;
+import criterios.Especificidad;
+import criterios.Criterio;
+import criterios.Prioridad;
+import criterios.Novedad;
+import criterios.NoDuplicidad;
 
 import java.util.ArrayList;
 import java.util.Arrays;

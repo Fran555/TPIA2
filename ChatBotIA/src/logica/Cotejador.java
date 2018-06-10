@@ -5,9 +5,9 @@
  */
 package logica;
 
-import entidades.Criterio;
-import entidades.Regla;
-import entidades.ReglaDato;
+import criterios.Criterio;
+import reglas.Regla;
+import reglas.ReglaDato;
 import java.util.ArrayList;
 import java.util.List;
 
