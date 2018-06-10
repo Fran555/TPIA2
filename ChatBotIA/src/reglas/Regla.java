@@ -1,17 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package reglas;
 
 import java.util.List;
 import respuestas.Respuesta;
 
-/**
- *
- * @author fede_
- */
 public class Regla {
     
     private int id;
@@ -58,7 +49,7 @@ public class Regla {
         this.prioridad = prioridad;
     }
     
-    public String toString(){
+    public String toString(int repeticionesPalabrasClaves){
         String respuesta = "";
         String palabra;
         respuesta += "\n\tPalabras claves:\n\t\t";
@@ -71,7 +62,7 @@ public class Regla {
         }
         respuesta += "\n\tRespuestas: ";
         for(Respuesta resp : respuestas){
-            respuesta += "\n\t\t" + resp.toString();
+            respuesta += "\n\t\t" + resp.toString(repeticionesPalabrasClaves);
         }
         respuesta += "\n\tPrioridad:\n\t\t" + prioridad;
         return respuesta;

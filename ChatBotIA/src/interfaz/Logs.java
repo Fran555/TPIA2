@@ -1,40 +1,33 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package interfaz;
 
 import criterios.Criterio;
 import reglas.ReglaDato;
 import java.util.ArrayList;
 import java.util.List;
+import logica.Agente;
+import logica.Utils;
 
-/**
- *
- * @author fede_
- */
 public class Logs extends javax.swing.JFrame {
     
     private static final double TAMAÑO_PIXELES_GUION = 4.1;
+    private Agente agente;
 
     private List<ReglaDato> reglasDatos;
     
-    /**
-     * Creates new form Logs
-     */
-    public Logs(List<ReglaDato> reglasDatos) {
+    public Logs(Agente agente) {
         initComponents();
-        this.reglasDatos = reglasDatos;
+        this.reglasDatos = agente.getReglaDatoUsadas();
         this.escribirLogs();
     }
     
     private void escribirLogs(){
         String texto = "";
         String palabra;
+        int repeticionesPalabrasClaves;
         int cantidadGuiones = ((int)(taLogs.getSize().getWidth()/TAMAÑO_PIXELES_GUION));
         List<String> palabrasClaves;
         for(ReglaDato reglaDato : reglasDatos){
+            repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(reglasDatos, reglaDato.getPalabrasClaves());
             texto += ((texto.equals("")) ? "" : "\n") + "Frase ingresada:\n\t" + reglaDato.getFrase();
             texto += ((texto.equals("")) ? "" : "\n") + "Palabras claves detectadas:\n\t";
             palabrasClaves = reglaDato.getPalabrasClaves();
@@ -45,7 +38,7 @@ public class Logs extends javax.swing.JFrame {
                     texto += " ,";
                 }
             }
-            texto += ((texto.equals("")) ? "" : "\n") + "Regla aplicada:" + reglaDato.getRegla().toString();
+            texto += ((texto.equals("")) ? "" : "\n") + "Regla aplicada:" + reglaDato.getRegla().toString(repeticionesPalabrasClaves);
             texto += ((texto.equals("")) ? "" : "\n") + "Criterios aplicados:";
             for(Criterio criterio : reglaDato.getCriteriosAplicados()){
                 texto += "\n\t" + criterio.toString();

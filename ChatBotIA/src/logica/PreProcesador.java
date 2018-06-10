@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package logica;
 
 import java.util.ArrayList;
@@ -12,13 +7,9 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- *
- * @author Francisco
- */
 public class PreProcesador {
     
-   public static List<String> preprocesarEntrada(Map <String,String> palabras, String frase){
+   public static List<String> preprocesarEntrada(Agente agente, Map <String,String> palabras, String frase){
         List <String> pc = new ArrayList<String>();
         //Se convierten las keys del mapa de sinonimos - palabras claves obtenido por parametro a minúsculas
         Map<String, String> palabrasClaves = convertirPalabrasClavesAMinusculas(palabras);

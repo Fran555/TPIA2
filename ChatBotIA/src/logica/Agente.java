@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package logica;
 
 import reglas.ReglaDato;
@@ -19,24 +14,31 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import respuestas.AdvertirNoResponder;
 import respuestas.Decir;
 import respuestas.LlamarPadres;
 import respuestas.Respuesta;
 
-/**
- *
- * @author fede_
- */
 public class Agente {
     
-    static List<ReglaDato> reglaDatoUsadas;
+    List<ReglaDato> reglaDatoUsadas;
+    Map <String,String> palabras;
+    List<Regla> reglas;
+    List<Criterio> criterios;
     
-    static Map <String,String> palabras;
-    static List<Regla> reglas;
-    static List<Criterio> criterios;
+    public Agente(){
+        inicializarAgente();
+    } 
+    
+    public void inicializarAgente(){
+        inicializarPalabrasClaves();
+        inicializarReglas();
+        inicializarCriterios();
+        inicializarReglaDatoUsadas();
+    }
     
     //Se inicializa el Map de sinonimo - palabra clave
-    public static void inicializarPalabrasClaves(){
+    public void inicializarPalabrasClaves(){
         
         palabras = new HashMap <String,String>();
         
@@ -162,42 +164,42 @@ public class Agente {
     
     //Se inicializa la lista de reglas
     //Formato: new Regla(id, lista de palabras claves, lista de respuestas, prioridad);
-    public static void inicializarReglas(){
+    public void inicializarReglas(){
         
         reglas = new ArrayList<Regla>();
         
         //Reglas de prueba
         reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Respuesta>(Arrays.asList(new Decir("Regla de solo after"))), 1));
-        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres(), new Decir("After y hobby 1"))), 2));
         reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new Decir("After y hobby 2"))), 2));
+        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres(), new AdvertirNoResponder())), 2));
         
         //TODO: Definir reglas
     }
     
     //Se inicializa la lista de criterios a aplicarse en el orden que se desea que se apliquen (los criterios se anidan)
-    public static void inicializarCriterios(){
+    public void inicializarCriterios(){
         criterios = new LinkedList<Criterio>();
         
         //Criterios de prueba
         criterios.add(new Especificidad());
         criterios.add(new Prioridad());
-        criterios.add(new NoDuplicidad());
+        criterios.add(new NoDuplicidad(this));
         criterios.add(new Novedad());
         
         //TODO: Definir criterios
     }
     
     //Se pone el blanco la lista de las reglas aplicadas
-    public static void inicializarReglaDatoUsadas(){
+    public void inicializarReglaDatoUsadas(){
         reglaDatoUsadas = new ArrayList<ReglaDato>();
     }
     
     //Se aplican las tres etapas de Sistemas de Produccion para obtener una respuesta a la frase de entrada
-    public static List<Respuesta> generarRespuesta(String frase){
+    public List<Respuesta> generarRespuesta(String frase){
         try{
-            List<String> palabrasClaves = PreProcesador.preprocesarEntrada(palabras, frase);
-            List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves, frase);
-            List<Respuesta> respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
+            List<String> palabrasClaves = PreProcesador.preprocesarEntrada(this, palabras, frase);
+            List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(this, reglas, palabrasClaves, frase);
+            List<Respuesta> respuesta = Respondedor.obtenerRespuesta(this, criterios, reglasActivas);
             return respuesta;
         }
         catch(Exception ex){
@@ -206,44 +208,44 @@ public class Agente {
         return new ArrayList<Respuesta>();
     }
     
-    public static List<ReglaDato> getReglaDatoUsadas() {
+    public List<ReglaDato> getReglaDatoUsadas() {
         return reglaDatoUsadas;
     }
 
-    public static void setReglaDatoUsadas(List<ReglaDato> reglaDatoUsadas) {
-        Agente.reglaDatoUsadas = reglaDatoUsadas;
+    public void setReglaDatoUsadas(List<ReglaDato> reglaDatoUsadas) {
+        reglaDatoUsadas = reglaDatoUsadas;
     }
     
-    public static void agregarReglaDatoUsada(ReglaDato reglaDato){
-        Agente.reglaDatoUsadas.add(reglaDato);
+    public void agregarReglaDatoUsada(ReglaDato reglaDato){
+        reglaDatoUsadas.add(reglaDato);
     }
 
-    public static Map<String, String> getPalabras() {
+    public Map<String, String> getPalabras() {
         return palabras;
     }
 
-    public static void setPalabras(Map<String, String> palabras) {
-        Agente.palabras = palabras;
+    public void setPalabras(Map<String, String> palabras) {
+        palabras = palabras;
     }
 
-    public static List<Regla> getReglas() {
+    public List<Regla> getReglas() {
         return reglas;
     }
 
-    public static void setReglas(List<Regla> reglas) {
-        Agente.reglas = reglas;
+    public void setReglas(List<Regla> reglas) {
+        reglas = reglas;
     }
     
-    public static void addRegla(Regla regla){
-        Agente.reglas.add(regla);
+    public void addRegla(Regla regla){
+        reglas.add(regla);
     }
 
-    public static List<Criterio> getCriterios() {
+    public List<Criterio> getCriterios() {
         return criterios;
     }
 
-    public static void setCriterios(List<Criterio> criterios) {
-        Agente.criterios = criterios;
+    public void setCriterios(List<Criterio> criterios) {
+        criterios = criterios;
     }
     
 }

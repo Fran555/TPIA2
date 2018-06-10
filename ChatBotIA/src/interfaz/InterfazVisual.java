@@ -1,39 +1,30 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package interfaz;
 
 import reglas.ReglaDato;
 import java.awt.Color;
 import java.util.ArrayList;
+import java.util.List;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.SimpleAttributeSet;
 import javax.swing.text.StyleConstants;
 import javax.swing.text.StyledDocument;
 import logica.Agente;
+import logica.PreProcesador;
+import logica.Utils;
 import respuestas.Respuesta;
 
-/**
- *
- * @author fede_
- */
 public class InterfazVisual extends javax.swing.JFrame {
 
     StyledDocument doc;
     SimpleAttributeSet left;
     SimpleAttributeSet right;
+    Agente agente;
     
-    /**
-     * Creates new form InterfazVisual
-     */
     public InterfazVisual() {
+        
+        agente = new Agente();
+        
         initComponents();
-        Agente.inicializarReglaDatoUsadas();
-        Agente.inicializarPalabrasClaves();
-        Agente.inicializarReglas();
-        Agente.inicializarCriterios();
         
         doc = tpSalida.getStyledDocument();
 
@@ -138,9 +129,11 @@ public class InterfazVisual extends javax.swing.JFrame {
     private void btnEnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnviarActionPerformed
         try{
             agregarTextoDerecha(taEntrada.getText());
-            for(Respuesta respuesta : Agente.generarRespuesta(taEntrada.getText())){
-                respuesta.ejecutar();
-                agregarTextoIzquierda(respuesta.toString());
+            int repeticionesPalabrasClaves;
+            for(Respuesta respuesta : agente.generarRespuesta(taEntrada.getText())){
+                repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), PreProcesador.obtenerPalabras(taEntrada.getText()));
+                respuesta.ejecutar(repeticionesPalabrasClaves);
+                agregarTextoIzquierda(respuesta.toString(repeticionesPalabrasClaves));
             }
             taEntrada.setText("");
         }
@@ -148,9 +141,9 @@ public class InterfazVisual extends javax.swing.JFrame {
             ex.printStackTrace();
         }
     }//GEN-LAST:event_btnEnviarActionPerformed
-
+    
     private void btnVerLogsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVerLogsActionPerformed
-        (new Logs(Agente.getReglaDatoUsadas())).show();
+        (new Logs(agente)).show();
     }//GEN-LAST:event_btnVerLogsActionPerformed
 
     private void agregarTextoDerecha(String tex) throws BadLocationException{
