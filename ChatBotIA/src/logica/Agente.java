@@ -168,10 +168,16 @@ public class Agente {
         
         reglas = new ArrayList<Regla>();
         
-        //Reglas de prueba
-        reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Respuesta>(Arrays.asList(new Decir("Regla de solo after"))), 1));
+        //Reglas de prueba (Definir bien las reglas que se van a utilizar en funcion de las palabras claves y las acciones que deben realizar)
+        //Toda regla que no tenga palabras claves se considera regla por defecto y solo se va a usar cuando no encuentre una regla activa con palabras claves
+        
+        //Reglas por defecto:
+        reglas.add(new Regla(1, new ArrayList<String>(), new ArrayList<Respuesta>(Arrays.asList(new Decir("No se ha encontrado una respuesta."))), 0));
+        
+        //Reglas posta:
+        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Respuesta>(Arrays.asList(new Decir("Regla de solo after"))), 1));
         reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new Decir("After y hobby 2"))), 2));
-        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres(), new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(4, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres(), new AdvertirNoResponder())), 2));
         
         //TODO: Definir reglas
     }
@@ -180,10 +186,10 @@ public class Agente {
     public void inicializarCriterios(){
         criterios = new LinkedList<Criterio>();
         
-        //Criterios de prueba
+        //Criterios de prueba (Definir bien los criterios que se van a utilizar realmente y su orden)
+        criterios.add(new NoDuplicidad(this));
         criterios.add(new Especificidad());
         criterios.add(new Prioridad());
-        criterios.add(new NoDuplicidad(this));
         criterios.add(new Novedad());
         
         //TODO: Definir criterios
@@ -198,8 +204,8 @@ public class Agente {
     public List<Respuesta> generarRespuesta(String frase){
         try{
             List<String> palabrasClaves = PreProcesador.preprocesarEntrada(this, palabras, frase);
-            List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(this, reglas, palabrasClaves, frase);
-            List<Respuesta> respuesta = Respondedor.obtenerRespuesta(this, criterios, reglasActivas);
+            List<Regla> reglasActivas = Cotejador.cotejarReglas(this, reglas, palabrasClaves, frase);
+            List<Respuesta> respuesta = Respondedor.obtenerRespuesta(this, criterios, reglasActivas, palabrasClaves, frase);
             return respuesta;
         }
         catch(Exception ex){

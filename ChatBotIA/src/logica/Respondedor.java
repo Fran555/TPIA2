@@ -14,16 +14,20 @@ public class Respondedor {
     
     private static final int ADVERTIR_NO_RESPONDER_VECES_REPETICIONES_PALABRAS_CLAVES = 3;
     
-    public static List<Respuesta> obtenerRespuesta(Agente agente, List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
+    public static List<Respuesta> obtenerRespuesta(Agente agente, List<Criterio> listaCriterios, List<Regla> listaReglasActivas, List<String> palabrasClavesIngresadas, String frase){
         List<Respuesta> respuestas = new ArrayList<Respuesta>();
         List<Criterio> criteriosAplicados = new ArrayList<Criterio>();
+        listaReglasActivas = eliminarReglasPorDefecto(listaReglasActivas);
         if(!listaReglasActivas.isEmpty()){
-            List<ReglaDato> finalRules;
+            List<ReglaDato> finalRules = new ArrayList<ReglaDato>();
             Criterio criterio;
             int j = 0;
             //Mientras no haya una sola regla elegida y no nos quedemos sin criterios
             do{
-                finalRules = listaReglasActivas;
+                finalRules = new ArrayList<ReglaDato>();
+                for(Regla regla: listaReglasActivas){
+                    finalRules.add(new ReglaDato(regla, palabrasClavesIngresadas, frase, null));
+                }
                 
                 criteriosAplicados = new ArrayList<Criterio>();
                 //Se seleccionan las reglas segun cada criterio hasta que uno devuelva una sola regla (los criterios se van anidando)
@@ -51,10 +55,14 @@ public class Respondedor {
                 //Se agrega el objeto ReglaDato a la lista que conserva el agente (para el log y la no duplicidad)
                 respuestas.clear();
                 //Se obtiene las respuestas a partir de la regla elegida
-                respuestas = obtenerRespuestas(agente, r, reglaDatoAplicada.getPalabrasClaves());
+                respuestas = obtenerRespuestas(agente, r, palabrasClavesIngresadas);
                 reglaDatoAplicada.setRegla(new Regla(r.getId(), r.getPalabrasClaves(), respuestas, r.getPrioridad()));
                 agente.agregarReglaDatoUsada(reglaDatoAplicada);
             }
+        }
+        else{
+            ReglaDato reglaDato = new ReglaDato(null, palabrasClavesIngresadas, frase, new ArrayList<Criterio>());
+            agente.agregarReglaDatoUsada(reglaDato);
         }
         return respuestas;
     }
@@ -86,6 +94,21 @@ public class Respondedor {
             }
         }
         return respuestasVerif;
+    }
+    
+    private static List<Regla> eliminarReglasPorDefecto(List<Regla> reglasActivas){
+        List<Regla> reglasActivasFin = new ArrayList<Regla>();
+        boolean contieneReglasNoDefecto = false;
+        for(Regla regla : reglasActivas){
+            if(regla.getPalabrasClaves().size() > 0){
+                contieneReglasNoDefecto = true;
+                reglasActivasFin.add(regla);
+            }
+        }
+        if(!contieneReglasNoDefecto){
+            reglasActivasFin = reglasActivas;
+        }
+        return reglasActivasFin;
     }
     
 }

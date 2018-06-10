@@ -38,10 +38,12 @@ public class NoDuplicidad extends Criterio {
         for(ReglaDato prd : agente.getReglaDatoUsadas())
         {
             Regla ru = prd.getRegla();
-            List<String> pcu = prd.getPalabrasClaves();
-            //Verifica su un objeto ReglaDato obtenido de la lista de reglas utilizadas por el agente es igual a uno candidato a ser aplicado
-            if((r.getId()==ru.getId()) && coincidenPalabrasClaves(pcu, pc)){
-                return true;
+            if(ru != null){
+                List<String> pcu = prd.getPalabrasClaves();
+                //Verifica su un objeto ReglaDato obtenido de la lista de reglas utilizadas por el agente es igual a uno candidato a ser aplicado
+                if((r.getId()==ru.getId()) && coincidenPalabrasClaves(pcu, pc)){
+                    return true;
+                }
             }
         }
         return false;

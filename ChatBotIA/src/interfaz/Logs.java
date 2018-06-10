@@ -2,36 +2,65 @@ package interfaz;
 
 import criterios.Criterio;
 import historial.Historial;
+import java.awt.Dimension;
 import reglas.ReglaDato;
 import java.util.ArrayList;
 import java.util.List;
+import javax.swing.text.SimpleAttributeSet;
+import javax.swing.text.StyleConstants;
+import javax.swing.text.StyledDocument;
 import logica.Agente;
 import logica.Utils;
 
 public class Logs extends javax.swing.JFrame {
     
-    private static final double TAMAÑO_PIXELES_GUION = 4.2;
+    private static final double TAMAÑO_PIXELES_GUION = 4.41;
     private Agente agente;
+    
+    StyledDocument doc;
+    SimpleAttributeSet left;
+    SimpleAttributeSet center;
     
     public Logs(Agente agente) {
         initComponents();
-        int cantidadGuiones = ((int)(taLogs.getSize().getWidth()/TAMAÑO_PIXELES_GUION));
-        List<String> logs = Historial.obtenerHistorial(agente.getReglaDatoUsadas());
-        String texto = "";
-        String log;
-        for(int i = 0; i<logs.size(); i++){
-            log = logs.get(i);
-            texto += log;
-            texto += ((texto.equals("")) ? "" : "\n");
-            for(int j=0; j<cantidadGuiones; j++){
-                texto += "-";
-            }
-            if(i < logs.size() - 1){
-                texto += "\n";
+        this.agente = agente;
+        
+        doc = taLogs.getStyledDocument();
+        left = new SimpleAttributeSet();
+        StyleConstants.setAlignment(left, StyleConstants.ALIGN_LEFT);
+        center = new SimpleAttributeSet();
+        StyleConstants.setAlignment(center, StyleConstants.ALIGN_CENTER);
+
+    }
+    
+    private void escribirLogs(){
+        try{
+            if(agente != null){
+                taLogs.setText("");
+                doc = taLogs.getStyledDocument();
+                List<String> logs = Historial.obtenerHistorial(agente.getReglaDatoUsadas());
+                int cantidadGuiones = ((int)(this.getSize().getWidth()/TAMAÑO_PIXELES_GUION));
+                String log;
+                String guiones;
+                for(int i = 0; i<logs.size(); i++){
+                    log = logs.get(i);
+                    Utils.escribirDocumento(doc, log, left);
+                    guiones = "\n";
+                    for(int j=0; j<cantidadGuiones; j++){
+                        guiones += "-";
+                    }
+                    if(i < logs.size() - 1){
+                        guiones += "\n";
+                    }
+                    Utils.escribirDocumento(doc, guiones, center);
+                }
             }
         }
-        taLogs.setText(texto);
+        catch(Exception ex){
+            ex.printStackTrace();
+        }
     }
+   
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -43,14 +72,28 @@ public class Logs extends javax.swing.JFrame {
     private void initComponents() {
 
         jScrollPane1 = new javax.swing.JScrollPane();
-        taLogs = new javax.swing.JTextArea();
+        taLogs = new javax.swing.JTextPane();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("Logs");
+        addHierarchyBoundsListener(new java.awt.event.HierarchyBoundsListener() {
+            public void ancestorMoved(java.awt.event.HierarchyEvent evt) {
+            }
+            public void ancestorResized(java.awt.event.HierarchyEvent evt) {
+                formAncestorResized(evt);
+            }
+        });
+
+        jScrollPane1.setVerticalScrollBarPolicy(javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
 
         taLogs.setEditable(false);
-        taLogs.setColumns(20);
-        taLogs.setRows(5);
+        taLogs.addHierarchyBoundsListener(new java.awt.event.HierarchyBoundsListener() {
+            public void ancestorMoved(java.awt.event.HierarchyEvent evt) {
+            }
+            public void ancestorResized(java.awt.event.HierarchyEvent evt) {
+                taLogsAncestorResized(evt);
+            }
+        });
         jScrollPane1.setViewportView(taLogs);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -73,8 +116,16 @@ public class Logs extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    private void formAncestorResized(java.awt.event.HierarchyEvent evt) {//GEN-FIRST:event_formAncestorResized
+        
+    }//GEN-LAST:event_formAncestorResized
+
+    private void taLogsAncestorResized(java.awt.event.HierarchyEvent evt) {//GEN-FIRST:event_taLogsAncestorResized
+        this.escribirLogs();
+    }//GEN-LAST:event_taLogsAncestorResized
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JScrollPane jScrollPane1;
-    private javax.swing.JTextArea taLogs;
+    private javax.swing.JTextPane taLogs;
     // End of variables declaration//GEN-END:variables
 }

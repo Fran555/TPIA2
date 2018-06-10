@@ -1,6 +1,9 @@
 package logica;
 
 import java.util.List;
+import javax.swing.text.SimpleAttributeSet;
+import javax.swing.text.StyleConstants;
+import javax.swing.text.StyledDocument;
 import reglas.ReglaDato;
 
 public class Utils{
@@ -34,4 +37,14 @@ public class Utils{
         return coincide;
     }
     
+    public static void escribirDocumento(StyledDocument doc, String texto, SimpleAttributeSet estilo) throws Exception{
+        try{
+            doc.insertString(doc.getLength(), texto, estilo);
+            doc.setParagraphAttributes(doc.getLength() - 1, 1, estilo, false);
+        }
+        catch(Exception ex){
+            throw ex;
+        }
+    }
+  
 }

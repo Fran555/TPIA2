@@ -31,17 +31,25 @@ public class Historial {
             texto += ((texto.equals("")) ? "" : "\n") + "Frase ingresada:\n\t" + reglaDato.getFrase();
             texto += ((texto.equals("")) ? "" : "\n") + "Palabras claves detectadas:\n\t";
             palabrasClaves = reglaDato.getPalabrasClaves();
-            for(int j = 0; j<palabrasClaves.size(); j++){
-                palabra = palabrasClaves.get(j);
-                texto += palabra;
-                if(j < palabrasClaves.size() - 1){
-                    texto += " ,";
+            if(palabrasClaves.size() > 0){
+                for(int j = 0; j<palabrasClaves.size(); j++){
+                    palabra = palabrasClaves.get(j);
+                    texto += palabra;
+                    if(j < palabrasClaves.size() - 1){
+                        texto += " ,";
+                    }
                 }
             }
-            texto += ((texto.equals("")) ? "" : "\n") + "Regla aplicada:" + reglaDato.getRegla().toString(repeticionesPalabrasClaves);
-            texto += ((texto.equals("")) ? "" : "\n") + "Criterios aplicados:";
-            for(Criterio criterio : reglaDato.getCriteriosAplicados()){
-                texto += "\n\t" + criterio.toString();
+            else{
+                texto += "No se han encontrado palabras claves en la frase.";
+            }
+            texto += ((texto.equals("")) ? "" : "\n") + "Regla aplicada:";
+            texto += ((reglaDato.getRegla() != null) ? reglaDato.getRegla().toString(repeticionesPalabrasClaves) : "\n\tNo se ha podido encontrar una regla para el conjunto de palabras claves detectadas.");
+            if(reglaDato.getCriteriosAplicados().size() > 0){
+                texto += ((texto.equals("")) ? "" : "\n") + "Criterios aplicados:";
+                for(Criterio criterio : reglaDato.getCriteriosAplicados()){
+                    texto += "\n\t" + criterio.toString();
+                }
             }
             logs.add(texto);
         }

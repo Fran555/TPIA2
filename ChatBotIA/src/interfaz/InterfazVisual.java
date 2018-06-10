@@ -16,8 +16,8 @@ import respuestas.Respuesta;
 public class InterfazVisual extends javax.swing.JFrame {
 
     StyledDocument doc;
-    SimpleAttributeSet left;
-    SimpleAttributeSet right;
+    SimpleAttributeSet salida;
+    SimpleAttributeSet entrada;
     Agente agente;
     
     public InterfazVisual() {
@@ -28,13 +28,13 @@ public class InterfazVisual extends javax.swing.JFrame {
         
         doc = tpSalida.getStyledDocument();
 
-        left = new SimpleAttributeSet();
-        StyleConstants.setAlignment(left, StyleConstants.ALIGN_LEFT);
-        StyleConstants.setForeground(left, Color.RED);
+        salida = new SimpleAttributeSet();
+        StyleConstants.setAlignment(salida, StyleConstants.ALIGN_LEFT);
+        StyleConstants.setForeground(salida, Color.RED);
         
-        right = new SimpleAttributeSet();
-        StyleConstants.setAlignment(right, StyleConstants.ALIGN_RIGHT);
-        StyleConstants.setForeground(right, Color.BLUE);
+        entrada = new SimpleAttributeSet();
+        StyleConstants.setAlignment(entrada, StyleConstants.ALIGN_RIGHT);
+        StyleConstants.setForeground(entrada, Color.BLUE);
     }
 
     /**
@@ -66,7 +66,14 @@ public class InterfazVisual extends javax.swing.JFrame {
 
         taEntrada.setColumns(20);
         taEntrada.setRows(1);
+        taEntrada.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                taEntradaKeyPressed(evt);
+            }
+        });
         jScrollPane2.setViewportView(taEntrada);
+        taEntrada.getAccessibleContext().setAccessibleName("");
+        taEntrada.getAccessibleContext().setAccessibleDescription("");
 
         btnLimpiar.setText("Limpiar");
         btnLimpiar.addActionListener(new java.awt.event.ActionListener() {
@@ -76,6 +83,7 @@ public class InterfazVisual extends javax.swing.JFrame {
         });
 
         tpSalida.setEditable(false);
+        tpSalida.setFocusable(false);
         jScrollPane3.setViewportView(tpSalida);
 
         btnVerLogs.setText("Logs");
@@ -104,9 +112,9 @@ public class InterfazVisual extends javax.swing.JFrame {
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 405, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jScrollPane3, javax.swing.GroupLayout.DEFAULT_SIZE, 405, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 62, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -116,45 +124,49 @@ public class InterfazVisual extends javax.swing.JFrame {
                         .addComponent(btnLimpiar)))
                 .addGap(8, 8, 8)
                 .addComponent(btnVerLogs)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap())
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLimpiarActionPerformed
-        limpiarSalida();
+        limpiar();
     }//GEN-LAST:event_btnLimpiarActionPerformed
 
     private void btnEnviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEnviarActionPerformed
-        try{
-            agregarTextoDerecha(taEntrada.getText());
-            int repeticionesPalabrasClaves;
-            for(Respuesta respuesta : agente.generarRespuesta(taEntrada.getText())){
-                repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), PreProcesador.obtenerPalabras(taEntrada.getText()));
-                respuesta.ejecutar(repeticionesPalabrasClaves);
-                agregarTextoIzquierda(respuesta.toString(repeticionesPalabrasClaves));
-            }
-            taEntrada.setText("");
-        }
-        catch(Exception ex){
-            ex.printStackTrace();
-        }
+        obtenerRespuestas();
     }//GEN-LAST:event_btnEnviarActionPerformed
     
     private void btnVerLogsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnVerLogsActionPerformed
         (new Logs(agente)).show();
     }//GEN-LAST:event_btnVerLogsActionPerformed
 
-    private void agregarTextoDerecha(String tex) throws BadLocationException{
-        doc.insertString(doc.getLength(), ((doc.getLength() != 0) ? "\n" : "") + tex, right);
-        doc.setParagraphAttributes(doc.getLength(), 1, right, false);
+    private void taEntradaKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_taEntradaKeyPressed
+        if(evt.getKeyCode() == 10){
+            evt.consume();
+            obtenerRespuestas();
+        }
+    }//GEN-LAST:event_taEntradaKeyPressed
+
+    private void obtenerRespuestas(){
+        try{
+            if(!taEntrada.getText().trim().equals("")){
+                Utils.escribirDocumento(doc, ((doc.getLength() != 0) ? "\n" : "") + taEntrada.getText(), entrada);
+                int repeticionesPalabrasClaves;
+                for(Respuesta respuesta : agente.generarRespuesta(taEntrada.getText())){
+                    repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), PreProcesador.obtenerPalabras(taEntrada.getText()));
+                    respuesta.ejecutar(repeticionesPalabrasClaves);
+                    Utils.escribirDocumento(doc, ((doc.getLength() != 0) ? "\n" : "") + respuesta.toString(repeticionesPalabrasClaves), salida);
+                }
+                taEntrada.setText("");
+            }
+        }
+        catch(Exception ex){
+            ex.printStackTrace();
+        }
     }
     
-    private void agregarTextoIzquierda(String tex) throws BadLocationException{
-        doc.insertString(doc.getLength(), ((doc.getLength() != 0) ? "\n" : "") + tex, left);
-        doc.setParagraphAttributes(doc.getLength(), 1, left, false);
-    }
     
     /**
      * @param args the command line arguments
@@ -191,8 +203,9 @@ public class InterfazVisual extends javax.swing.JFrame {
         });
     }
     
-    private void limpiarSalida(){
+    private void limpiar(){
         tpSalida.setText("");
+        taEntrada.setText("");
         doc = tpSalida.getStyledDocument();
     }
 
