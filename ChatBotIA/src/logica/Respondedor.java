@@ -58,7 +58,7 @@ public class Respondedor {
                 respuestas.clear();
                 //Se obtiene las respuestas a partir de la regla elegida
                 respuestas = obtenerRespuestas(agente, r, reglaDatoAplicada.getPalabrasClaves());
-                reglaDatoAplicada.getRegla().setRespuestas(respuestas);
+                reglaDatoAplicada.setRegla(new Regla(r.getId(), r.getPalabrasClaves(), respuestas, r.getPrioridad()));
                 agente.agregarReglaDatoUsada(reglaDatoAplicada);
             }
         }
@@ -69,7 +69,7 @@ public class Respondedor {
         List<Respuesta> respuestas = regla.getRespuestas();
         //Se eliminan las respuestas repetidas para que no se ejecute dos veces algo que hace lo mismo (no llame dos veces a los padres por ejemplo)
         int repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), palabrasClaves);
-        respuestas = eliminarRespuestasRepetidas(repeticionesPalabrasClaves, respuestas);
+        respuestas = eliminarRespuestasRepetidas(repeticionesPalabrasClaves+1, respuestas);
         return respuestas;
     }
     

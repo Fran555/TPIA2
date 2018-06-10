@@ -1,6 +1,7 @@
 package interfaz;
 
 import criterios.Criterio;
+import historial.Historial;
 import reglas.ReglaDato;
 import java.util.ArrayList;
 import java.util.List;
@@ -9,43 +10,24 @@ import logica.Utils;
 
 public class Logs extends javax.swing.JFrame {
     
-    private static final double TAMAÑO_PIXELES_GUION = 4.1;
+    private static final double TAMAÑO_PIXELES_GUION = 4.2;
     private Agente agente;
-
-    private List<ReglaDato> reglasDatos;
     
     public Logs(Agente agente) {
         initComponents();
-        this.reglasDatos = agente.getReglaDatoUsadas();
-        this.escribirLogs();
-    }
-    
-    private void escribirLogs(){
-        String texto = "";
-        String palabra;
-        int repeticionesPalabrasClaves;
         int cantidadGuiones = ((int)(taLogs.getSize().getWidth()/TAMAÑO_PIXELES_GUION));
-        List<String> palabrasClaves;
-        for(ReglaDato reglaDato : reglasDatos){
-            repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(reglasDatos, reglaDato.getPalabrasClaves());
-            texto += ((texto.equals("")) ? "" : "\n") + "Frase ingresada:\n\t" + reglaDato.getFrase();
-            texto += ((texto.equals("")) ? "" : "\n") + "Palabras claves detectadas:\n\t";
-            palabrasClaves = reglaDato.getPalabrasClaves();
-            for(int i = 0; i<palabrasClaves.size(); i++){
-                palabra = palabrasClaves.get(i);
-                texto += palabra;
-                if(i < palabrasClaves.size() - 1){
-                    texto += " ,";
-                }
-            }
-            texto += ((texto.equals("")) ? "" : "\n") + "Regla aplicada:" + reglaDato.getRegla().toString(repeticionesPalabrasClaves);
-            texto += ((texto.equals("")) ? "" : "\n") + "Criterios aplicados:";
-            for(Criterio criterio : reglaDato.getCriteriosAplicados()){
-                texto += "\n\t" + criterio.toString();
-            }
+        List<String> logs = Historial.obtenerHistorial(agente.getReglaDatoUsadas());
+        String texto = "";
+        String log;
+        for(int i = 0; i<logs.size(); i++){
+            log = logs.get(i);
+            texto += log;
             texto += ((texto.equals("")) ? "" : "\n");
-            for(int i=0; i<cantidadGuiones; i++){
+            for(int j=0; j<cantidadGuiones; j++){
                 texto += "-";
+            }
+            if(i < logs.size() - 1){
+                texto += "\n";
             }
         }
         taLogs.setText(texto);
