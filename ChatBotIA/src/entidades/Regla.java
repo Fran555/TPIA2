@@ -15,10 +15,10 @@ public class Regla {
     
     private int id;
     private List<String> palabrasClaves;
-    private List<String> respuestas;
+    private List<Object> respuestas;
     private int priority;
 
-    public Regla(int id, List<String> palabrasClaves, List<String> respuestas, int priority) {
+    public Regla(int id, List<String> palabrasClaves, List<Object> respuestas, int priority) {
         this.id = id;
         this.palabrasClaves = palabrasClaves;
         this.respuestas = respuestas;
@@ -41,11 +41,11 @@ public class Regla {
         this.palabrasClaves = palabrasClaves;
     }
 
-    public List<String> getRespuestas() {
+    public List<Object> getRespuestas() {
         return respuestas;
     }
 
-    public void setRespuestas(List<String> respuestas) {
+    public void setRespuestas(List<Object> respuestas) {
         this.respuestas = respuestas;
     }
     

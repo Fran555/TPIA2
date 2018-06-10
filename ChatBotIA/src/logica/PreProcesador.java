@@ -20,8 +20,11 @@ public class PreProcesador {
     
    public static List<String> preprocesarEntrada(Map <String,String> palabras, String frase){
         List <String> pc = new ArrayList<String>();
+        //Se convierten las keys del mapa de sinonimos - palabras claves obtenido por parametro a minúsculas
         Map<String, String> palabrasClaves = convertirPalabrasClavesAMinusculas(palabras);
+        //Se obtiene una lista de palabras a partir de la frase ingresada por parámetro
         List<String> palabrasFrase = obtenerPalabras(frase);
+        //Se obtienen la lista de palabras claves ingresadas usando el mapa sinonimos - palabras claves y la lista de palabras obtenidas de la frase de entrada
         for (String palabra : palabrasFrase){
             if(palabrasClaves.containsKey(palabra.toLowerCase())){
                 pc.add(palabrasClaves.get(palabra.toLowerCase()).toLowerCase());
@@ -41,7 +44,9 @@ public class PreProcesador {
    public static List<String> obtenerPalabras(String frase){
        List<String> palabras = new ArrayList<String>();
        String palabraAux;
+       //Se recorre cada palabra separando la frase por espacios
        for(String palabra : frase.split(" ")){
+           //Se quita todo lo que no sea un caracter alfanumérico
            palabraAux = palabra.replaceAll("[^a-zA-Z0-9]+", "");
            palabras.add(palabraAux);
        }

@@ -15,16 +15,19 @@ public class Novedad extends Criterio {
 	@Override
 	public LinkedList<ReglaDato> aplicarCriterio(List<ReglaDato> list) {
 
-            int novelty, mayor = 0;		
+            int novelty, mayor = 0;
+            //Se obtiene la mayor novedad de la lista de ReglaDato que están activas
             for(ReglaDato prd : list)
             {
-                    novelty = list.indexOf(prd);
-                    if(novelty > mayor) mayor = novelty;
+                //La novedad se obtiene a partir la posicion en que está la regla dentro de la lista de reglas que tiene el agente
+                novelty = list.indexOf(prd);
+                if(novelty > mayor) mayor = novelty;
             }
+            //Se obtiene las reglas que tienen la mayor novedad, es decir, las que fueron agregadas últimas
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
             for(ReglaDato prd : list)
             {
-                    if(list.indexOf(prd) == mayor) ret.add(prd);
+                if(list.indexOf(prd) == mayor) ret.add(prd);
             }    	
             return ret;
 		
@@ -32,7 +35,7 @@ public class Novedad extends Criterio {
 
 	@Override
 	public String toString() {
-		return "Novelty (Novedad)";
+            return "Novelty (Novedad)";
 	}
 
 }

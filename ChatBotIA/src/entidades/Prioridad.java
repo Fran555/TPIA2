@@ -15,18 +15,21 @@ public class Prioridad extends Criterio {
 	@Override
 	public LinkedList<ReglaDato> aplicarCriterio(List<ReglaDato> list) {
 
-            int priority, mayor = 0;		
+            int priority, mayor = 0;
+            //Se obtiene la mayor prioridad dentro de la lista de ReglaDato del agente
             for(ReglaDato prd : list)
             {
-                    Regla r = prd.getRegla();
-                    priority = r.getPriority();
-                    if(priority > mayor) mayor = priority;
+                Regla r = prd.getRegla();
+                //La prioridad es un valor asignado a la regla
+                priority = r.getPriority();
+                if(priority > mayor) mayor = priority;
             }
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
+            //Se obtienen las reglas con la mayor prioridad
             for(ReglaDato prd : list)
             {
-                    Regla r = prd.getRegla();
-                    if(r.getPriority() == mayor) ret.add(prd);
+                Regla r = prd.getRegla();
+                if(r.getPriority() == mayor) ret.add(prd);
             }    	
             return ret;
 		
@@ -34,7 +37,7 @@ public class Prioridad extends Criterio {
 
 	@Override
 	public String toString() {
-		return "Priority (Prioridad)";
+            return "Priority (Prioridad)";
 	}
 
 }

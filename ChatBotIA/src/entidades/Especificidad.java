@@ -15,14 +15,17 @@ public class Especificidad extends Criterio {
 	@Override
 	public LinkedList<ReglaDato> aplicarCriterio(List<ReglaDato> list) {
 		
-            int specifity, mayor = 0;		
+            int specifity, mayor = 0;
+            //Se obtiene la especificidad más alta de la lista de reglas
             for(ReglaDato prd : list)
             {
                     Regla r = prd.getRegla();
+                    //La especificidad es la cantidad de palabras claves que contiene la regla
                     specifity = r.getPalabrasClaves().size();
                     if(specifity > mayor) mayor = specifity;
             }
-
+            
+            //Se obtiene una lista de reglas que tiene la máxima especificidad
             LinkedList<ReglaDato> ret = new LinkedList<ReglaDato>();
             for(ReglaDato prd : list)
             {

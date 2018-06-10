@@ -17,8 +17,8 @@ import java.util.List;
  */
 public class Respondedor {
     
-    public static List<String> obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
-        List<String> respuesta = new ArrayList<String>();
+    public static List<Object> obtenerRespuesta(List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
+        List<Object> respuesta = new ArrayList<Object>();
         respuesta.add("No se ha podido encontrar una respuesta.");
         if(listaReglasActivas.isEmpty()){
             respuesta.clear();
@@ -50,9 +50,12 @@ public class Respondedor {
         return respuesta;
     }
     
-    public static List<String> obtenerRespuesta(Regla regla){
-        //Aca es donde se puede hacer algo especial segun la regla
-        List<String> respuesta = regla.getRespuestas();
+    public static List<Object> obtenerRespuesta(Regla regla){
+        List<Object> respuesta = new ArrayList<Object>();
+        for(Object res : regla.getRespuestas()){
+            //Aca es donde se puede hacer algo especial segun la regla, por ahora solo se devuelve la lista de respuestas
+            respuesta.add(res);
+        }
         return respuesta;
     }
     

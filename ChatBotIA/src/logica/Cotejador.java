@@ -21,6 +21,7 @@ public class Cotejador {
         boolean todasPalabras = true;
         for(Regla regla : listaReglas){
             if((regla.getPalabrasClaves().size() == 0)){
+                //Si la regla no tiene palabras claves entonces ya de por sí cumple el cotejamiento entonces se agrega a la lista de palabras activas
                 reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase));
             }
             else{
@@ -28,11 +29,13 @@ public class Cotejador {
                 for(String palabra : regla.getPalabrasClaves())
                 {
                     if(!palabrasClavesEntrada.contains(palabra.toLowerCase())){
+                        //Si una palabra clave de la regla no esta incluida en la lista de palabras claves obtenidas de la frase, entonces la regla ya no cumple con el cotejamiento
                         todasPalabras = false;
                         break;
                     }
                 }
                 if(todasPalabras){
+                    //Si las palabras de la regla estan contenidas en la lista de palabras claves obtenidas de la frase, entonces la regla cumple el cotejamiento y se agrega a la lista de palabras activas
                     reglasActivas.add(new ReglaDato(regla, palabrasClavesEntrada, frase));
                 }
             }

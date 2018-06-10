@@ -26,6 +26,7 @@ public class Agente {
     static List<Regla> reglas;
     static List<Criterio> criterios;
     
+    //Se inicializa el Map de sinonimo - palabra clave
     public static void inicializarPalabrasClaves(){
         
         palabras = new HashMap <String,String>();
@@ -196,18 +197,21 @@ public class Agente {
         
     }
     
+    //Se inicializa la lista de reglas
+    //Formato: new Regla(id, lista de palabras claves, lista de respuestas, prioridad);
     public static void inicializarReglas(){
         
         reglas = new ArrayList<Regla>();
         
         //Reglas de prueba
-        reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<String>(Arrays.asList("Regla de solo after")), 1));
-        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<String>(Arrays.asList("Multirespuesta", "After y hobby 1")), 2));
-        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<String>(Arrays.asList("After y hobby 2")), 2));
+        reglas.add(new Regla(1, new ArrayList<String>(Arrays.asList("After")), new ArrayList<Object>(Arrays.asList("Regla de solo after")), 1));
+        reglas.add(new Regla(2, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Object>(Arrays.asList("Multirespuesta", "After y hobby 1")), 2));
+        reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("After", "Hobby")), new ArrayList<Object>(Arrays.asList("After y hobby 2")), 2));
         
         //TODO: Definir reglas
     }
     
+    //Se inicializa la lista de criterios a aplicarse en el orden que se desea que se apliquen (los criterios se anidan)
     public static void inicializarCriterios(){
         criterios = new LinkedList<Criterio>();
         
@@ -220,21 +224,23 @@ public class Agente {
         //TODO: Definir criterios
     }
     
+    //Se pone el blanco la lista de las reglas aplicadas
     public static void inicializarReglaDatoUsadas(){
         reglaDatoUsadas = new ArrayList<ReglaDato>();
     }
     
-    public static List<String> generarRespuesta(String frase){
+    //Se aplican las tres etapas de Sistemas de Produccion para obtener una respuesta a la frase de entrada
+    public static List<Object> generarRespuesta(String frase){
         try{
             List<String> palabrasClaves = PreProcesador.preprocesarEntrada(palabras, frase);
             List<ReglaDato> reglasActivas = Cotejador.cotejarReglas(reglas, palabrasClaves, frase);
-            List<String> respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
+            List<Object> respuesta = Respondedor.obtenerRespuesta(criterios, reglasActivas);
             return respuesta;
         }
         catch(Exception ex){
             ex.printStackTrace();
         }
-        return new ArrayList<String>();
+        return new ArrayList<Object>();
     }
     
     public static List<ReglaDato> getReglaDatoUsadas() {
