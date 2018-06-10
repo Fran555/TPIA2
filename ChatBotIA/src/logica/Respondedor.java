@@ -17,20 +17,14 @@ public class Respondedor {
     public static List<Respuesta> obtenerRespuesta(Agente agente, List<Criterio> listaCriterios, List<ReglaDato> listaReglasActivas){
         List<Respuesta> respuestas = new ArrayList<Respuesta>();
         List<Criterio> criteriosAplicados = new ArrayList<Criterio>();
-        //Se define la respuesta por defecto
-        respuestas.add(new Decir("No se ha podido encontrar una respuesta."));
-        if(listaReglasActivas.isEmpty()){
-            //Si no existe ninguna regla activa para la entrada
-            respuestas.clear();
-            respuestas.add(new Decir("No se han encontrado reglas activas para la frase."));
-        }
-        else{
+        if(!listaReglasActivas.isEmpty()){
             List<ReglaDato> finalRules;
             Criterio criterio;
             int j = 0;
             //Mientras no haya una sola regla elegida y no nos quedemos sin criterios
             do{
                 finalRules = listaReglasActivas;
+                
                 criteriosAplicados = new ArrayList<Criterio>();
                 //Se seleccionan las reglas segun cada criterio hasta que uno devuelva una sola regla (los criterios se van anidando)
                 for(int i=j; i<listaCriterios.size(); i++){
