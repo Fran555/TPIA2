@@ -49,11 +49,19 @@ public class Agente {
         palabras.put("Being", "Be");
         palabras.put("Go", "Go");
         palabras.put("Going", "Go");
+        
+        //Ubicación geográfica
         palabras.put("Holiday", "Place");
         palabras.put("Holidays", "Place");
         palabras.put("Place", "Place");
         palabras.put("Vacation", "Place");
         palabras.put("Where", "Place");
+        palabras.put("Kindergarten", "School");
+        palabras.put("Middle School", "School");
+        palabras.put("High School", "School");
+        palabras.put("Town", "Town");
+        palabras.put("City", "Town");
+        palabras.put("Province", "Town");
         
         //Expresiones de voluntad
         palabras.put("Want", "Want");
@@ -69,10 +77,62 @@ public class Agente {
         //Referencias a personas o al niño
         palabras.put("Who", "Who");
         palabras.put("You", "You");
-        palabras.put("Your", "You");
+        palabras.put("Your", "Your");
+        
+        //Objetos de valor
+        palabras.put("Credit", "Credit");
+        palabras.put("Card", "Card");
+        palabras.put("Money", "Money");
+        palabras.put("Bank", "Money");
+        palabras.put("Save", "Save");
+        palabras.put("Store", "Save");
+        palabras.put("Saving", "Save");
+        palabras.put("Savings", "Save");
+        palabras.put("Saved", "Save");
+        palabras.put("Cash", "Money");
+        palabras.put("Coins", "Money");
+        palabras.put("Dollars", "Money");
+        palabras.put("Jewelry", "Jewelry");
+        palabras.put("Jewel", "Jewelry");
+        palabras.put("Collect", "Collect");
+        palabras.put("Collecting", "Collect");
+        palabras.put("Gathering", "Collect");
+        palabras.put("Income", "Income");
+        palabras.put("Salary", "Income");
+        palabras.put("Wage", "Income");
+        palabras.put("Earning", "Income");
+        
+        //Reglas asociadas a datos personales
+        palabras.put("Driver", "Driver");
+        palabras.put("Driver's", "Driver");
+        palabras.put("Drivers", "Driver");
+        palabras.put("License", "License");
+        palabras.put("Driver License", "License");
+        palabras.put("Driver's License", "License");
+        palabras.put("Drive", "Drive");
+        palabras.put("Dedicated", "Dedicated");
+        palabras.put("Commited", "Dedicated");
+        palabras.put("Devoted", "Dedicated");
+        palabras.put("Enthusiastic", "Dedicated");
+        palabras.put("Something", "Something");
+        palabras.put("SSN", "SSN"); //RO - 10/6/2018 - SSN es el "DNI" en EEUU
+        
+        //Objetos de valor
+        palabras.put("Money", "Money");
+        palabras.put("Cash", "Money");
+        palabras.put("Coins", "Money");
+        palabras.put("Dollars", "Money");
+        palabras.put("Jewelry", "Jewelry");
+        palabras.put("Jewel", "Jewelry");
+        palabras.put("Necklace", "Necklace");
+        palabras.put("Choker", "Necklace");
+        palabras.put("Pendant", "Necklace");
+        palabras.put("Strand", "Necklace");
         
         //Family/Friends/Parents related
         palabras.put("Family", "Family");
+        palabras.put("Friend", "Friend");
+        palabras.put("Buddy", "Friend");
         palabras.put("Dad", "Parent");
         palabras.put("Daddy", "Parent");
         palabras.put("Family", "Parent");
@@ -83,6 +143,9 @@ public class Agente {
         palabras.put("Mother", "Parent");
         palabras.put("Parent", "Parent");
         palabras.put("Parents", "Parent");
+        palabras.put("Friend", "Friend");
+        palabras.put("Buddy", "Friend");
+        palabras.put("Bud", "Friend");
         
         //Home-related
         palabras.put("Home", "Home");
@@ -128,27 +191,17 @@ public class Agente {
         //Old (age) related
         palabras.put("Old", "Old");
         palabras.put("Age", "Old");
-       
-        //School-related
-        palabras.put("Kindergarten", "School");
-        palabras.put("Middle School", "School");
-        palabras.put("High School", "School");
-        
-        //Town-related
-        palabras.put("Town", "Town");
-        palabras.put("City", "Town");
-        palabras.put("Province", "Town");
-
+      
         //What-related
         palabras.put("What", "What");
         palabras.put("What’s", "What");
         palabras.put("Which", "What");
+<<<<<<< Updated upstream
        
 
-        palabras.put("Friend", "Friend");
-        palabras.put("Buddy", "Friend");
 
-
+=======
+>>>>>>> Stashed changes
 
         palabras.put("Born", "Born");
         palabras.put("Live", "Live");
@@ -160,24 +213,20 @@ public class Agente {
         palabras.put("Tutor", "Teacher");
         palabras.put("Class", "Class");
         palabras.put("Fun", "Fun");
+<<<<<<< Updated upstream
+=======
         palabras.put("Bank", "Bank");
         palabras.put("Save", "Save");
         palabras.put("Saving", "Save");
         palabras.put("Saved", "Save");
-        palabras.put("Money", "Money");
-        palabras.put("Cash", "Money");
-        palabras.put("Coins", "Money");
-        palabras.put("Dollars", "Money");
-        palabras.put("Jewelry", "Jewelry");
-        palabras.put("Jewel", "Jewelry");
+        
+>>>>>>> Stashed changes
+
         palabras.put("Store", "Store");
         palabras.put("Boutique", "Store");
         palabras.put("Market", "Store");
         palabras.put("Shop", "Store");
-        palabras.put("Necklace", "Necklace");
-        palabras.put("Choker", "Necklace");
-        palabras.put("Pendant", "Necklace");
-        palabras.put("Strand", "Necklace");
+
 
         palabras.put("Sex", "Sex");
         palabras.put("Show", "Show");
@@ -201,18 +250,10 @@ public class Agente {
 
 
 
-        palabras.put("License", "License");
-        palabras.put("Driver's License", "License");
-        palabras.put("Drive", "Drive");
-        palabras.put("Dedicated", "Dedicated");
-        palabras.put("Commited", "Dedicated");
-        palabras.put("Devoted", "Dedicated");
-        palabras.put("Enthusiastic", "Dedicated");
-        palabras.put("Something", "Something");
-        palabras.put("Collecting", "Collecting");
-        palabras.put("Gathering", "Collecting");
         palabras.put("Book", "Book");
         palabras.put("Books", "Book");
+        
+
 
 
     }
@@ -236,12 +277,56 @@ public class Agente {
         reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         
         //Dónde te vas después de...
+<<<<<<< Updated upstream
         reglas.add(new Regla(4, new ArrayList<String>(Arrays.asList("Go", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(5, new ArrayList<String>(Arrays.asList("Go", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(6, new ArrayList<String>(Arrays.asList("Go", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(7, new ArrayList<String>(Arrays.asList("After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
 
-        //Definir más reglas
+        //Edad del niño
+        reglas.add(new Regla(8, new ArrayList<String>(Arrays.asList("How", "Old", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        
+        //Objetos de valor de la familia o del chico
+        reglas.add(new Regla(10, new ArrayList<String>(Arrays.asList("Money", "Save", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(11, new ArrayList<String>(Arrays.asList("Money", "Collect", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(12, new ArrayList<String>(Arrays.asList("Money", "Save", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(13, new ArrayList<String>(Arrays.asList("Money", "Save", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(14, new ArrayList<String>(Arrays.asList("Jewelry", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(15, new ArrayList<String>(Arrays.asList("Jewelry", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(16, new ArrayList<String>(Arrays.asList("Have", "Home", "Jewelry")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(17, new ArrayList<String>(Arrays.asList("Have", "Home", "Jewelry")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(18, new ArrayList<String>(Arrays.asList("Credit", "Card")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 3));
+        reglas.add(new Regla(19, new ArrayList<String>(Arrays.asList("Credit", "Card")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(20, new ArrayList<String>(Arrays.asList("Credit", "Card")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        
+        //Datos personales del niño, padres o familiares
+        reglas.add(new Regla(21, new ArrayList<String>(Arrays.asList("SSN", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(22, new ArrayList<String>(Arrays.asList("SSN", "Your")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(23, new ArrayList<String>(Arrays.asList("SSN", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 3));
+        reglas.add(new Regla(24, new ArrayList<String>(Arrays.asList("SSN", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(25, new ArrayList<String>(Arrays.asList("SSN", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(26, new ArrayList<String>(Arrays.asList("License", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(27, new ArrayList<String>(Arrays.asList("License", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(28, new ArrayList<String>(Arrays.asList("Earn", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 3));
+        reglas.add(new Regla(29, new ArrayList<String>(Arrays.asList("Income", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(30, new ArrayList<String>(Arrays.asList("Income", "Parent")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(31, new ArrayList<String>(Arrays.asList("Income", "Family")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 3));
+        reglas.add(new Regla(32, new ArrayList<String>(Arrays.asList("Income", "Family")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(33, new ArrayList<String>(Arrays.asList("Income", "Family")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(34, new ArrayList<String>(Arrays.asList("Friend", "Name", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(35, new ArrayList<String>(Arrays.asList("Friend", "Name", "Your")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+        reglas.add(new Regla(36, new ArrayList<String>(Arrays.asList("Friend", "Live", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(37, new ArrayList<String>(Arrays.asList("Friend", "Live", "Your")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
+=======
+        reglas.add(new Regla(7, new ArrayList<String>(Arrays.asList("Go", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(8, new ArrayList<String>(Arrays.asList("Go", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(9, new ArrayList<String>(Arrays.asList("Go", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        reglas.add(new Regla(10, new ArrayList<String>(Arrays.asList("After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
+        
+        //Preguntas sobre la edad
+        reglas.add(new Regla(11, new ArrayList<String>(Arrays.asList("Old", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+>>>>>>> Stashed changes
+
     }
     
     /**
