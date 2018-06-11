@@ -277,7 +277,6 @@ public class Agente {
         reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         
         //Dónde te vas después de...
-<<<<<<< Updated upstream
         reglas.add(new Regla(4, new ArrayList<String>(Arrays.asList("Go", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(5, new ArrayList<String>(Arrays.asList("Go", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(6, new ArrayList<String>(Arrays.asList("Go", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
@@ -317,15 +316,6 @@ public class Agente {
         reglas.add(new Regla(35, new ArrayList<String>(Arrays.asList("Friend", "Name", "Your")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         reglas.add(new Regla(36, new ArrayList<String>(Arrays.asList("Friend", "Live", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(37, new ArrayList<String>(Arrays.asList("Friend", "Live", "Your")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
-=======
-        reglas.add(new Regla(7, new ArrayList<String>(Arrays.asList("Go", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        reglas.add(new Regla(8, new ArrayList<String>(Arrays.asList("Go", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        reglas.add(new Regla(9, new ArrayList<String>(Arrays.asList("Go", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        reglas.add(new Regla(10, new ArrayList<String>(Arrays.asList("After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
-        
-        //Preguntas sobre la edad
-        reglas.add(new Regla(11, new ArrayList<String>(Arrays.asList("Old", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
->>>>>>> Stashed changes
 
     }
     
