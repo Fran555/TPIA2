@@ -1,5 +1,7 @@
 package respuestas;
 
+import voz.TextToSpeech;
+
 public class AdvertirNoResponder extends Respuesta {
     
     //Repeticion de las mismas palabras claves a partir de la cual cambia la respuesta (a la n repeticion ya cambia)
@@ -22,7 +24,7 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public void ejecutar(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            //Realmente lo importante en esta accion es el metodo toString(), este método no haría nada
+            TextToSpeech.hablar("Puedes no responder a esa pregunta...");
         }
         else{
             (new LlamarPadres()).ejecutar(repeticionesPC);

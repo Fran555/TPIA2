@@ -1,5 +1,7 @@
 package respuestas;
 
+import voz.TextToSpeech;
+
 public class Decir extends Respuesta {
     
     private String texto;
@@ -18,7 +20,7 @@ public class Decir extends Respuesta {
     
     @Override
     public void ejecutar(int repeticionesPC){
-        //Realmente lo importante en esta accion es el metodo toString(), este método no haría nada
+        TextToSpeech.hablar(texto);
     }
     
     @Override

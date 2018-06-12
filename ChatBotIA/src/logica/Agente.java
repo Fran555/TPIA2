@@ -196,12 +196,6 @@ public class Agente {
         palabras.put("What", "What");
         palabras.put("What’s", "What");
         palabras.put("Which", "What");
-<<<<<<< Updated upstream
-       
-
-
-=======
->>>>>>> Stashed changes
 
         palabras.put("Born", "Born");
         palabras.put("Live", "Live");
@@ -213,15 +207,12 @@ public class Agente {
         palabras.put("Tutor", "Teacher");
         palabras.put("Class", "Class");
         palabras.put("Fun", "Fun");
-<<<<<<< Updated upstream
-=======
+
         palabras.put("Bank", "Bank");
         palabras.put("Save", "Save");
         palabras.put("Saving", "Save");
         palabras.put("Saved", "Save");
         
->>>>>>> Stashed changes
-
         palabras.put("Store", "Store");
         palabras.put("Boutique", "Store");
         palabras.put("Market", "Store");

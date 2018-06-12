@@ -9,6 +9,8 @@ import logica.Agente;
 import logica.PreProcesador;
 import logica.Utils;
 import respuestas.Respuesta;
+import voz.SpeechToText;
+import voz.TextToSpeech;
 
 public class InterfazPorVoz extends javax.swing.JFrame {
 
@@ -18,8 +20,6 @@ public class InterfazPorVoz extends javax.swing.JFrame {
         initComponents();
         
         agente = new Agente();
-        
-        this.decirRespuesta("Puedes no responder a esa pregunta.");
     }
 
     /**
@@ -32,14 +32,22 @@ public class InterfazPorVoz extends javax.swing.JFrame {
     private void initComponents() {
 
         btnHablar = new javax.swing.JButton();
+        btnLogs = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
         setTitle("ChatBot");
 
-        btnHablar.setText("Hablar");
+        btnHablar.setText("Activar");
         btnHablar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnHablarActionPerformed(evt);
+            }
+        });
+
+        btnLogs.setText("Logs");
+        btnLogs.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnLogsActionPerformed(evt);
             }
         });
 
@@ -48,39 +56,52 @@ public class InterfazPorVoz extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(btnHablar)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addGap(51, 51, 51)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(btnHablar)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(5, 5, 5)
+                        .addComponent(btnLogs)))
+                .addContainerGap(56, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
+                .addGap(27, 27, 27)
                 .addComponent(btnHablar)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addGap(8, 8, 8)
+                .addComponent(btnLogs)
+                .addContainerGap(26, Short.MAX_VALUE))
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnHablarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHablarActionPerformed
-        String hablado = this.reconocerEntrada();
-        obtenerRespuestas(hablado);
+        String hablado;
+        while(true){
+            do{
+                hablado = this.reconocerEntrada();
+            }
+            while(hablado.equals(""));
+            obtenerRespuestas(hablado);
+        }
     }//GEN-LAST:event_btnHablarActionPerformed
+
+    private void btnLogsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLogsActionPerformed
+        (new Logs(agente)).show();
+    }//GEN-LAST:event_btnLogsActionPerformed
     
     private String reconocerEntrada(){
         String respuesta = "";
         try{
-            //TODO: Hacer metodo
+            respuesta = SpeechToText.obtenerTexto();
+            System.out.println(respuesta);
         }
         catch(Exception ex){
             ex.printStackTrace();
         }
         return respuesta;
-    }
-    
-    private void decirRespuesta(String respuesta){
-        //TODO: Hacer metodo
     }
     
     private void obtenerRespuestas(String textoEntrada){
@@ -90,7 +111,6 @@ public class InterfazPorVoz extends javax.swing.JFrame {
                 for(Respuesta respuesta : agente.generarRespuesta(textoEntrada)){
                     repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), PreProcesador.obtenerPalabras(textoEntrada));
                     respuesta.ejecutar(repeticionesPalabrasClaves);
-                    this.decirRespuesta(respuesta.toString(repeticionesPalabrasClaves));
                 }
             }
         }
@@ -101,5 +121,6 @@ public class InterfazPorVoz extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnHablar;
+    private javax.swing.JButton btnLogs;
     // End of variables declaration//GEN-END:variables
 }
