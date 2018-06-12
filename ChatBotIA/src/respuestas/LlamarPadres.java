@@ -13,7 +13,7 @@ public class LlamarPadres extends Respuesta {
     
     @Override
     public String toString(int repeticionesPC){
-        return "Llamando padres...";
+        return "Calling parents...";
     }
     
 }

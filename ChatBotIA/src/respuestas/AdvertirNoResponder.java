@@ -24,7 +24,7 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public void ejecutar(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            TextToSpeech.hablar("Puedes no responder a esa pregunta...");
+            TextToSpeech.hablar("You might not answer this...");
         }
         else{
             (new LlamarPadres()).ejecutar(repeticionesPC);
@@ -34,7 +34,7 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public String toString(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            return "Puedes no responder a esa pregunta...";
+            return "You might not answer this...";
         }
         else{
             return (new LlamarPadres()).toString(repeticionesPC);
