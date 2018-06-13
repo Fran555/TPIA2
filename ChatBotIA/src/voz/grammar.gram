@@ -1,4 +1,8 @@
 #JSGF V1.0;
 grammar sentence;
  
+public <personales> = (you | your | my | me | I);
+
 public <saludos> = (hi | hello);
+
+public <nombres> = (name | Federico);
