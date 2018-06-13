@@ -9,6 +9,10 @@ import edu.cmu.sphinx.frontend.util.Microphone;
 import edu.cmu.sphinx.recognizer.Recognizer;
 import edu.cmu.sphinx.result.Result;
 import edu.cmu.sphinx.util.props.ConfigurationManager;
+import logica.Agente;
+import logica.PreProcesador;
+import logica.Utils;
+import respuestas.Respuesta;
 
 public class SpeechToText {
     
@@ -16,7 +20,7 @@ public class SpeechToText {
     private static Recognizer recognizer;
     private static Microphone microphone;
     
-    public static String obtenerTexto(){
+    public static void obtenerTexto(Agente agente){
         String respuesta = "";
         try{
             if(cm == null && recognizer == null){
@@ -31,13 +35,22 @@ public class SpeechToText {
                     recognizer.deallocate();
                 }
                 else{
-                    Result result = recognizer.recognize();
+                    
+                    while (true) {
 
-                    if (result != null) {
-                        respuesta = result.getBestFinalResultNoFiller();
-                    }
-                    else {
-                        System.out.println("No se ha podido entender lo que has dicho.");
+                        Result result = recognizer.recognize();
+
+                        if (result != null) {
+                            respuesta = result.getBestFinalResultNoFiller();
+                            if(respuesta != ""){
+                                SpeechToText.obtenerRespuestas(agente, respuesta);
+                            }
+                            System.out.println("You said: " + respuesta + '\n');
+                        }
+                        else {
+                            System.out.println("No se ha podido entender lo que has dicho.");
+                        }
+                    
                     }
                 }
             }
@@ -47,7 +60,22 @@ public class SpeechToText {
             recognizer.deallocate();
             ex.printStackTrace();
         }
-        return respuesta;
+    }
+    
+    
+    private static void obtenerRespuestas(Agente agente, String textoEntrada){
+        try{
+            if(!textoEntrada.trim().equals("")){
+                int repeticionesPalabrasClaves;
+                for(Respuesta respuesta : agente.generarRespuesta(textoEntrada)){
+                    repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), PreProcesador.obtenerPalabras(textoEntrada));
+                    respuesta.ejecutar(repeticionesPalabrasClaves);
+                }
+            }
+        }
+        catch(Exception ex){
+            ex.printStackTrace();
+        }
     }
     
 }

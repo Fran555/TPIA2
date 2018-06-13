@@ -78,46 +78,18 @@ public class InterfazPorVoz extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnHablarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHablarActionPerformed
-        String hablado;
-        while(true){
-            do{
-                hablado = this.reconocerEntrada();
-            }
-            while(hablado.equals(""));
-            obtenerRespuestas(hablado);
+        try{
+            SpeechToText.obtenerTexto(agente);
+        }
+        catch(Exception ex){
+            ex.printStackTrace();
         }
     }//GEN-LAST:event_btnHablarActionPerformed
 
     private void btnLogsActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLogsActionPerformed
         (new Logs(agente)).show();
     }//GEN-LAST:event_btnLogsActionPerformed
-    
-    private String reconocerEntrada(){
-        String respuesta = "";
-        try{
-            respuesta = SpeechToText.obtenerTexto();
-            System.out.println(respuesta);
-        }
-        catch(Exception ex){
-            ex.printStackTrace();
-        }
-        return respuesta;
-    }
-    
-    private void obtenerRespuestas(String textoEntrada){
-        try{
-            if(!textoEntrada.trim().equals("")){
-                int repeticionesPalabrasClaves;
-                for(Respuesta respuesta : agente.generarRespuesta(textoEntrada)){
-                    repeticionesPalabrasClaves = Utils.obtenerRepeticionesPalabrasClaves(agente.getReglaDatoUsadas(), PreProcesador.obtenerPalabras(textoEntrada));
-                    respuesta.ejecutar(repeticionesPalabrasClaves);
-                }
-            }
-        }
-        catch(Exception ex){
-            ex.printStackTrace();
-        }
-    }
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnHablar;

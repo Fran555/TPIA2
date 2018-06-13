@@ -1,4 +1,4 @@
 #JSGF V1.0;
 grammar sentence;
  
-public <saludos> = (close|open|dog|cat);
+public <saludos> = (hi | hello);
