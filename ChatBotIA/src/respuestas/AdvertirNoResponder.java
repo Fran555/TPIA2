@@ -1,5 +1,6 @@
 package respuestas;
 
+import java.util.Random;
 import voz.TextToSpeech;
 
 public class AdvertirNoResponder extends Respuesta {
@@ -24,7 +25,12 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public void ejecutar(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            TextToSpeech.hablar("You might not answer this...");
+            if(generateRandomResponse()){
+                TextToSpeech.hablar( "Hey! Don't answer that! This is our secret!");
+            }
+            else{
+                TextToSpeech.hablar("You really should not answer that, kid!");
+            }
         }
         else{
             (new LlamarPadres()).ejecutar(repeticionesPC);
@@ -34,11 +40,23 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public String toString(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            return "You might not answer this...";
+            if(generateRandomResponse()){
+                return "Hey! Don't answer that! This is our secret!";
+            }
+            else{
+                return "You really should not tell that, kid!";
+            }
         }
         else{
             return (new LlamarPadres()).toString(repeticionesPC);
         }
     }
     
+    private boolean generateRandomResponse(){
+        double rangeMin = 0.0f;
+        double rangeMax = 1.0f;
+        Random r = new Random();
+        double createdRanNum = rangeMin + (rangeMax - rangeMin) * r.nextDouble();
+        return(createdRanNum > 0.5);
+    }
 }
