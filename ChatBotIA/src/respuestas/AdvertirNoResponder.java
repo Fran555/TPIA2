@@ -9,11 +9,31 @@ public class AdvertirNoResponder extends Respuesta {
     private static final int CANTIDAD_REPETICIONES_LIMITE = 3;
     
     private String texto;
+    private boolean fraseElegida;
+
+
 
     public AdvertirNoResponder() {
-
+    
+        this.fraseElegida = this.generateRandomResponse();
+        
+        if(fraseElegida){
+            this.texto = "Hey! Don't answer that! This is our secret!";
+        }
+        else{
+            this.texto = "You really should not answer that, kid!";
+        }
+        
+    }
+    
+    public boolean isFraseElegida() {
+        return fraseElegida;
     }
 
+    public void setFraseElegida(boolean fraseElegida) {
+        this.fraseElegida = fraseElegida;
+    }
+    
     public String getTexto() {
         return texto;
     }
@@ -25,12 +45,7 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public void ejecutar(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            if(generateRandomResponse()){
-                TextToSpeech.hablar( "Hey! Don't answer that! This is our secret!");
-            }
-            else{
-                TextToSpeech.hablar("You really should not answer that, kid!");
-            }
+            TextToSpeech.hablar(this.texto);
         }
         else{
             (new LlamarPadres()).ejecutar(repeticionesPC);
@@ -40,12 +55,7 @@ public class AdvertirNoResponder extends Respuesta {
     @Override
     public String toString(int repeticionesPC){
         if(repeticionesPC < CANTIDAD_REPETICIONES_LIMITE){
-            if(generateRandomResponse()){
-                return "Hey! Don't answer that! This is our secret!";
-            }
-            else{
-                return "You really should not tell that, kid!";
-            }
+            return this.texto;
         }
         else{
             return (new LlamarPadres()).toString(repeticionesPC);

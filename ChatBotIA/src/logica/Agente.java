@@ -278,7 +278,6 @@ public class Agente {
         reglas.add(new Regla(3, new ArrayList<String>(Arrays.asList("Parent", "Job")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         
         //Dónde te vas después de...
-        reglas.add(new Regla(4, new ArrayList<String>(Arrays.asList("Go", "Where")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(5, new ArrayList<String>(Arrays.asList("Go", "Where", "After")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(6, new ArrayList<String>(Arrays.asList("Go", "After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
         reglas.add(new Regla(7, new ArrayList<String>(Arrays.asList("After", "School")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 2));
