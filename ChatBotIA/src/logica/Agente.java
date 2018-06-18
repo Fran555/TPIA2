@@ -51,14 +51,15 @@ public class Agente {
         palabras.put("Going", "Go");
         
         //Ubicación geográfica
+        palabras.put("Place", "Place");
         palabras.put("Holiday", "Place");
         palabras.put("Holidays", "Place");
-        palabras.put("Place", "Place");
         palabras.put("Vacation", "Place");
-        palabras.put("Where", "Place");
+        palabras.put("Where", "Where");
         palabras.put("Kindergarten", "School");
         palabras.put("Middle School", "School");
         palabras.put("High School", "School");
+        palabras.put("School", "School");
         palabras.put("Town", "Town");
         palabras.put("City", "Town");
         palabras.put("Province", "Town");
@@ -214,7 +215,7 @@ public class Agente {
         palabras.put("Born", "Born");
         palabras.put("Live", "Live");
         palabras.put("Lives", "Live");
-        palabras.put("School", "School");
+
 
         palabras.put("Grade", "Grade");
         palabras.put("Teacher", "Teacher");
@@ -315,7 +316,7 @@ public class Agente {
         reglas.add(new Regla(34, new ArrayList<String>(Arrays.asList("Friend", "Name", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(35, new ArrayList<String>(Arrays.asList("Friend", "Name", "Your")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         reglas.add(new Regla(36, new ArrayList<String>(Arrays.asList("Family", "Live", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
-        reglas.add(new Regla(37, new ArrayList<String>(Arrays.asList("School", "Where", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(37, new ArrayList<String>(Arrays.asList("Place", "Where", "Your")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(38, new ArrayList<String>(Arrays.asList("Born", "Where", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(39, new ArrayList<String>(Arrays.asList("How", "Old", "Family")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(40, new ArrayList<String>(Arrays.asList("How", "Old", "Friend")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
@@ -323,6 +324,7 @@ public class Agente {
         reglas.add(new Regla(42, new ArrayList<String>(Arrays.asList("Where", "School", "Is")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(43, new ArrayList<String>(Arrays.asList("Family", "Has", "Store")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
         reglas.add(new Regla(44, new ArrayList<String>(Arrays.asList("Where", "Family", "Store")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
+        reglas.add(new Regla(53, new ArrayList<String>(Arrays.asList("Where", "Live", "You")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 2));
 
         //Integridad física y personal del niño
         reglas.add(new Regla(45, new ArrayList<String>(Arrays.asList("Sex", "Have", "You")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
@@ -332,7 +334,7 @@ public class Agente {
         reglas.add(new Regla(49, new ArrayList<String>(Arrays.asList("Show", "Naked")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         reglas.add(new Regla(50, new ArrayList<String>(Arrays.asList("Show", "Sex")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
         reglas.add(new Regla(51, new ArrayList<String>(Arrays.asList("Name", "Teacher")), new ArrayList<Respuesta>(Arrays.asList(new AdvertirNoResponder())), 1));
-
+        reglas.add(new Regla(52, new ArrayList<String>(Arrays.asList("Drug", "Want", "You")), new ArrayList<Respuesta>(Arrays.asList(new LlamarPadres())), 1));
     }
     
     /**
